@@ -51,6 +51,8 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
+[👉 Complete history news 👈](./historynews.md)
+
 ### 2025-06-26
 
 **[Matrix-Game: Interactive World Foundation Model](https://arxiv.org/abs/2506.18701)**
@@ -93,6 +95,8 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
+[👉 Complete history news 👈](./historynews.md)
+
 ### 2025-06-25
 
 **[OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871)**
@@ -116,6 +120,8 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 ---
 
 
+
+[👉 Complete history news 👈](./historynews.md)
 
 ### 2025-06-24
 
@@ -160,3 +166,5 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 ---
 
 
+
+[👉 Complete history news 👈](./historynews.md)
