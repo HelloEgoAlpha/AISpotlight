@@ -51,7 +51,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[👉 Complete history news 👈](./historynews.md)
+[👉 Complete history news 👈](./history/README.md)
 
 ### 2025-06-26
 
@@ -95,7 +95,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[👉 Complete history news 👈](./historynews.md)
+[👉 Complete history news 👈](./history/README.md)
 
 ### 2025-06-25
 
@@ -121,7 +121,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[👉 Complete history news 👈](./historynews.md)
+[👉 Complete history news 👈](./history/README.md)
 
 ### 2025-06-24
 
@@ -167,4 +167,4 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[👉 Complete history news 👈](./historynews.md)
+[👉 Complete history news 👈](./history/README.md)
