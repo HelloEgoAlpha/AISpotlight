@@ -11,51 +11,49 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2025-07-03
+### 2025-06-28
 
-**[GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)**
+**[Vine Copulas as Differentiable Computational Graphs](https://arxiv.org/abs/2506.13318)**
 
-*Wenyi Hong,Wenmeng Yu,Xiaotao Gu,Guo Wang,Guobing Gan,Haomiao Tang,Jiale Cheng,Ji Qi,Junhui Ji,Lihang Pan,Shuaiqi Duan,Weihan Wang,Yan Wang,Yean Cheng,Zehai He,Zhe Su,Zhen Yang,Ziyang Pan,Aohan Zeng,Baoxu Wang,Boyan Shi,Changyu Pang,Chenhui Zhang,Da Yin,Fan Yang,Guoqing Chen,Jiazheng Xu,Jiali Chen,Jing Chen,Jinhao Chen,Jinghao Lin,Jinjiang Wang,Junjie Chen,Leqi Lei,Leyi Pan,Mingzhi Zhang,Qinkai Zheng,Sheng Yang,Shi Zhong,Shiyu Huang,Shuyuan Zhao,Siyan Xue,Shangqin Tu,Shengbiao Meng,Tianshu Zhang,Tianwei Luo,Tianxiang Hao,Tianle Gong,Wenkai Li,Wei Jia,Xin Lyu,Xuancheng Huang,Yanling Wang,Yadong Xue,Yanfeng Wang,Yifan An,Yifan Du,Yiming Shi,Yiheng Huang,Yilin Niu,Yuan Wang,Yuanchang Yue,Yuchen Li,Yutao Zhang,Yuxuan Zhang,Zhanxiao Du,Zhenyu Hou,Zhao Xue,Zhengxiao Du,Zihan Wang,Peng Zhang,Debing Liu,Bin Xu,Juanzi Li,Minlie Huang,Yuxiao Dong,Jie Tang*
+*Tuoyuan Cheng,Thibault Vatter,Thomas Nagler,Kan Chen*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-15-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
-
----
-
-**[JointRank: Rank Large Set with Single Pass](https://arxiv.org/abs/2506.22262)**
-
-*Evgeny Dedov*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/V3RGANz/jointrank)
+[![](https://img.shields.io/badge/GitHub%20Stars-218-blue)](https://github.com/TY-Cheng/torchvinecopulib)
 
 ---
 
+**[MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)**
 
+*Jinming Wu,Zihao Deng,Wei Li,Yiding Liu,Bo You,Bo Li,Zejun Ma,Ziwei Liu*
 
-### 2025-07-02
-
-**[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**
-
-*Bo Liu,Leon Guertler,Simon Yu,Zichen Liu,Penghui Qi,Daniel Balcells,Mickel Liu,Cheston Tan,Weiyan Shi,Min Lin,Wee Sun Lee,Natasha Jaques*
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
-**[JointRank: Rank Large Set with Single Pass](https://arxiv.org/abs/2506.22262)**
+**[DETRPose: Real-time end-to-end transformer model for multi-person pose estimation](https://arxiv.org/abs/2506.13027)**
 
-*Evgeny Dedov*
+*Sebastian Janampa,Marios Pattichis*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/V3RGANz/jointrank)
+[![](https://img.shields.io/badge/GitHub%20Stars-10-blue)](https://github.com/SebastianJanampa/DETRPose)
 
 ---
 
 
 
-### 2025-07-01
+### 2025-06-27
 
-**[XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation](https://arxiv.org/abs/2506.21416)**
+**[Vine Copulas as Differentiable Computational Graphs](https://arxiv.org/abs/2506.13318)**
 
-*Bowen Chen,Mengyi Zhao,Haomiao Sun,Li Chen,Xu Wang,Kang Du,Xinglong Wu*
+*Tuoyuan Cheng,Thibault Vatter,Thomas Nagler,Kan Chen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-108-blue)](https://github.com/bytedance/xverse) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-214-blue)](https://github.com/TY-Cheng/torchvinecopulib)
+
+---
+
+**[DETRPose: Real-time end-to-end transformer model for multi-person pose estimation](https://arxiv.org/abs/2506.13027)**
+
+*Sebastian Janampa,Marios Pattichis*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-9-blue)](https://github.com/SebastianJanampa/DETRPose)
 
 ---
 
