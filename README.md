@@ -11,49 +11,51 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2025-06-27
+### 2025-07-03
 
-**[Vine Copulas as Differentiable Computational Graphs](https://arxiv.org/abs/2506.13318)**
+**[GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)**
 
-*Tuoyuan Cheng,Thibault Vatter,Thomas Nagler,Kan Chen*
+*Wenyi Hong,Wenmeng Yu,Xiaotao Gu,Guo Wang,Guobing Gan,Haomiao Tang,Jiale Cheng,Ji Qi,Junhui Ji,Lihang Pan,Shuaiqi Duan,Weihan Wang,Yan Wang,Yean Cheng,Zehai He,Zhe Su,Zhen Yang,Ziyang Pan,Aohan Zeng,Baoxu Wang,Boyan Shi,Changyu Pang,Chenhui Zhang,Da Yin,Fan Yang,Guoqing Chen,Jiazheng Xu,Jiali Chen,Jing Chen,Jinhao Chen,Jinghao Lin,Jinjiang Wang,Junjie Chen,Leqi Lei,Leyi Pan,Mingzhi Zhang,Qinkai Zheng,Sheng Yang,Shi Zhong,Shiyu Huang,Shuyuan Zhao,Siyan Xue,Shangqin Tu,Shengbiao Meng,Tianshu Zhang,Tianwei Luo,Tianxiang Hao,Tianle Gong,Wenkai Li,Wei Jia,Xin Lyu,Xuancheng Huang,Yanling Wang,Yadong Xue,Yanfeng Wang,Yifan An,Yifan Du,Yiming Shi,Yiheng Huang,Yilin Niu,Yuan Wang,Yuanchang Yue,Yuchen Li,Yutao Zhang,Yuxuan Zhang,Zhanxiao Du,Zhenyu Hou,Zhao Xue,Zhengxiao Du,Zihan Wang,Peng Zhang,Debing Liu,Bin Xu,Juanzi Li,Minlie Huang,Yuxiao Dong,Jie Tang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-214-blue)](https://github.com/TY-Cheng/torchvinecopulib)
+![](https://img.shields.io/badge/Twitter%20Mentions-15-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
+
+---
+
+**[JointRank: Rank Large Set with Single Pass](https://arxiv.org/abs/2506.22262)**
+
+*Evgeny Dedov*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/V3RGANz/jointrank)
 
 ---
 
 
 
-### 2025-06-24
+### 2025-07-02
 
-**[Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material](https://arxiv.org/abs/2506.15442)**
+**[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**
 
-*Team Hunyuan3D,Shuhui Yang,Mingxin Yang,Yifei Feng,Xin Huang,Sheng Zhang,Zebin He,Di Luo,Haolin Liu,Yunfei Zhao,Qingxiang Lin,Zeqiang Lai,Xianghui Yang,Huiwen Shi,Zibo Zhao,Bowen Zhang,Hongyu Yan,Lifu Wang,Sicong Liu,Jihong Zhang,Meng Chen,Liang Dong,Yiwen Jia,Yulin Cai,Jiaao Yu,Yixuan Tang,Dongyuan Guo,Junlin Yu,Hao Zhang,Zheng Ye,Peng He,Runzhou Wu,Shida Wei,Chao Zhang,Yonghao Tan,Yifu Sun,Lin Niu,Shirui Huang,Bojian Zheng,Shu Liu,Shilin Chen,Xiang Yuan,Xiaofeng Yang,Kai Liu,Jianchen Zhu,Peng Chen,Tian Liu,Di Wang,Yuhong Liu,Linus,Jie Jiang,Jingwei Huang,Chunchao Guo*
-
-![](https://img.shields.io/badge/Citations-1-9cf) [![](https://img.shields.io/badge/GitHub%20Stars-1,231-blue)](https://github.com/tencent-hunyuan/hunyuan3d-2.1) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+*Bo Liu,Leon Guertler,Simon Yu,Zichen Liu,Penghui Qi,Daniel Balcells,Mickel Liu,Cheston Tan,Weiyan Shi,Min Lin,Wee Sun Lee,Natasha Jaques*
 
 ---
 
-**[Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564)**
+**[JointRank: Rank Large Set with Single Pass](https://arxiv.org/abs/2506.22262)**
 
-*Jinheng Xie,Zhenheng Yang,Mike Zheng Shou*
+*Evgeny Dedov*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,500-blue)](https://github.com/showlab/show-o) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
-
----
-
-**[Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights](https://arxiv.org/abs/2506.16406)**
-
-*Zhiyuan Liang,Dongwen Tang,Yuhao Zhou,Xuanlei Zhao,Mingjia Shi,Wangbo Zhao,Zekai Li,Peihao Wang,Konstantin Schürholt,Damian Borth,Michael M. Bronstein,Yang You,Zhangyang Wang,Kai Wang*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/V3RGANz/jointrank)
 
 ---
 
-**[SonicVerse: Multi-Task Learning for Music Feature-Informed Captioning](https://arxiv.org/abs/2506.15154)**
 
-*Anuradha Chopra,Abhinaba Roy,Dorien Herremans*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-34-blue)](https://github.com/amaai-lab/sonicverse)
+### 2025-07-01
+
+**[XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation](https://arxiv.org/abs/2506.21416)**
+
+*Bowen Chen,Mengyi Zhao,Haomiao Sun,Li Chen,Xu Wang,Kang Du,Xinglong Wu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-108-blue)](https://github.com/bytedance/xverse) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
