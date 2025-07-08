@@ -11,6 +11,24 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2025-07-04
+
+**[ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing](https://arxiv.org/abs/2506.21448)**
+
+*Huadai Liu,Jialei Wang,Kaicheng Luo,Wen Wang,Qian Chen,Zhou Zhao,Wei Xue*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-177-blue)](https://github.com/FunAudioLLM/ThinkSound) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**
+
+*Bo Liu,Leon Guertler,Simon Yu,Zichen Liu,Penghui Qi,Daniel Balcells,Mickel Liu,Cheston Tan,Weiyan Shi,Min Lin,Wee Sun Lee,Natasha Jaques*
+
+---
+
+
+
 ### 2025-07-03
 
 **[GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)**
@@ -21,14 +39,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[JointRank: Rank Large Set with Single Pass](https://arxiv.org/abs/2506.22262)**
-
-*Evgeny Dedov*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/V3RGANz/jointrank)
-
----
-
 
 
 ### 2025-07-02
@@ -36,14 +46,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**
 
 *Bo Liu,Leon Guertler,Simon Yu,Zichen Liu,Penghui Qi,Daniel Balcells,Mickel Liu,Cheston Tan,Weiyan Shi,Min Lin,Wee Sun Lee,Natasha Jaques*
-
----
-
-**[JointRank: Rank Large Set with Single Pass](https://arxiv.org/abs/2506.22262)**
-
-*Evgeny Dedov*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/V3RGANz/jointrank)
 
 ---
 
