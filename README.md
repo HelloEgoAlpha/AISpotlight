@@ -11,45 +11,43 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2025-07-01
+### 2025-07-04
 
-**[XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation](https://arxiv.org/abs/2506.21416)**
+**[ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing](https://arxiv.org/abs/2506.21448)**
 
-*Bowen Chen,Mengyi Zhao,Haomiao Sun,Li Chen,Xu Wang,Kang Du,Xinglong Wu*
+*Huadai Liu,Jialei Wang,Kaicheng Luo,Wen Wang,Qian Chen,Zhou Zhao,Wei Xue*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-108-blue)](https://github.com/bytedance/xverse) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-
-
-### 2025-06-28
-
-**[Vine Copulas as Differentiable Computational Graphs](https://arxiv.org/abs/2506.13318)**
-
-*Tuoyuan Cheng,Thibault Vatter,Thomas Nagler,Kan Chen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-218-blue)](https://github.com/TY-Cheng/torchvinecopulib)
+[![](https://img.shields.io/badge/GitHub%20Stars-177-blue)](https://github.com/FunAudioLLM/ThinkSound) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
-**[MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)**
+**[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**
 
-*Jinming Wu,Zihao Deng,Wei Li,Yiding Liu,Bo You,Bo Li,Zejun Ma,Ziwei Liu*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+*Bo Liu,Leon Guertler,Simon Yu,Zichen Liu,Penghui Qi,Daniel Balcells,Mickel Liu,Cheston Tan,Weiyan Shi,Min Lin,Wee Sun Lee,Natasha Jaques*
 
 ---
 
+**[MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation](https://arxiv.org/abs/2506.23151)**
 
+*Vladislav Bargatin,Egor Chistov,Alexander Yakovenko,Dmitriy Vatolin*
 
-### 2025-06-27
+[![](https://img.shields.io/badge/GitHub%20Stars-28-blue)](https://github.com/msu-video-group/memfof)
 
-**[Vine Copulas as Differentiable Computational Graphs](https://arxiv.org/abs/2506.13318)**
+---
 
-*Tuoyuan Cheng,Thibault Vatter,Thomas Nagler,Kan Chen*
+**[JointRank: Rank Large Set with Single Pass](https://arxiv.org/abs/2506.22262)**
 
-[![](https://img.shields.io/badge/GitHub%20Stars-214-blue)](https://github.com/TY-Cheng/torchvinecopulib)
+*Evgeny Dedov*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/V3RGANz/jointrank)
+
+---
+
+**[Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs](https://arxiv.org/abs/2506.17080)**
+
+*Ricardo Rei,Nuno M. Guerreiro,José Pombal,João Alves,Pedro Teixeirinha,Amin Farajian,André F. T. Martins*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
