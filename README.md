@@ -11,6 +11,46 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2025-07-10
+
+**[A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2506.24044)**
+
+*Sicong Jiang,Zilin Huang,Kangan Qian,Ziang Luo,Tianze Zhu,Yang Zhong,Yihong Tang,Menglin Kong,Yunlong Wang,Siwen Jiao,Hao Ye,Zihao Sheng,Xin Zhao,Tuopu Wen,Zheng Fu,Sikai Chen,Kun Jiang,Diange Yang,Seongjin Choi,Lijun Sun*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+
+---
+
+**[First Return, Entropy-Eliciting Explore](https://arxiv.org/abs/2507.07017)**
+
+*Tianyu Zheng,Tianshun Xing,Qingshui Gu,Taoran Liang,Xingwei Qu,Xin Zhou,Yizhi Li,Zhoufutu Wen,Chenghua Lin,Wenhao Huang,Qian Liu,Ge Zhang,Zejun Ma*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-4-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://arxiv.org/abs/2507.07095)**
+
+*Ke Fan,Shunlin Lu,Minyue Dai,Runyi Yu,Lixing Xiao,Zhiyang Dou,Junting Dong,Lizhuang Ma,Jingbo Wang*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness](https://arxiv.org/abs/2507.01702)**
+
+*Zixin Chen,Hongzhan Lin,Kaixin Li,Ziyang Luo,Zhen Ye,Guang Chen,Zhiyong Huang,Jing Ma*
+
+---
+
+**[ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455)**
+
+*Ashima Suvarna,Christina Chance,Karolina Naranjo,Hamid Palangi,Sophie Hao,Thomas Hartvigsen,Saadia Gabriel*
+
+---
+
+
+
 ### 2025-07-09
 
 **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**
