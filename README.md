@@ -11,85 +11,61 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2025-07-10
+### 2025-07-14 17:26:59.001321
 
-**[A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2506.24044)**
+**[Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)**
 
-*Sicong Jiang,Zilin Huang,Kangan Qian,Ziang Luo,Tianze Zhu,Yang Zhong,Yihong Tang,Menglin Kong,Yunlong Wang,Siwen Jiao,Hao Ye,Zihao Sheng,Xin Zhao,Tuopu Wen,Zheng Fu,Sikai Chen,Kun Jiang,Diange Yang,Seongjin Choi,Lijun Sun*
+*Yukang Chen,Wei Huang,Baifeng Shi,Qinghao Hu,Hanrong Ye,Ligeng Zhu,Zhijian Liu,Pavlo Molchanov,Jan Kautz,Xiaojuan Qi,Sifei Liu,Hongxu Yin,Yao Lu,Song Han*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
-
----
-
-**[First Return, Entropy-Eliciting Explore](https://arxiv.org/abs/2507.07017)**
-
-*Tianyu Zheng,Tianshun Xing,Qingshui Gu,Taoran Liang,Xingwei Qu,Xin Zhou,Yizhi Li,Zhoufutu Wen,Chenghua Lin,Wenhao Huang,Qian Liu,Ge Zhang,Zejun Ma*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-4-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data](https://arxiv.org/abs/2507.07095)**
-
-*Ke Fan,Shunlin Lu,Minyue Dai,Runyi Yu,Lixing Xiao,Zhiyang Dou,Junting Dong,Lizhuang Ma,Jingbo Wang*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness](https://arxiv.org/abs/2507.01702)**
-
-*Zixin Chen,Hongzhan Lin,Kaixin Li,Ziyang Luo,Zhen Ye,Guang Chen,Zhiyong Huang,Jing Ma*
-
----
-
-**[ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455)**
-
-*Ashima Suvarna,Christina Chance,Karolina Naranjo,Hamid Palangi,Sophie Hao,Thomas Hartvigsen,Saadia Gabriel*
+![](https://img.shields.io/badge/Twitter%20Mentions-3-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-401-blue)](https://github.com/NVlabs/Long-RL) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
 ---
 
 
 
-### 2025-07-09
+### 2025-07-14 17:26:59.001176
 
-**[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**
+**[Dynamic Chunking for End-to-End Hierarchical Sequence Modeling](https://arxiv.org/abs/2507.07955)**
 
-*Bo Liu,Leon Guertler,Simon Yu,Zichen Liu,Penghui Qi,Daniel Balcells,Mickel Liu,Cheston Tan,Weiyan Shi,Min Lin,Wee Sun Lee,Natasha Jaques*
+*Sukjun Hwang,Brandon Wang,Albert Gu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-94-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[Ovis-U1 Technical Report](https://arxiv.org/abs/2506.23044)**
-
-*Guo-Hua Wang,Shanshan Zhao,Xinjie Zhang,Liangfu Cao,Pengxin Zhan,Lunhao Duan,Shiyin Lu,Minghao Fu,Xiaohao Chen,Jianshan Zhao,Yang Li,Qing-Guo Chen*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-3-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-40-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
-**[Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs](https://arxiv.org/abs/2506.17080)**
 
-*Ricardo Rei,Nuno M. Guerreiro,José Pombal,João Alves,Pedro Teixeirinha,Amin Farajian,André F. T. Martins*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-11-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+### 2025-07-14 17:26:58.997019
 
----
+**[EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora](https://arxiv.org/abs/2506.20963)**
 
-**[Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective](https://arxiv.org/abs/2506.17930)**
+*Fangyuan Zhang,Zhengjun Huang,Yingli Zhou,Qintian Guo,Zhixun Li,Wensheng Luo,Di Jiang,Yixiang Fang,Xiaofang Zhou*
 
-*Jianyu Wang,Zhiqiang Hu,Lidong Bing*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-6-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-5-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/everm0re/erarag-official)
 
 ---
 
-**[ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing](https://arxiv.org/abs/2506.21448)**
 
-*Huadai Liu,Jialei Wang,Kaicheng Luo,Wen Wang,Qian Chen,Zhou Zhao,Wei Xue*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+### 2025-07-14 17:26:58.996646
+
+**[FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920)**
+
+*Guilherme Penedo,Hynek Kydlíček,Vinko Sabolčec,Bettina Messmer,Negar Foroutan,Amir Hossein Kargaran,Colin Raffel,Martin Jaggi,Leandro Von Werra,Thomas Wolf*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-3-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-160-blue)](https://github.com/huggingface/fineweb-2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
+
+
+### 2025-07-14 17:26:58.996494
+
+**[FaSTA$^*$: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing](https://arxiv.org/abs/2506.20911)**
+
+*Advait Gupta,Rishie Raj,Dang Nguyen,Tianyi Zhou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/everm0re/erarag-official) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
