@@ -45,11 +45,11 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding](https://arxiv.org/abs/2507.07984)**
+**[Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)**
 
-*JingLi Lin,Chenming Zhu,Runsen Xu,Xiaohan Mao,Xihui Liu,Tai Wang,Jiangmiao Pang*
+*Yukang Chen,Wei Huang,Baifeng Shi,Qinghao Hu,Hanrong Ye,Ligeng Zhu,Zhijian Liu,Pavlo Molchanov,Jan Kautz,Xiaojuan Qi,Sifei Liu,Hongxu Yin,Yao Lu,Song Han*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/OpenRobotLab/OST-Bench) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-3-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-403-blue)](https://github.com/NVlabs/Long-RL) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
@@ -94,6 +94,18 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *Shaocong Dong,Lihe Ding,Xiao Chen,Yaokun Li,Yuxin Wang,Yucheng Wang,Qi Wang,Jaehyeok Kim,Chenjian Gao,Zhanpeng Huang,Zibin Wang,Tianfan Xue,Dan Xu*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-62-blue)](https://github.com/hkdsc/copart)
+
+---
+
+
+
+### 2024-07-14
+
+**[Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://arxiv.org/abs/2506.21252)**
+
+*Tianyi Men,Zhuoran Jin,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-3-blue)](https://github.com/quester-one/agent-rewardbench)
 
 ---
 
