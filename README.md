@@ -11,50 +11,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2025-51-13
-
-**[Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends](https://arxiv.org/abs/2506.20966)**
-
-*Tian-Yu Xiang,Ao-Qun Jin,Xiao-Hu Zhou,Mei-Jiang Gui,Xiao-Liang Xie,Shi-Qi Liu,Shuang-Yi Wang,Sheng-Bin Duan,Fu-Chao Xie,Wen-Kai Wang,Si-Cheng Wang,Ling-Yun Li,Tian Tu,Zeng-Guang Hou*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/aoqunjin/awesome-vla-post-training) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
-
----
-
-**[SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?](https://arxiv.org/abs/2507.05241)**
-
-*Jingyi Chai,Shuo Tang,Rui Ye,Yuwen Du,Xinyu Zhu,Mengcheng Zhou,Yanfeng Wang,Weinan E,Yuzhi Zhang,Linfeng Zhang,Siheng Chen*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
-
----
-
-**[T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://arxiv.org/abs/2507.05964)**
-
-*Vera Soboleva,Aibek Alanov,Andrey Kuznetsov,Konstantin Sobolev*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/ControlGenAI/T-LoRA) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
-**[LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS](https://arxiv.org/abs/2507.07136)**
-
-*Wanhua Li,Yujie Zhao,Minghan Qin,Yang Liu,Yuanhao Cai,Chuang Gan,Hanspeter Pfister*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-13-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/ZhaoYujie2002/LangSplatV2) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
-**[From One to More: Contextual Part Latents for 3D Generation](https://arxiv.org/abs/2507.08772)**
-
-*Shaocong Dong,Lihe Ding,Xiao Chen,Yaokun Li,Yuxin Wang,Yucheng Wang,Qi Wang,Jaehyeok Kim,Chenjian Gao,Zhanpeng Huang,Zibin Wang,Tianfan Xue,Dan Xu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/hkdsc/copart)
-
----
-
-
-
 ### 2025-07-14
 
 **[Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)**
@@ -94,6 +50,50 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *Fangyuan Zhang,Zhengjun Huang,Yingli Zhou,Qintian Guo,Zhixun Li,Wensheng Luo,Di Jiang,Yixiang Fang,Xiaofang Zhou*
 
 ![](https://img.shields.io/badge/Twitter%20Mentions-5-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/everm0re/erarag-official)
+
+---
+
+
+
+### 2025-07-13
+
+**[Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends](https://arxiv.org/abs/2506.20966)**
+
+*Tian-Yu Xiang,Ao-Qun Jin,Xiao-Hu Zhou,Mei-Jiang Gui,Xiao-Liang Xie,Shi-Qi Liu,Shuang-Yi Wang,Sheng-Bin Duan,Fu-Chao Xie,Wen-Kai Wang,Si-Cheng Wang,Ling-Yun Li,Tian Tu,Zeng-Guang Hou*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/aoqunjin/awesome-vla-post-training) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+**[SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?](https://arxiv.org/abs/2507.05241)**
+
+*Jingyi Chai,Shuo Tang,Rui Ye,Yuwen Du,Xinyu Zhu,Mengcheng Zhou,Yanfeng Wang,Weinan E,Yuzhi Zhang,Linfeng Zhang,Siheng Chen*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
+
+---
+
+**[T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://arxiv.org/abs/2507.05964)**
+
+*Vera Soboleva,Aibek Alanov,Andrey Kuznetsov,Konstantin Sobolev*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/ControlGenAI/T-LoRA) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+**[LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS](https://arxiv.org/abs/2507.07136)**
+
+*Wanhua Li,Yujie Zhao,Minghan Qin,Yang Liu,Yuanhao Cai,Chuang Gan,Hanspeter Pfister*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-13-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/ZhaoYujie2002/LangSplatV2) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+**[From One to More: Contextual Part Latents for 3D Generation](https://arxiv.org/abs/2507.08772)**
+
+*Shaocong Dong,Lihe Ding,Xiao Chen,Yaokun Li,Yuxin Wang,Yucheng Wang,Qi Wang,Jaehyeok Kim,Chenjian Gao,Zhanpeng Huang,Zibin Wang,Tianfan Xue,Dan Xu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/hkdsc/copart)
 
 ---
 
