@@ -13,6 +13,14 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2025-07-14
 
+**[Scaling RL to Long Videos](https://arxiv.org/abs/2507.07966)**
+
+*Yukang Chen,Wei Huang,Baifeng Shi,Qinghao Hu,Hanrong Ye,Ligeng Zhu,Zhijian Liu,Pavlo Molchanov,Jan Kautz,Xiaojuan Qi,Sifei Liu,Hongxu Yin,Yao Lu,Song Han*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-3-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-403-blue)](https://github.com/NVlabs/Long-RL) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+
+---
+
 **[Dynamic Chunking for End-to-End Hierarchical Sequence Modeling](https://arxiv.org/abs/2507.07955)**
 
 *Sukjun Hwang,Brandon Wang,Albert Gu*
@@ -42,14 +50,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *Fangyuan Zhang,Zhengjun Huang,Yingli Zhou,Qintian Guo,Zhixun Li,Wensheng Luo,Di Jiang,Yixiang Fang,Xiaofang Zhou*
 
 [![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/everm0re/erarag-official)
-
----
-
-**[OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding](https://arxiv.org/abs/2507.07984)**
-
-*JingLi Lin,Chenming Zhu,Runsen Xu,Xiaohan Mao,Xihui Liu,Tai Wang,Jiangmiao Pang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/OpenRobotLab/OST-Bench) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
