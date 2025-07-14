@@ -13,6 +13,22 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2025-07-14
 
+**[What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models](https://arxiv.org/abs/2507.06952)**
+
+*Keyon Vafa,Peter G. Chang,Ashesh Rambachan,Sendhil Mullainathan*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-31-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+**[OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding](https://arxiv.org/abs/2507.07984)**
+
+*JingLi Lin,Chenming Zhu,Runsen Xu,Xiaohan Mao,Xihui Liu,Tai Wang,Jiangmiao Pang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/OpenRobotLab/OST-Bench) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
 **[FaSTA$^*$: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing](https://arxiv.org/abs/2506.20911)**
 
 *Advait Gupta,Rishie Raj,Dang Nguyen,Tianyi Zhou*
@@ -111,4 +127,4 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[👉 Back to latest news 👈](../README.md)
+[👉 Back to latest news 👈](https://github.com/HelloEgoAlpha/AISpotlight)
