@@ -17,7 +17,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Dong Zhuo, Wenzhao Zheng, Jiahe Guo, Yuqi Wu, Jie Zhou, Jiwen Lu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-13-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-419-blue)](https://github.com/wzzheng/StreamVGGT) ![](https://img.shields.io/badge/Mendeley%20Readers-12-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-13-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Samyam Rajbhandari, Mert Hidayetoglu, Aurick Qiao, Ye Wang, Juncheng Yang, Jeff Rasley, Michael Wyatt, Yuxiong He*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-190-blue)](https://github.com/snowflakedb/arcticinference)
+[![](https://img.shields.io/badge/GitHub%20Stars-193-blue)](https://github.com/snowflakedb/arcticinference)
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Ziang Cao, Zhaoxi Chen, Liang Pan, Ziwei Liu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
 
 ---
 
@@ -49,7 +49,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Aryo Pradipta Gema, Alexander Hägele, Runjin Chen, Andy Arditi, Jacob Goldman-Wetzler, Kit Fraser-Taliente, Henry Sleight, Linda Petrini, Julian Michael, Beatrice Alex, Pasquale Minervini, Yanda Chen, Joe Benton, Ethan Perez*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-19-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-5-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-26-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-8-blue)](https://github.com/safety-research/inverse-scaling-ttc) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-5-green)
 
 ---
 
@@ -61,15 +61,13 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Xinyi He, Qian Liu, Mingzhe Du, Lin Yan, Zhijie Fan, Yiming Huang, Zejian Yuan, Zejun Ma*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-21-1DA1F2)
+![](https://img.shields.io/badge/Twitter%20Mentions-21-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-24-blue)](https://github.com/SWE-Perf/SWE-Perf)
 
 ---
 
 **[The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations](https://arxiv.org/abs/2507.13302)**
 
 *Carlos Arriaga, Gonzalo Martínez, Eneko Sendin, Javier Conde, Pedro Reviriego*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
@@ -81,7 +79,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, Zinan Tang, H. Vicky Zhao, Conghui He, Lijun Wu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-27-blue)](https://github.com/opendatalab/REST) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
@@ -109,7 +107,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Lingrui Mei, Jiayu Yao, Yuyao Ge, Yiwei Wang, Baolong Bi, Yujun Cai, Jiazhi Liu, Mingyu Li, Zhong-Zhi Li, Duzhen Zhang, Chenlin Zhou, Jiayi Mao, Tianze Xia, Jiafeng Guo, Shenghua Liu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-72-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-904-blue)](https://github.com/Meirtz/Awesome-Context-Engineering) ![](https://img.shields.io/badge/Mendeley%20Readers-18-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+![](https://img.shields.io/badge/Mendeley%20Readers-20-red)
 
 ---
 
@@ -121,7 +119,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Yangning Li, Weizhi Zhang, Yuyao Yang, Wei-Chieh Huang, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-23-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-23-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-192-blue)](https://github.com/DavidZWZ/Awesome-RAG-Reasoning) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
 
 ---
 
@@ -129,7 +127,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Yinsheng Li, Zhen Dong, Yi Shao*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-5-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-48-blue)](https://github.com/Eason-Li-AIS/DrafterBench) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-5-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
 
 ---
 
@@ -137,7 +135,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-14-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-8-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-14-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
 
 ---
 
@@ -149,7 +147,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Ziye Li, Hao Luo, Xincheng Shuai, Henghui Ding*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/FudanCVL/AnyI2V) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-94-blue)](https://github.com/FudanCVL/AnyI2V) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
@@ -157,7 +155,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Costas Mavromatis, Soji Adeshina, Vassilis N. Ioannidis, Zhen Han, Qi Zhu, Ian Robinson, Bryan Thompson, Huzefa Rangwala, George Karypis*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-234-blue)](https://github.com/awslabs/graphrag-toolkit)
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-235-blue)](https://github.com/awslabs/graphrag-toolkit)
 
 ---
 
@@ -173,7 +171,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Sangmin Bae, Yujin Kim, Reza Bayat, Sungnyun Kim, Jiyoun Ha, Tal Schuster, Adam Fisch, Hrayr Harutyunyan, Ziwei Ji, Aaron Courville, Se-Young Yun*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-51-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-12-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-58-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-13-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
 
 ---
 
@@ -181,7 +179,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Mingqi Wu, Zhihao Zhang, Qiaole Dong, Zhiheng Xi, Jun Zhao, Senjie Jin, Xiaoran Fan, Yuhao Zhou, Yanwei Fu, Qin Liu, Songyang Zhang, Qi Zhang*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-121-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-122-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-4-blue)](https://github.com/wumingqi/LLM-Math-Evaluation) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
@@ -193,7 +191,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Wei Shen, Jiangbo Pei, Yi Peng, Xuchen Song, Yang Liu, Jian Peng, Haofeng Sun, Yunzhuo Hao, Peiyu Wang, Jianhao Zhang, Yahui Zhou*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2,867-blue)](https://github.com/SkyworkAI/Skywork-R1V) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2,872-blue)](https://github.com/SkyworkAI/Skywork-R1V) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
@@ -209,7 +207,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Modi Shi, Li Chen, Jin Chen, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo, Di Huang, Maoqing Yao, Hongyang Li*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2,224-blue)](https://github.com/opendrivelab/agibot-world) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2,231-blue)](https://github.com/opendrivelab/agibot-world) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
 ---
 
@@ -225,7 +223,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *JingLi Lin, Chenming Zhu, Runsen Xu, Xiaohan Mao, Xihui Liu, Tai Wang, Jiangmiao Pang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/OpenRobotLab/OST-Bench) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
@@ -237,7 +235,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Zixiao Wang, Yuxin Wang, Xiaorui Wang, Mengting Xing, Jie Gao, Jianjun Xu, Guangcan Liu, Chenhui Jin, Zhuo Wang, Shengzhuo Zhang, Hongtao Xie*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-10-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-74-blue)](https://github.com/MetaStone-AI/MetaStone-S1)
+![](https://img.shields.io/badge/Twitter%20Mentions-10-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/MetaStone-AI/MetaStone-S1)
 
 ---
 
@@ -245,7 +243,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Shitian Zhao, Haoquan Zhang, Shaoheng Lin, Ming Li, Qilong Wu, Kaipeng Zhang, Chen Wei*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-14-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-88-blue)](https://github.com/agents-x-project/PyVision) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-14-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/agents-x-project/PyVision) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
@@ -253,7 +251,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Yulai Zhao, Haolin Liu, Dian Yu, S.Y. Kung, Haitao Mi, Dong Yu*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-25-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
@@ -261,7 +259,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
@@ -269,7 +267,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Chenguo Lin, Yuchen Lin, Panwang Pan, Yifan Yu, Honglei Yan, Katerina Fragkiadaki, Yadong Mu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-12-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-12-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
 
 ---
 
@@ -281,7 +279,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Yana Wei, Liang Zhao, Jianjian Sun, Kangheng Lin, Jisheng Yin, Jingcheng Hu, Yinmin Zhang, En Yu, Haoran Lv, Zejia Weng, Jia Wang, Chunrui Han, Yuang Peng, Qi Han, Zheng Ge, Xiangyu Zhang, Daxin Jiang, Vishal M. Patel*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-113-blue)](https://github.com/Open-Reasoner-Zero/Open-Vision-Reasoner) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-114-blue)](https://github.com/Open-Reasoner-Zero/Open-Vision-Reasoner) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
@@ -289,7 +287,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Gheorghe Comanici, Eric Bieber, Mike Schaekermann, Ice Pasupat, Noveen Sachdeva, Inderjit Dhillon, Marcel Blistein, Ori Ram, Dan Zhang, Evan Rosen, Luke Marris, Sam Petulla, Colin Gaffney, Asaf Aharoni, Nathan Lintz, Tiago Cardal Pais, Henrik Jacobsson, Idan Szpektor, Nan-Jiang Jiang, Krishna Haridasan, Ahmed Omran, Nikunj Saunshi, Dara Bahri, Gaurav Mishra, Eric Chu, etc.*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-586-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-18-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-585-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-19-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
 
 ---
 
@@ -297,13 +295,15 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Keyon Vafa, Peter G. Chang, Ashesh Rambachan, Sendhil Mullainathan*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-50-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-50-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-3-green)
 
 ---
 
 **[NeuralOS: Towards Simulating Operating Systems via Neural Generative Models](https://arxiv.org/abs/2507.08800)**
 
 *Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-3-green)
 
 ---
 
@@ -331,7 +331,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, Bettina Messmer, Negar Foroutan, Amir Hossein Kargaran, Colin Raffel, Martin Jaggi, Leandro Von Werra, Thomas Wolf*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-3-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/huggingface/fineweb-2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-169-blue)](https://github.com/huggingface/fineweb-2) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
 
 ---
 
@@ -339,7 +339,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Fangyuan Zhang, Zhengjun Huang, Yingli Zhou, Qintian Guo, Zhixun Li, Wensheng Luo, Di Jiang, Yixiang Fang, Xiaofang Zhou*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-5-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/everm0re/erarag-official) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/everm0re/erarag-official) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
@@ -347,7 +347,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Sukjun Hwang, Brandon Wang, Albert Gu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-72-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-18-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-77-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-19-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
@@ -355,7 +355,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Yukang Chen, Wei Huang, Baifeng Shi, Qinghao Hu, Hanrong Ye, Ligeng Zhu, Zhijian Liu, Pavlo Molchanov, Jan Kautz, Xiaojuan Qi, Sifei Liu, Hongxu Yin, Yao Lu, Song Han*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-5-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-498-blue)](https://github.com/NVlabs/Long-RL) ![](https://img.shields.io/badge/Mendeley%20Readers-13-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-5-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-506-blue)](https://github.com/NVlabs/Long-RL) ![](https://img.shields.io/badge/Mendeley%20Readers-13-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
 
 ---
 
@@ -367,7 +367,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Tian-Yu Xiang, Ao-Qun Jin, Xiao-Hu Zhou, Mei-Jiang Gui, Xiao-Liang Xie, Shi-Qi Liu, Shuang-Yi Wang, Sheng-Bin Duan, Fu-Chao Xie, Wen-Kai Wang, Si-Cheng Wang, Ling-Yun Li, Tian Tu, Zeng-Guang Hou*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-3-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/aoqunjin/awesome-vla-post-training) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/aoqunjin/awesome-vla-post-training) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
@@ -375,7 +375,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Jingyi Chai, Shuo Tang, Rui Ye, Yuwen Du, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-2-green)
 
 ---
 
@@ -383,7 +383,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Vera Soboleva, Aibek Alanov, Andrey Kuznetsov, Konstantin Sobolev*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-4-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-106-blue)](https://github.com/ControlGenAI/T-LoRA) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-4-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/ControlGenAI/T-LoRA) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
@@ -391,7 +391,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Wanhua Li, Yujie Zhao, Minghan Qin, Yang Liu, Yuanhao Cai, Chuang Gan, Hanspeter Pfister*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-16-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-86-blue)](https://github.com/ZhaoYujie2002/LangSplatV2) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-16-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-87-blue)](https://github.com/ZhaoYujie2002/LangSplatV2) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
@@ -399,7 +399,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Shaocong Dong, Lihe Ding, Xiao Chen, Yaokun Li, Yuxin Wang, Yucheng Wang, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-143-blue)](https://github.com/hkdsc/copart) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
 
 ---
 
