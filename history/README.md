@@ -13,6 +13,46 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2025-07-25
 
+**[Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models](https://arxiv.org/abs/2507.07484)**
+
+*Kaiqu Liang, Haimin Hu, Xuandong Zhao, Dawn Song, Thomas L. Griffiths, Jaime Fernández Fisac*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-20-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+
+---
+
+**[Adaptive Multi-Agent Reasoning via Automated Workflow Generation](https://arxiv.org/abs/2507.14393)**
+
+*Humza Sami, Mubashir ul Islam, Pierre-Emmanuel Gaillardon, Valerio Tenace*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/PrimisAI/nexus)
+
+---
+
+**[MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization](https://arxiv.org/abs/2507.14683)**
+
+*Xingxuan Li, Yao Xiao, Dianwen Ng, Hai Ye, Yue Deng, Xiang Lin, Bin Wang, Zhanfeng Mo, Chong Zhang, Yueyi Zhang, Zonglin Yang, Ruilin Li, Lei Lei, Shihao Xu, Han Zhao, Weiling Chen, Feng Ji, Lidong Bing*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/MiroMindAsia/MiroMind-M1)
+
+---
+
+**[Voxtral](https://arxiv.org/abs/2507.13264)**
+
+*Alexander H. Liu, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, Abhinav Rastogi, Adam Yang, Albert Q. Jiang, Alexandre Sablayrolles, Amélie Héliou, Amélie Martin, Anmol Agarwal, Antoine Roux, Arthur Darcet, Arthur Mensch, Baptiste Bout, etc.*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-198-1DA1F2)
+
+---
+
+**[STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for Spoken Language Models](https://arxiv.org/abs/2507.15375)**
+
+*Cheng-Han Chiang, Xiaofei Wang, Linjie Li, Chung-Ching Lin, Kevin Lin, Shujie Liu, Zhendong Wang, Zhengyuan Yang, Hung-yi Lee, Lijuan Wang*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-22-1DA1F2)
+
+---
+
 **[SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462.pdf)**
 
 *Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou*
