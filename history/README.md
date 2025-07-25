@@ -11,6 +11,50 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2025-07-25
+
+**[SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462.pdf)**
+
+*Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-639-blue)](https://github.com/henry123-boy/SpaTrackerV2)
+
+---
+
+**[$π^3$: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347)**
+
+*Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Jiangmiao Pang, Chunhua Shen, Tong He*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-17-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-812-blue)](https://github.com/yyfz/Pi3) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
+
+---
+
+**[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348)**
+
+*Senqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-6-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-316-blue)](https://github.com/dvlab-research/VisionThink) ![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+
+---
+
+**[GR-3 Technical Report](https://arxiv.org/abs/2507.15493)**
+
+*Chilam Cheang, Sijin Chen, Zhongren Cui, Yingdong Hu, Liqun Huang, Tao Kong, Hang Li, Yifeng Li, Yuxiao Liu, Xiao Ma, Hao Niu, Wenxuan Ou, Wanli Peng, Zeyu Ren, Haixin Shi, Jiawen Tian, Hongtao Wu, Xin Xiao, Yuyang Xiao, Jiafeng Xu, Yichu Yang*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-8-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+
+---
+
+**[Step-Audio 2 Technical Report](https://arxiv.org/abs/2507.16632)**
+
+*Boyong Wu, Chao Yan, Chen Hu, Cheng Yi, Chengli Feng, Fei Tian, Feiyu Shen, Gang Yu, Haoyang Zhang, Jingbei Li, Mingrui Chen, Peng Liu, Wang You, Xiangyu Tony Zhang, Xingyuan Li, Xuerui Yang, Yayue Deng, Yechang Huang, Yuxin Li, Yuxin Zhang, Zhao You, Brian Li, Changyi Wan, Hanpeng Hu, Jiangjie Zhen, etc.*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/stepfun-ai/Step-Audio2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
+
+---
+
+
+
 ### 2025-07-24
 
 **[Streaming 4D Visual Geometry Transformer](https://arxiv.org/abs/2507.11539)**
