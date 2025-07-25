@@ -171,16 +171,4 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2025-07-20
-
-**[A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)**
-
-*Lingrui Mei, Jiayu Yao, Yuyao Ge, Yiwei Wang, Baolong Bi, Yujun Cai, Jiazhi Liu, Mingyu Li, Zhong-Zhi Li, Duzhen Zhang, Chenlin Zhou, Jiayi Mao, Tianze Xia, Jiafeng Guo, Shenghua Liu*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-79-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-21-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
-
----
-
-
-
 [👉 Complete history news 👈](./history/README.md)
