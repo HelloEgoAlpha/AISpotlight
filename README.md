@@ -13,11 +13,43 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ### 2025-07-25
 
-**[$π^3$: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347)**
+**[Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models](https://arxiv.org/abs/2507.07484)**
 
-*Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Jiangmiao Pang, Chunhua Shen, Tong He*
+*Kaiqu Liang, Haimin Hu, Xuandong Zhao, Dawn Song, Thomas L. Griffiths, Jaime Fernández Fisac*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-17-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-812-blue)](https://github.com/yyfz/Pi3) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-20-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+
+---
+
+**[Voxtral](https://arxiv.org/abs/2507.13264)**
+
+*Alexander H. Liu, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, Abhinav Rastogi, Adam Yang, Albert Q. Jiang, Alexandre Sablayrolles, Amélie Héliou, Amélie Martin, Anmol Agarwal, Antoine Roux, Arthur Darcet, Arthur Mensch, Baptiste Bout, etc.*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-198-1DA1F2)
+
+---
+
+**[Adaptive Multi-Agent Reasoning via Automated Workflow Generation](https://arxiv.org/abs/2507.14393)**
+
+*Humza Sami, Mubashir ul Islam, Pierre-Emmanuel Gaillardon, Valerio Tenace*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/PrimisAI/nexus)
+
+---
+
+**[MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization](https://arxiv.org/abs/2507.14683)**
+
+*Xingxuan Li, Yao Xiao, Dianwen Ng, Hai Ye, Yue Deng, Xiang Lin, Bin Wang, Zhanfeng Mo, Chong Zhang, Yueyi Zhang, Zonglin Yang, Ruilin Li, Lei Lei, Shihao Xu, Han Zhao, Weiling Chen, Feng Ji, Lidong Bing*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-64-blue)](https://github.com/MiroMindAsia/MiroMind-M1)
+
+---
+
+**[STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for Spoken Language Models](https://arxiv.org/abs/2507.15375)**
+
+*Cheng-Han Chiang, Xiaofei Wang, Linjie Li, Chung-Ching Lin, Kevin Lin, Shujie Liu, Zhendong Wang, Zhengyuan Yang, Hung-yi Lee, Lijuan Wang*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-22-1DA1F2)
 
 ---
 
@@ -29,6 +61,14 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
+**[$π^3$: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347)**
+
+*Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Jiangmiao Pang, Chunhua Shen, Tong He*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-17-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-812-blue)](https://github.com/yyfz/Pi3) ![](https://img.shields.io/badge/Mendeley%20Readers-14-red)
+
+---
+
 **[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348)**
 
 *Senqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia*
@@ -37,19 +77,19 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 ---
 
-**[Step-Audio 2 Technical Report](https://arxiv.org/abs/2507.16632)**
-
-*Boyong Wu, Chao Yan, Chen Hu, Cheng Yi, Chengli Feng, Fei Tian, Feiyu Shen, Gang Yu, Haoyang Zhang, Jingbei Li, Mingrui Chen, Peng Liu, Wang You, Xiangyu Tony Zhang, Xingyuan Li, Xuerui Yang, Yayue Deng, Yechang Huang, Yuxin Li, Yuxin Zhang, Zhao You, Brian Li, Changyi Wan, Hanpeng Hu, Jiangjie Zhen, etc.*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/stepfun-ai/Step-Audio2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
-
----
-
 **[GR-3 Technical Report](https://arxiv.org/abs/2507.15493)**
 
 *Chilam Cheang, Sijin Chen, Zhongren Cui, Yingdong Hu, Liqun Huang, Tao Kong, Hang Li, Yifeng Li, Yuxiao Liu, Xiao Ma, Hao Niu, Wenxuan Ou, Wanli Peng, Zeyu Ren, Haixin Shi, Jiawen Tian, Hongtao Wu, Xin Xiao, Yuyang Xiao, Jiafeng Xu, Yichu Yang*
 
 ![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-8-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
+
+---
+
+**[Step-Audio 2 Technical Report](https://arxiv.org/abs/2507.16632)**
+
+*Boyong Wu, Chao Yan, Chen Hu, Cheng Yi, Chengli Feng, Fei Tian, Feiyu Shen, Gang Yu, Haoyang Zhang, Jingbei Li, Mingrui Chen, Peng Liu, Wang You, Xiangyu Tony Zhang, Xingyuan Li, Xuerui Yang, Yayue Deng, Yechang Huang, Yuxin Li, Yuxin Zhang, Zhao You, Brian Li, Changyi Wan, Hanpeng Hu, Jiangjie Zhen, etc.*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/stepfun-ai/Step-Audio2) ![](https://img.shields.io/badge/Mendeley%20Readers-1-red)
 
 ---
 
