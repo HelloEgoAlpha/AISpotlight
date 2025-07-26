@@ -151,24 +151,4 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2025-07-21
-
-**[REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541)**
-
-*Zhuoshi Pan, Qizhi Pei, Yu Li, Qiyao Sun, Zinan Tang, H. Vicky Zhao, Conghui He, Lijun Wu*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
-
----
-
-**[Einstein Fields: A Neural Perspective To Computational General Relativity](https://arxiv.org/abs/2507.11589)**
-
-*Sandeep Suresh Cranganore, Andrei Bodnar, Arturs Berzins, Johannes Brandstetter*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-22-1DA1F2)
-
----
-
-
-
 [👉 Complete history news 👈](./history/README.md)
