@@ -131,24 +131,4 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2025-07-22
-
-**[SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](https://arxiv.org/abs/2507.12415)**
-
-*Xinyi He, Qian Liu, Mingzhe Du, Lin Yan, Zhijie Fan, Yiming Huang, Zejian Yuan, Zejun Ma*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-20-1DA1F2)
-
----
-
-**[The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations](https://arxiv.org/abs/2507.13302)**
-
-*Carlos Arriaga, Gonzalo Martínez, Eneko Sendin, Javier Conde, Pedro Reviriego*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
-
----
-
-
-
 [👉 Complete history news 👈](./history/README.md)
