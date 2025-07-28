@@ -11,6 +11,18 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2025-07-28
+
+**[Voxtral](https://arxiv.org/abs/2507.13264)**
+
+*Alexander H. Liu, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, Abhinav Rastogi, Adam Yang, Albert Q. Jiang, Alexandre Sablayrolles, Amélie Héliou, Amélie Martin, Anmol Agarwal, Antoine Roux, Arthur Darcet, Arthur Mensch, Baptiste Bout, etc.*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-198-1DA1F2)
+
+---
+
+
+
 ### 2025-07-25
 
 **[Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models](https://arxiv.org/abs/2507.07484)**
@@ -18,14 +30,6 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 *Kaiqu Liang, Haimin Hu, Xuandong Zhao, Dawn Song, Thomas L. Griffiths, Jaime Fernández Fisac*
 
 ![](https://img.shields.io/badge/Twitter%20Mentions-20-1DA1F2) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-1-green)
-
----
-
-**[Voxtral](https://arxiv.org/abs/2507.13264)**
-
-*Alexander H. Liu, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, Abhinav Rastogi, Adam Yang, Albert Q. Jiang, Alexandre Sablayrolles, Amélie Héliou, Amélie Martin, Anmol Agarwal, Antoine Roux, Arthur Darcet, Arthur Mensch, Baptiste Bout, etc.*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-198-1DA1F2)
 
 ---
 
