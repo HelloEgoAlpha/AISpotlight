@@ -11,23 +11,19 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2025-07-29
+
+**[Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](https://arxiv.org/abs/2507.13344)**
+
+*Yudong Jin, Sida Peng, Xuan Wang, Tao Xie, Zhen Xu, Yifan Yang, Yujun Shen, Hujun Bao, Xiaowei Zhou*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-4-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-240-blue)](https://github.com/zju3dv/Diffuman4D) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+
+---
+
+
+
 ### 2025-07-28
-
-**[Deep Researcher with Test-Time Diffusion](https://arxiv.org/abs/2507.16075)**
-
-*Rujun Han, Yanfei Chen, Zoey CuiZhu, Lesly Miculicich, Guan Sun, Yuanjun Bi, Weiming Wen, Hui Wan, Chunfeng Wen, Solène Maître, George Lee, Vishy Tirumalashetty, Emily Xue, Zizhao Zhang, Salem Haykal, Burak Gokturk, Tomas Pfister, Chen-Yu Lee*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-94-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2,660-blue)](https://github.com/codelion/optillm/tree/main/optillm/plugins/deep_research) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
-
-**[PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](https://arxiv.org/abs/2507.16116)**
-
-*Yaofang Liu, Yumeng Ren, Aitor Artola, Yuxuan Hu, Xiaodong Cun, Xiaotong Zhao, Alan Zhao, Raymond H. Chan, Suiyun Zhang, Rui Liu, Dandan Tu, Jean-Michel Morel*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-537-blue)](https://github.com/Yaofang-Liu/Pusa-VidGen) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
-
----
 
 **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](https://arxiv.org/abs/2507.11683)**
 
@@ -41,7 +37,23 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Rithesh Murthy, Ming Zhu, Liangwei Yang, Jielin Qiu, Juntao Tan, Shelby Heinecke, Caiming Xiong, Silvio Savarese, Huan Wang*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/SalesforceAIResearch/promptomatix)
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/SalesforceAIResearch/promptomatix)
+
+---
+
+**[Deep Researcher with Test-Time Diffusion](https://arxiv.org/abs/2507.16075)**
+
+*Rujun Han, Yanfei Chen, Zoey CuiZhu, Lesly Miculicich, Guan Sun, Yuanjun Bi, Weiming Wen, Hui Wan, Chunfeng Wen, Solène Maître, George Lee, Vishy Tirumalashetty, Emily Xue, Zizhao Zhang, Salem Haykal, Burak Gokturk, Tomas Pfister, Chen-Yu Lee*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-95-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2,660-blue)](https://github.com/codelion/optillm/tree/main/optillm/plugins/deep_research) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
+
+---
+
+**[PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](https://arxiv.org/abs/2507.16116)**
+
+*Yaofang Liu, Yumeng Ren, Aitor Artola, Yuxuan Hu, Xiaodong Cun, Xiaotong Zhao, Alan Zhao, Raymond H. Chan, Suiyun Zhang, Rui Liu, Dandan Tu, Jean-Michel Morel*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-537-blue)](https://github.com/Yaofang-Liu/Pusa-VidGen) ![](https://img.shields.io/badge/Mendeley%20Readers-2-red)
 
 ---
 
@@ -49,7 +61,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Alexander H. Liu, Andy Ehrenberg, Andy Lo, Clément Denoix, Corentin Barreau, Guillaume Lample, Jean-Malo Delignon, Khyathi Raghavi Chandu, Patrick von Platen, Pavankumar Reddy Muddireddy, Sanchit Gandhi, Soham Ghosh, Srijan Mishra, Thomas Foubert, Abhinav Rastogi, Adam Yang, Albert Q. Jiang, Alexandre Sablayrolles, Amélie Héliou, Amélie Martin, Anmol Agarwal, Antoine Roux, Arthur Darcet, Arthur Mensch, Baptiste Bout, etc.*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-213-1DA1F2)
+![](https://img.shields.io/badge/Twitter%20Mentions-214-1DA1F2)
 
 ---
 
@@ -85,7 +97,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Cheng-Han Chiang, Xiaofei Wang, Linjie Li, Chung-Ching Lin, Kevin Lin, Shujie Liu, Zhendong Wang, Zhengyuan Yang, Hung-yi Lee, Lijuan Wang*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-22-1DA1F2)
+![](https://img.shields.io/badge/Twitter%20Mentions-25-1DA1F2)
 
 ---
 
@@ -101,7 +113,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Jiangmiao Pang, Chunhua Shen, Tong He*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-17-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-864-blue)](https://github.com/yyfz/Pi3) ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-17-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-867-blue)](https://github.com/yyfz/Pi3) ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
 
 ---
 
@@ -125,7 +137,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Boyong Wu, Chao Yan, Chen Hu, Cheng Yi, Chengli Feng, Fei Tian, Feiyu Shen, Gang Yu, Haoyang Zhang, Jingbei Li, Mingrui Chen, Peng Liu, Wang You, Xiangyu Tony Zhang, Xingyuan Li, Xuerui Yang, Yayue Deng, Yechang Huang, Yuxin Li, Yuxin Zhang, Zhao You, Brian Li, Changyi Wan, Hanpeng Hu, Jiangjie Zhen, etc.*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-9-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-230-blue)](https://github.com/stepfun-ai/Step-Audio2) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-9-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-293-blue)](https://github.com/stepfun-ai/Step-Audio2) ![](https://img.shields.io/badge/Mendeley%20Readers-4-red)
 
 ---
 
@@ -137,7 +149,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Dong Zhuo, Wenzhao Zheng, Jiahe Guo, Yuqi Wu, Jie Zhou, Jiwen Lu*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-13-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-465-blue)](https://github.com/wzzheng/StreamVGGT) ![](https://img.shields.io/badge/Mendeley%20Readers-15-red)
+![](https://img.shields.io/badge/Twitter%20Mentions-13-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-465-blue)](https://github.com/wzzheng/StreamVGGT) ![](https://img.shields.io/badge/Mendeley%20Readers-17-red)
 
 ---
 
@@ -161,7 +173,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 *Aryo Pradipta Gema, Alexander Hägele, Runjin Chen, Andy Arditi, Jacob Goldman-Wetzler, Kit Fraser-Taliente, Henry Sleight, Linda Petrini, Julian Michael, Beatrice Alex, Pasquale Minervini, Yanda Chen, Joe Benton, Ethan Perez*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-36-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-9-blue)](https://github.com/safety-research/inverse-scaling-ttc) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-6-green)
+![](https://img.shields.io/badge/Twitter%20Mentions-37-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-9-blue)](https://github.com/safety-research/inverse-scaling-ttc) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red) ![](https://img.shields.io/badge/Mainstream%20Media%20Mentions-6-green)
 
 ---
 
