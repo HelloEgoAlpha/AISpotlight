@@ -11,6 +11,50 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
+### 2025-08-16
+
+**[Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](https://arxiv.org/abs/2507.07104)**
+
+*Tiezheng Zhang, Yitong Li, Yu-cheng Chou, Jieneng Chen, Alan Yuille, Chen Wei, Junfei Xiao*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/Tiezheng11/Vision-Language-Vision) ![](https://img.shields.io/badge/Mendeley%20Readers-5-red)
+
+---
+
+**[MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://arxiv.org/abs/2507.12508)**
+
+*Yuncong Yang, Jiageng Liu, Zheyuan Zhang, Siyuan Zhou, Reuben Tan, Jianwei Yang, Yilun Du, Chuang Gan*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-2-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-69-blue)](https://github.com/UMass-Embodied-AGI/MindJourney) ![](https://img.shields.io/badge/Mendeley%20Readers-9-red)
+
+---
+
+**[Gaussian Splatting with Discretized SDF for Relightable Assets](https://arxiv.org/abs/2507.15629)**
+
+*Zuo-Liang Zhu, Jian Yang, Beibei Wang*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/NK-CS-ZZL/DiscretizedSDF)
+
+---
+
+**[MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](https://arxiv.org/abs/2507.16812)**
+
+*Run-Ze Fan, Zengzhi Wang, Pengfei Liu*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-6-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/GAIR-NLP/MegaScience) ![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+
+---
+
+**[MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE](https://arxiv.org/abs/2507.21802)**
+
+*Junzhe Li, Yutao Cui, Tao Huang, Yinping Ma, Chun Fan, Miles Yang, Zhao Zhong*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/Tencent-Hunyuan/MixGRPO)
+
+---
+
+
+
 ### 2025-08-15
 
 **[Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597)**
