@@ -11,21 +11,49 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2025-08-17
+### 2025-08-18
 
-**[MoFE-Time: Mixture of Frequency Domain Experts for Time-Series Forecasting Models](https://arxiv.org/abs/2507.06502)**
+**[Flow Equivariant Recurrent Neural Networks](https://arxiv.org/abs/2507.14793)**
 
-*Yiwen Liu, Chenyu Zhang, Junjie Song, Siqi Chen, Sun Yin, Zihan Wang, Lingming Zeng, Yuji Cao, Junming Jiao*
+*T. Anderson Keller*
 
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/alg-znsy-li/mofe-time)
+![](https://img.shields.io/badge/Twitter%20Mentions-71-1DA1F2)
 
 ---
+
+**[Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding](https://arxiv.org/abs/2507.19427)**
+
+*StepFun, Bin Wang, Bojun Wang, Changyi Wan, Guanzhe Huang, Hanpeng Hu, Haonan Jia, Hao Nie, Mingliang Li, Nuo Chen, Siyu Chen, Song Yuan, Wuxun Xie, Xiaoniu Song, Xing Chen, Xingping Yang, Xuelin Zhang, Yanbo Yu, Yaoyu Wang, Yibo Zhu, Yimin Jiang, Yu Zhou, Yuanwei Lu, Houyi Li, Jingcheng Hu, etc.*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-36-1DA1F2)
+
+---
+
+**[Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](https://arxiv.org/abs/2507.07982)**
+
+*Haoyu Wu, Diankun Wu, Tianyu He, Junliang Guo, Yang Ye, Yueqi Duan, Jiang Bian*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+
+---
+
+
+
+### 2025-08-17
 
 **[Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?](https://arxiv.org/abs/2506.21215)**
 
 *Haoang Chi, He Li, Wenjing Yang, Feng Liu, Long Lan, Xiaoguang Ren, Tongliang Liu, Bo Han*
 
 ![](https://img.shields.io/badge/Citations-19-9cf) ![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2-blue)](https://github.com/haoang97/causalprobe-2024)
+
+---
+
+**[MoFE-Time: Mixture of Frequency Domain Experts for Time-Series Forecasting Models](https://arxiv.org/abs/2507.06502)**
+
+*Yiwen Liu, Chenyu Zhang, Junjie Song, Siqi Chen, Sun Yin, Zihan Wang, Lingming Zeng, Yuji Cao, Junming Jiao*
+
+![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/alg-znsy-li/mofe-time)
 
 ---
 
