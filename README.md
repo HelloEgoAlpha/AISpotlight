@@ -39,48 +39,4 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2025-08-17
-
-**[Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?](https://arxiv.org/abs/2506.21215)**
-
-*Haoang Chi, He Li, Wenjing Yang, Feng Liu, Long Lan, Xiaoguang Ren, Tongliang Liu, Bo Han*
-
-![](https://img.shields.io/badge/Citations-19-9cf) ![](https://img.shields.io/badge/Twitter%20Mentions-7-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-2-blue)](https://github.com/haoang97/causalprobe-2024)
-
----
-
-**[MoFE-Time: Mixture of Frequency Domain Experts for Time-Series Forecasting Models](https://arxiv.org/abs/2507.06502)**
-
-*Yiwen Liu, Chenyu Zhang, Junjie Song, Siqi Chen, Sun Yin, Zihan Wang, Lingming Zeng, Yuji Cao, Junming Jiao*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-1-1DA1F2) [![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/alg-znsy-li/mofe-time)
-
----
-
-**[The Invisible Leash: Why RLVR May Not Escape Its Origin](https://arxiv.org/abs/2507.14843)**
-
-*Fang Wu, Weihao Xuan, Ximing Lu, Zaid Harchaoui, Yejin Choi*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-22-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
----
-
-**[Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](https://arxiv.org/abs/2507.16806)**
-
-*Mehul Damani, Isha Puri, Stewart Slocum, Idan Shenfeld, Leshem Choshen, Yoon Kim, Jacob Andreas*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-40-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
----
-
-**[Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention](https://arxiv.org/abs/2507.17745)**
-
-*Yiwen Chen, Zhihao Li, Yikai Wang, Hu Zhang, Qin Li, Chi Zhang, Guosheng Lin*
-
-![](https://img.shields.io/badge/Twitter%20Mentions-24-1DA1F2) ![](https://img.shields.io/badge/Mendeley%20Readers-7-red)
-
----
-
-
-
 [👉 Complete history news 👈](./history/README.md)
