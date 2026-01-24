@@ -10,7 +10,79 @@ Monthly archive — 2026-01
 </div>
 
 
-### 2026-01-22
+### 2026-01-24
+
+
+**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://huggingface.co/papers/2601.11868)** NEW
+
+
+*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,405-blue)](https://github.com/laude-institute/terminal-bench)
+
+---
+
+
+**[SAMTok: Representing Any Mask with Two Words](https://huggingface.co/papers/2601.16093)** NEW
+
+
+*Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,503-blue)](https://github.com/bytedance/Sa2VA/tree/main/projects/samtok)
+
+---
+
+
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)** NEW
+
+
+*Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,298-blue)](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+
+
+### 2026-01-23
+
+
+**[FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning](https://huggingface.co/papers/2601.11141)** NEW
+
+
+*Tanyu Chen, Tairan Chen, Kai Shen, Zhenghua Bao, Zhihui Zhang, Man Yuan, Yi Shi*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-311-blue)](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma)
+
+---
 
 
 **[Generating an Image From 1,000 Words: Enhancing Text-to-Image With Structured Captions](https://arxiv.org/abs/2511.06876)** NEW
@@ -30,27 +102,10 @@ Monthly archive — 2026-01
 ---
 
 
-**[UniVideo: Unified Understanding, Generation, and Editing for Videos](https://huggingface.co/papers/2510.08377)** NEW
+**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)** NEW
 
 
-*Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-362-blue)](https://github.com/KlingTeam/UniVideo) ![](https://img.shields.io/badge/Citations-12-9cf)
-
----
-
-
-**[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://huggingface.co/papers/2601.11514)** NEW
-
-
-*Yawar Siddiqui, Duncan Frost, Samir Aroudj, Armen Avetisyan, Henry Howard-Jenkins, Daniel DeTone, Pierre Moulon, Qirui Wu, Zhengqin Li, Julian Straub, Richard Newcombe, Jakob Engel*
+*Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*
 
 
 
@@ -59,41 +114,79 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-492-blue)](https://github.com/facebookresearch/ShapeR)
+![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-307-blue)](https://github.com/NVlabs/GDPO)
 
 ---
 
 
-**[End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675)** NEW
+**[GaussGym: An open-source real-to-sim framework for learning locomotion from pixels](https://arxiv.org/abs/2510.15352)** NEW
 
 
-*Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun*
-
-
-
+*Alejandro Escontrela, Justin Kerr, Arthur Allshire, Jonas Frey, Rocky Duan, Carmelo Sferrazza, Pieter Abbeel*
 
 
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-462-blue)](https://github.com/test-time-training/e2e)
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-8-red) [![](https://img.shields.io/badge/GitHub%20Stars-314-blue)](https://github.com/escontra/gauss_gym) ![](https://img.shields.io/badge/Citations-6-9cf)
 
 ---
 
 
-**[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/abs/2510.10274)** NEW
+**[Action100M: A Large-scale Video Action Dataset](https://huggingface.co/papers/2601.10592)** NEW
 
 
-*Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan*
-
-
-
+*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
 
 
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-16-red) [![](https://img.shields.io/badge/GitHub%20Stars-452-blue)](https://github.com/2toinf/X-VLA) ![](https://img.shields.io/badge/Citations-12-9cf)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-327-blue)](https://github.com/facebookresearch/Action100M)
+
+---
+
+
+**[Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering](https://huggingface.co/papers/2601.10402)** NEW
+
+
+*Xinyu Zhu, Yuzhu Cai, Zexi Liu, Bingyang Zheng, Cheng Wang, Rui Ye, Jiaao Chen, Hanrui Wang, Wei-Chen Wang, Yuzhi Zhang, Linfeng Zhang, Weinan E, Di Jin, Siheng Chen*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-344-blue)](https://github.com/sjtu-sai-agents/ML-Master)
+
+---
+
+
+
+### 2026-01-22
+
+
+**[Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://huggingface.co/papers/2601.12993)** NEW
+
+
+*Hao Luo, Ye Wang, Wanpeng Zhang, Sipeng Zheng, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-299-blue)](https://github.com/BeingBeyond/Being-H)
 
 ---
 
@@ -110,7 +203,75 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-473-blue)](https://github.com/bytedance/DreamID-V)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-477-blue)](https://github.com/bytedance/DreamID-V)
+
+---
+
+
+**[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/abs/2510.10274)** NEW
+
+
+*Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-16-red) [![](https://img.shields.io/badge/GitHub%20Stars-454-blue)](https://github.com/2toinf/X-VLA) ![](https://img.shields.io/badge/Citations-12-9cf)
+
+---
+
+
+**[End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675)** NEW
+
+
+*Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-466-blue)](https://github.com/test-time-training/e2e)
+
+---
+
+
+**[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://huggingface.co/papers/2601.11514)** NEW
+
+
+*Yawar Siddiqui, Duncan Frost, Samir Aroudj, Armen Avetisyan, Henry Howard-Jenkins, Daniel DeTone, Pierre Moulon, Qirui Wu, Zhengqin Li, Julian Straub, Richard Newcombe, Jakob Engel*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-510-blue)](https://github.com/facebookresearch/ShapeR)
+
+---
+
+
+**[UniVideo: Unified Understanding, Generation, and Editing for Videos](https://huggingface.co/papers/2510.08377)** NEW
+
+
+*Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-368-blue)](https://github.com/KlingTeam/UniVideo) ![](https://img.shields.io/badge/Citations-12-9cf)
 
 ---
 
@@ -131,7 +292,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-4,520-blue)](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/badge/Citations-30-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-4,580-blue)](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/badge/Citations-30-9cf)
 
 ---
 
@@ -148,7 +309,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,150-blue)](https://github.com/kyutai-labs/pocket-tts) ![](https://img.shields.io/badge/Citations-2-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,211-blue)](https://github.com/kyutai-labs/pocket-tts) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
@@ -165,24 +326,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,887-blue)](https://github.com/EverMind-AI/EverMemOS)
-
----
-
-
-**[EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269)** NEW
-
-
-*Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, Jaegul Choo*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-486-blue)](https://github.com/DAVIAN-Robotics/EgoX)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,775-blue)](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -199,47 +343,30 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-650-blue)](https://github.com/ChenglinPoly/infiAgent)
+[![](https://img.shields.io/badge/GitHub%20Stars-684-blue)](https://github.com/ChenglinPoly/infiAgent)
+
+---
+
+
+**[EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269)** NEW
+
+
+*Taewoong Kang, Kinam Kim, Dohyeon Kim, Minho Park, Junha Hyung, Jaegul Choo*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-487-blue)](https://github.com/DAVIAN-Robotics/EgoX)
 
 ---
 
 
 
 ### 2026-01-20
-
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)** NEW
-
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Siyun Zhao, Dongsheng Li, Luna K. Qiu, Yuqing Yang*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-11,448-blue)](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/badge/Citations-18-9cf)
-
----
-
-
-**[DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676)** NEW
-
-
-*Hao Liang, Xiaochen Ma, Zhou Liu, Zhen Hao Wong, Zhengyang Zhao, Zimo Meng, Runming He, Chengyu Shen, Qifeng Cai, Zhaoyang Han, Meiyi Qiang, Yalin Feng, Tianyi Bai, Zewei Pan, Ziyi Guo, Yizhen Jiang, Jingwen Deng, Qijie You, Peichao Lai, Tianyu Guo, Chi Hsu Tsai, Hengyi Feng, Rui Hu, Wenkai Yu, Junbo Niu, etc.*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,586-blue)](https://github.com/OpenDCAI/DataFlow)
-
----
 
 
 **[Recursive Language Models](https://huggingface.co/papers/2512.24601)** NEW
@@ -254,7 +381,24 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,572-blue)](https://github.com/alexzhang13/rlm/tree/main)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,654-blue)](https://github.com/alexzhang13/rlm/tree/main)
+
+---
+
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)** NEW
+
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Siyun Zhao, Dongsheng Li, Luna K. Qiu, Yuqing Yang*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-11,605-blue)](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/badge/Citations-18-9cf)
 
 ---
 
@@ -271,7 +415,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-15,789-blue)](https://github.com/openai/agents.md)
+[![](https://img.shields.io/badge/GitHub%20Stars-15,898-blue)](https://github.com/openai/agents.md)
 
 ---
 
@@ -288,7 +432,24 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-18,616-blue)](https://github.com/volcengine/verl/tree/main/recipe/fapo)
+[![](https://img.shields.io/badge/GitHub%20Stars-18,636-blue)](https://github.com/volcengine/verl/tree/main/recipe/fapo)
+
+---
+
+
+**[DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676)** NEW
+
+
+*Hao Liang, Xiaochen Ma, Zhou Liu, Zhen Hao Wong, Zhengyang Zhao, Zimo Meng, Runming He, Chengyu Shen, Qifeng Cai, Zhaoyang Han, Meiyi Qiang, Yalin Feng, Tianyi Bai, Zewei Pan, Ziyi Guo, Yizhen Jiang, Jingwen Deng, Qijie You, Peichao Lai, Tianyu Guo, Chi Hsu Tsai, Hengyi Feng, Rui Hu, Wenkai Yu, Junbo Niu, etc.*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,610-blue)](https://github.com/OpenDCAI/DataFlow)
 
 ---
 
@@ -309,7 +470,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-13,976-blue)](https://github.com/HKUDS/DeepCode)
+[![](https://img.shields.io/badge/GitHub%20Stars-14,000-blue)](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -326,7 +487,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-860-blue)](https://github.com/QwenLM/Qwen3-VL-Embedding)
+[![](https://img.shields.io/badge/GitHub%20Stars-874-blue)](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
 ---
 
@@ -343,7 +504,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,809-blue)](https://github.com/aiming-lab/SimpleMem)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,853-blue)](https://github.com/aiming-lab/SimpleMem)
 
 ---
 
@@ -360,7 +521,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-7,097-blue)](https://github.com/apple/ml-sharp)
+[![](https://img.shields.io/badge/GitHub%20Stars-7,115-blue)](https://github.com/apple/ml-sharp)
 
 ---
 
@@ -377,7 +538,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-7,021-blue)](https://github.com/rednote-hilab/dots.ocr) ![](https://img.shields.io/badge/Citations-4-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-7,033-blue)](https://github.com/rednote-hilab/dots.ocr) ![](https://img.shields.io/badge/Citations-4-9cf)
 
 ---
 
@@ -398,7 +559,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-590-blue)](https://github.com/open-tinker/OpenTinker?tab=readme-ov-file)
+[![](https://img.shields.io/badge/GitHub%20Stars-595-blue)](https://github.com/open-tinker/OpenTinker?tab=readme-ov-file)
 
 ---
 
@@ -415,7 +576,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,689-blue)](https://github.com/MineDojo/NitroGen) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,697-blue)](https://github.com/MineDojo/NitroGen) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -432,7 +593,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-533-blue)](https://github.com/TencentCloudADP/youtu-tip)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-538-blue)](https://github.com/TencentCloudADP/youtu-tip)
 
 ---
 
@@ -449,7 +610,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-604-blue)](https://github.com/Orange-3DV-Team/MoCha) ![](https://img.shields.io/badge/Citations-2-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-605-blue)](https://github.com/Orange-3DV-Team/MoCha) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
@@ -466,7 +627,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-25,796-blue)](https://github.com/microsoft/BitNet)
+![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-25,809-blue)](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -475,27 +636,10 @@ Monthly archive — 2026-01
 ### 2026-01-17
 
 
-**[Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering](https://huggingface.co/papers/2601.10402)** NEW
+**[GigaBrain-0: A World Model-Powered Vision-Language-Action Model](https://huggingface.co/papers/2510.19430)** NEW
 
 
-*Xinyu Zhu, Yuzhu Cai, Zexi Liu, Bingyang Zheng, Cheng Wang, Rui Ye, Jiaao Chen, Hanrui Wang, Wei-Chen Wang, Yuzhi Zhang, Linfeng Zhang, Weinan E, Di Jin, Siheng Chen*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-344-blue)](https://github.com/sjtu-sai-agents/ML-Master)
-
----
-
-
-**[Action100M: A Large-scale Video Action Dataset](https://huggingface.co/papers/2601.10592)** NEW
-
-
-*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
+*GigaBrain Team, Angen Ye, Boyuan Wang, Chaojun Ni, Guan Huang, Guosheng Zhao, Haoyun Li, Jie Li, Jiagang Zhu, Lv Feng, Peng Li, Qiuping Deng, Runqi Ouyang, Wenkang Qin, Xinze Chen, Xiaofeng Wang, Yang Wang, Yifan Li, Yilong Li, Yiran Ding, Yuan Xu, Yun Ye, Yukun Zhou, Zhehao Dong, Zhenan Wang, etc.*
 
 
 
@@ -504,58 +648,7 @@ Monthly archive — 2026-01
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-322-blue)](https://github.com/facebookresearch/Action100M)
-
----
-
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)** NEW
-
-
-*Dongyang Liu, Peng Gao, David Liu, Ruoyi Du, Zhen Li, Qilong Wu, Xin Jin, Sihan Cao, Shifeng Zhang, Hongsheng Li, Steven Hoi*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-9,248-blue)](https://github.com/Tongyi-MAI/Z-Image/tree/main)
-
----
-
-
-**[Multi-module GRPO: Composing Policy Gradients and Prompt Optimization for Language Model Programs](https://huggingface.co/papers/2508.04660)** NEW
-
-
-*Noah Ziems, Dilara Soylu, Lakshya A Agrawal, Isaac Miller, Liheng Lai, Chen Qian, Kaiqiang Song, Meng Jiang, Dan Klein, Matei Zaharia, Karel D'Oosterlinck, Christopher Potts, Omar Khattab*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-31,730-blue)](https://github.com/stanfordnlp/dspy) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)** NEW
-
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jonathan Chetboun, Michael Finkelson, Michael Kupchick, Nir Zabari, Nitzan Guetta, Noa Kotler, Ofir Bibi, Ori Gordon, Poriya Panet, Roi Benita, Shahar Armon, Victor Kulikov, etc.*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-9-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,999-blue)](https://github.com/Lightricks/LTX-2)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,887-blue)](https://github.com/open-gigaai/giga-brain-0) ![](https://img.shields.io/badge/Citations-5-9cf)
 
 ---
 
@@ -572,24 +665,58 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-15,812-blue)](https://github.com/agentscope-ai/agentscope) ![](https://img.shields.io/badge/Citations-2-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-15,845-blue)](https://github.com/agentscope-ai/agentscope) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
 
-**[GigaBrain-0: A World Model-Powered Vision-Language-Action Model](https://huggingface.co/papers/2510.19430)** NEW
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)** NEW
 
 
-*GigaBrain Team, Angen Ye, Boyuan Wang, Chaojun Ni, Guan Huang, Guosheng Zhao, Haoyun Li, Jie Li, Jiagang Zhu, Lv Feng, Peng Li, Qiuping Deng, Runqi Ouyang, Wenkang Qin, Xinze Chen, Xiaofeng Wang, Yang Wang, Yifan Li, Yilong Li, Yiran Ding, Yuan Xu, Yun Ye, Yukun Zhou, Zhehao Dong, Zhenan Wang, etc.*
-
-
-
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jonathan Chetboun, Michael Finkelson, Michael Kupchick, Nir Zabari, Nitzan Guetta, Noa Kotler, Ofir Bibi, Ori Gordon, Poriya Panet, Roi Benita, Shahar Armon, Victor Kulikov, etc.*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,861-blue)](https://github.com/open-gigaai/giga-brain-0) ![](https://img.shields.io/badge/Citations-5-9cf)
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-9-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,045-blue)](https://github.com/Lightricks/LTX-2)
+
+---
+
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)** NEW
+
+
+*Dongyang Liu, Peng Gao, David Liu, Ruoyi Du, Zhen Li, Qilong Wu, Xin Jin, Sihan Cao, Shifeng Zhang, Hongsheng Li, Steven Hoi*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-9,292-blue)](https://github.com/Tongyi-MAI/Z-Image/tree/main)
+
+---
+
+
+**[Multi-module GRPO: Composing Policy Gradients and Prompt Optimization for Language Model Programs](https://huggingface.co/papers/2508.04660)** NEW
+
+
+*Noah Ziems, Dilara Soylu, Lakshya A Agrawal, Isaac Miller, Liheng Lai, Chen Qian, Kaiqiang Song, Meng Jiang, Dan Klein, Matei Zaharia, Karel D'Oosterlinck, Christopher Potts, Omar Khattab*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-31,753-blue)](https://github.com/stanfordnlp/dspy) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
@@ -610,7 +737,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-9-red) [![](https://img.shields.io/badge/GitHub%20Stars-18,619-blue)](https://github.com/volcengine/verl) ![](https://img.shields.io/badge/Citations-5-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-9-red) [![](https://img.shields.io/badge/GitHub%20Stars-18,639-blue)](https://github.com/volcengine/verl) ![](https://img.shields.io/badge/Citations-5-9cf)
 
 ---
 
@@ -627,7 +754,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-11-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,619-blue)](https://github.com/MiroMindAI/MiroThinker) ![](https://img.shields.io/badge/Citations-4-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-11-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,692-blue)](https://github.com/MiroMindAI/MiroThinker) ![](https://img.shields.io/badge/Citations-4-9cf)
 
 ---
 
@@ -644,7 +771,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,652-blue)](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ![](https://img.shields.io/badge/Citations-4-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,745-blue)](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ![](https://img.shields.io/badge/Citations-4-9cf)
 
 ---
 
@@ -661,7 +788,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,193-blue)](https://github.com/deepseek-ai/Engram)
+![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,239-blue)](https://github.com/deepseek-ai/Engram)
 
 ---
 
@@ -678,7 +805,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,237-blue)](https://github.com/open-gigaai/giga-world-0) ![](https://img.shields.io/badge/Citations-2-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,251-blue)](https://github.com/open-gigaai/giga-world-0) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
@@ -699,7 +826,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-141-red) [![](https://img.shields.io/badge/GitHub%20Stars-6,263-blue)](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
+![](https://img.shields.io/badge/Mendeley%20Readers-141-red) [![](https://img.shields.io/badge/GitHub%20Stars-6,275-blue)](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
 ---
 
@@ -716,7 +843,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-35-red) [![](https://img.shields.io/badge/GitHub%20Stars-9,239-blue)](https://github.com/Tongyi-MAI/Z-Image) ![](https://img.shields.io/badge/Citations-4-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-35-red) [![](https://img.shields.io/badge/GitHub%20Stars-9,292-blue)](https://github.com/Tongyi-MAI/Z-Image) ![](https://img.shields.io/badge/Citations-4-9cf)
 
 ---
 
@@ -733,7 +860,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-16-red) [![](https://img.shields.io/badge/GitHub%20Stars-20,727-blue)](https://github.com/microsoft/VibeVoice) ![](https://img.shields.io/badge/Citations-11-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-16-red) [![](https://img.shields.io/badge/GitHub%20Stars-21,219-blue)](https://github.com/microsoft/VibeVoice) ![](https://img.shields.io/badge/Citations-11-9cf)
 
 ---
 
@@ -750,7 +877,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-19-red) [![](https://img.shields.io/badge/GitHub%20Stars-947-blue)](https://github.com/RUC-NLPIR/DeepAgent) ![](https://img.shields.io/badge/Citations-3-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-19-red) [![](https://img.shields.io/badge/GitHub%20Stars-949-blue)](https://github.com/RUC-NLPIR/DeepAgent) ![](https://img.shields.io/badge/Citations-3-9cf)
 
 ---
 
@@ -767,7 +894,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,241-blue)](https://github.com/RLinf/RLinf) ![](https://img.shields.io/badge/Citations-6-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,249-blue)](https://github.com/RLinf/RLinf) ![](https://img.shields.io/badge/Citations-6-9cf)
 
 ---
 
@@ -788,7 +915,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-15-red) [![](https://img.shields.io/badge/GitHub%20Stars-52,601-blue)](https://github.com/opendatalab/MinerU) ![](https://img.shields.io/badge/Citations-13-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-15-red) [![](https://img.shields.io/badge/GitHub%20Stars-52,690-blue)](https://github.com/opendatalab/MinerU) ![](https://img.shields.io/badge/Citations-13-9cf)
 
 ---
 
@@ -805,7 +932,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-27-red) [![](https://img.shields.io/badge/GitHub%20Stars-68,592-blue)](https://github.com/PaddlePaddle/PaddleOCR) ![](https://img.shields.io/badge/Citations-11-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-27-red) [![](https://img.shields.io/badge/GitHub%20Stars-68,669-blue)](https://github.com/PaddlePaddle/PaddleOCR) ![](https://img.shields.io/badge/Citations-11-9cf)
 
 ---
 
@@ -822,7 +949,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-43-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,252-blue)](https://github.com/roboflow/rf-detr) ![](https://img.shields.io/badge/Citations-5-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-43-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,284-blue)](https://github.com/roboflow/rf-detr) ![](https://img.shields.io/badge/Citations-5-9cf)
 
 ---
 
@@ -839,7 +966,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-29-red) [![](https://img.shields.io/badge/GitHub%20Stars-932-blue)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![](https://img.shields.io/badge/Citations-13-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-29-red) [![](https://img.shields.io/badge/GitHub%20Stars-935-blue)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![](https://img.shields.io/badge/Citations-13-9cf)
 
 ---
 
@@ -856,45 +983,7 @@ Monthly archive — 2026-01
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-61-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,706-blue)](https://github.com/facebookresearch/sam-3d-objects) ![](https://img.shields.io/badge/Citations-5-9cf)
-
----
-
-
-
-### 2026-01-13
-
-
-**[GaussGym: An open-source real-to-sim framework for learning locomotion from pixels](https://arxiv.org/abs/2510.15352)** NEW
-
-
-*Alejandro Escontrela, Justin Kerr, Arthur Allshire, Jonas Frey, Rocky Duan, Carmelo Sferrazza, Pieter Abbeel*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-8-red) [![](https://img.shields.io/badge/GitHub%20Stars-313-blue)](https://github.com/escontra/gauss_gym) ![](https://img.shields.io/badge/Citations-6-9cf)
-
----
-
-
-**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)** NEW
-
-
-*Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-305-blue)](https://github.com/NVlabs/GDPO)
+![](https://img.shields.io/badge/Mendeley%20Readers-61-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,726-blue)](https://github.com/facebookresearch/sam-3d-objects) ![](https://img.shields.io/badge/Citations-5-9cf)
 
 ---
 
