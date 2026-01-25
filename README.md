@@ -13,36 +13,36 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 ### 2026-01-24
 
 
-**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://huggingface.co/papers/2601.11868)** NEW
+**[Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://huggingface.co/papers/2601.12993)** NEW
 
 
-*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
-
-
-
+*Hao Luo, Ye Wang, Wanpeng Zhang, Sipeng Zheng, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,405-blue)](https://github.com/laude-institute/terminal-bench)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-302-blue)](https://github.com/BeingBeyond/Being-H)
 
 ---
 
 
-**[SAMTok: Representing Any Mask with Two Words](https://huggingface.co/papers/2601.16093)** NEW
+**[FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning](https://huggingface.co/papers/2601.11141)** NEW
 
 
-*Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li*
-
-
-
+*Tanyu Chen, Tairan Chen, Kai Shen, Zhenghua Bao, Zhihui Zhang, Man Yuan, Yi Shi*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,503-blue)](https://github.com/bytedance/Sa2VA/tree/main/projects/samtok)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-354-blue)](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma)
 
 ---
 
@@ -59,7 +59,41 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,298-blue)](https://github.com/QwenLM/Qwen3-TTS)
+[![](https://img.shields.io/badge/GitHub%20Stars-3,425-blue)](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+
+**[SAMTok: Representing Any Mask with Two Words](https://huggingface.co/papers/2601.16093)** NEW
+
+
+*Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,508-blue)](https://github.com/bytedance/Sa2VA/tree/main/projects/samtok)
+
+---
+
+
+**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://huggingface.co/papers/2601.11868)** NEW
+
+
+*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,412-blue)](https://github.com/laude-institute/terminal-bench)
 
 ---
 
@@ -68,27 +102,10 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 ### 2026-01-23
 
 
-**[FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning](https://huggingface.co/papers/2601.11141)** NEW
+**[Agentic Reasoning for Large Language Models](https://huggingface.co/papers/2601.12538)** NEW
 
 
-*Tanyu Chen, Tairan Chen, Kai Shen, Zhenghua Bao, Zhihui Zhang, Man Yuan, Yi Shi*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-311-blue)](https://github.com/FlashLabs-AI-Corp/FlashLabs-Chroma)
-
----
-
-
-**[Generating an Image From 1,000 Words: Enhancing Text-to-Image With Structured Captions](https://arxiv.org/abs/2511.06876)** NEW
-
-
-*Eyal Gutflaish, Eliran Kachlon, Hezi Zisman, Tal Hacham, Nimrod Sarid, Alexander Visheratin, Saar Huberman, Gal Davidi, Guy Bukchin, Kfir Goldberg, Ron Mokady*
+*Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, etc.*
 
 
 
@@ -97,58 +114,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-298-blue)](https://github.com/Bria-AI/FIBO) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)** NEW
-
-
-*Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-307-blue)](https://github.com/NVlabs/GDPO)
-
----
-
-
-**[GaussGym: An open-source real-to-sim framework for learning locomotion from pixels](https://arxiv.org/abs/2510.15352)** NEW
-
-
-*Alejandro Escontrela, Justin Kerr, Arthur Allshire, Jonas Frey, Rocky Duan, Carmelo Sferrazza, Pieter Abbeel*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-8-red) [![](https://img.shields.io/badge/GitHub%20Stars-314-blue)](https://github.com/escontra/gauss_gym) ![](https://img.shields.io/badge/Citations-6-9cf)
-
----
-
-
-**[Action100M: A Large-scale Video Action Dataset](https://huggingface.co/papers/2601.10592)** NEW
-
-
-*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-327-blue)](https://github.com/facebookresearch/Action100M)
+[![](https://img.shields.io/badge/GitHub%20Stars-368-blue)](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 ---
 
@@ -170,31 +136,82 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 ---
 
 
+**[Action100M: A Large-scale Video Action Dataset](https://huggingface.co/papers/2601.10592)** NEW
+
+
+*Delong Chen, Tejaswi Kasarla, Yejin Bang, Mustafa Shukor, Willy Chung, Jade Yu, Allen Bolourchi, Theo Moutakanni, Pascale Fung*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-338-blue)](https://github.com/facebookresearch/Action100M)
+
+---
+
+
+**[GaussGym: An open-source real-to-sim framework for learning locomotion from pixels](https://arxiv.org/abs/2510.15352)** NEW
+
+
+*Alejandro Escontrela, Justin Kerr, Arthur Allshire, Jonas Frey, Rocky Duan, Carmelo Sferrazza, Pieter Abbeel*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-8-red) [![](https://img.shields.io/badge/GitHub%20Stars-316-blue)](https://github.com/escontra/gauss_gym) ![](https://img.shields.io/badge/Citations-6-9cf)
+
+---
+
+
+**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)** NEW
+
+
+*Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-309-blue)](https://github.com/NVlabs/GDPO)
+
+---
+
+
+**[Generating an Image From 1,000 Words: Enhancing Text-to-Image With Structured Captions](https://arxiv.org/abs/2511.06876)** NEW
+
+
+*Eyal Gutflaish, Eliran Kachlon, Hezi Zisman, Tal Hacham, Nimrod Sarid, Alexander Visheratin, Saar Huberman, Gal Davidi, Guy Bukchin, Kfir Goldberg, Ron Mokady*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-298-blue)](https://github.com/Bria-AI/FIBO) ![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+
 
 ### 2026-01-22
 
 
-**[Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://huggingface.co/papers/2601.12993)** NEW
+**[UniVideo: Unified Understanding, Generation, and Editing for Videos](https://huggingface.co/papers/2510.08377)** NEW
 
 
-*Hao Luo, Ye Wang, Wanpeng Zhang, Sipeng Zheng, Ziheng Xi, Chaoyi Xu, Haiweng Xu, Haoqi Yuan, Chi Zhang, Yiqing Wang, Yicheng Feng, Zongqing Lu*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-299-blue)](https://github.com/BeingBeyond/Being-H)
-
----
-
-
-**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)** NEW
-
-
-*Xu Guo, Fulong Ye, Xinghui Li, Pengqi Tu, Pengze Zhang, Qichao Sun, Songtao Zhao, Xiangwang Hou, Qian He*
+*Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen*
 
 
 
@@ -203,41 +220,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-477-blue)](https://github.com/bytedance/DreamID-V)
-
----
-
-
-**[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/abs/2510.10274)** NEW
-
-
-*Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-16-red) [![](https://img.shields.io/badge/GitHub%20Stars-454-blue)](https://github.com/2toinf/X-VLA) ![](https://img.shields.io/badge/Citations-12-9cf)
-
----
-
-
-**[End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675)** NEW
-
-
-*Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-466-blue)](https://github.com/test-time-training/e2e)
+![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-369-blue)](https://github.com/KlingTeam/UniVideo) ![](https://img.shields.io/badge/Citations-12-9cf)
 
 ---
 
@@ -254,30 +237,132 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-510-blue)](https://github.com/facebookresearch/ShapeR)
+[![](https://img.shields.io/badge/GitHub%20Stars-533-blue)](https://github.com/facebookresearch/ShapeR)
 
 ---
 
 
-**[UniVideo: Unified Understanding, Generation, and Editing for Videos](https://huggingface.co/papers/2510.08377)** NEW
+**[End-to-End Test-Time Training for Long Context](https://huggingface.co/papers/2512.23675)** NEW
 
 
-*Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen*
-
-
-
+*Arnuv Tandon, Karan Dalal, Xinhao Li, Daniel Koceja, Marcel Rød, Sam Buchanan, Xiaolong Wang, Jure Leskovec, Sanmi Koyejo, Tatsunori Hashimoto, Carlos Guestrin, Jed McCaleb, Yejin Choi, Yu Sun*
 
 
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-368-blue)](https://github.com/KlingTeam/UniVideo) ![](https://img.shields.io/badge/Citations-12-9cf)
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-12-red) [![](https://img.shields.io/badge/GitHub%20Stars-470-blue)](https://github.com/test-time-training/e2e)
+
+---
+
+
+**[X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://arxiv.org/abs/2510.10274)** NEW
+
+
+*Jinliang Zheng, Jianxiong Li, Zhihao Wang, Dongxiu Liu, Xirui Kang, Yuchun Feng, Yinan Zheng, Jiayin Zou, Yilun Chen, Jia Zeng, Ya-Qin Zhang, Jiangmiao Pang, Jingjing Liu, Tai Wang, Xianyuan Zhan*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-16-red) [![](https://img.shields.io/badge/GitHub%20Stars-459-blue)](https://github.com/2toinf/X-VLA) ![](https://img.shields.io/badge/Citations-12-9cf)
+
+---
+
+
+**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)** NEW
+
+
+*Xu Guo, Fulong Ye, Xinghui Li, Pengqi Tu, Pengze Zhang, Qichao Sun, Songtao Zhao, Xiangwang Hou, Qian He*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-478-blue)](https://github.com/bytedance/DreamID-V)
 
 ---
 
 
 
 ### 2026-01-21
+
+
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)** NEW
+
+
+*Zhiyu Li, Chenyang Xi, Chunyu Li, Ding Chen, Boyu Chen, Shichao Song, Simin Niu, Hanyu Wang, Jiawei Yang, Chen Tang, Qingchen Yu, Jihao Zhao, Yezhaohui Wang, Peng Liu, Zehao Lin, Pengyuan Wang, Jiahao Huo, Tianyi Chen, Kai Chen, Kehang Li, Zhen Tao, Huayi Lai, Hao Wu, Bo Tang, Zhengren Wang, etc.*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-4,604-blue)](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/badge/Citations-30-9cf)
+
+---
+
+
+**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)** NEW
+
+
+*Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,262-blue)](https://github.com/kyutai-labs/pocket-tts) ![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)** NEW
+
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,777-blue)](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
+
+**[InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents](https://huggingface.co/papers/2601.03204)** NEW
+
+
+*Chenglin Yu, Yuchen Wang, Songmiao Wang, Hongxia Yang, Ming Li*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-695-blue)](https://github.com/ChenglinPoly/infiAgent)
+
+---
 
 
 **[EgoX: Egocentric Video Generation from a Single Exocentric Video](https://arxiv.org/abs/2512.08269)** NEW
@@ -297,99 +382,14 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 ---
 
 
-**[InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents](https://huggingface.co/papers/2601.03204)** NEW
-
-
-*Chenglin Yu, Yuchen Wang, Songmiao Wang, Hongxia Yang, Ming Li*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-684-blue)](https://github.com/ChenglinPoly/infiAgent)
-
----
-
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)** NEW
-
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,775-blue)](https://github.com/EverMind-AI/EverMemOS)
-
----
-
-
-**[Continuous Audio Language Models](https://huggingface.co/papers/2509.06926)** NEW
-
-
-*Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,211-blue)](https://github.com/kyutai-labs/pocket-tts) ![](https://img.shields.io/badge/Citations-2-9cf)
-
----
-
-
-**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)** NEW
-
-
-*Zhiyu Li, Chenyang Xi, Chunyu Li, Ding Chen, Boyu Chen, Shichao Song, Simin Niu, Hanyu Wang, Jiawei Yang, Chen Tang, Qingchen Yu, Jihao Zhao, Yezhaohui Wang, Peng Liu, Zehao Lin, Pengyuan Wang, Jiahao Huo, Tianyi Chen, Kai Chen, Kehang Li, Zhen Tao, Huayi Lai, Hao Wu, Bo Tang, Zhengren Wang, etc.*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-4,580-blue)](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/badge/Citations-30-9cf)
-
----
-
-
 
 ### 2026-01-20
 
 
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)** NEW
+**[DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676)** NEW
 
 
-*Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Siyun Zhao, Dongsheng Li, Luna K. Qiu, Yuqing Yang*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-11,605-blue)](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/badge/Citations-18-9cf)
-
----
-
-
-**[Recursive Language Models](https://huggingface.co/papers/2512.24601)** NEW
-
-
-*Alex L. Zhang, Tim Kraska, Omar Khattab*
+*Hao Liang, Xiaochen Ma, Zhou Liu, Zhen Hao Wong, Zhengyang Zhao, Zimo Meng, Runming He, Chengyu Shen, Qifeng Cai, Zhaoyang Han, Meiyi Qiang, Yalin Feng, Tianyi Bai, Zewei Pan, Ziyi Guo, Yizhen Jiang, Jingwen Deng, Qijie You, Peichao Lai, Tianyu Guo, Chi Hsu Tsai, Hengyi Feng, Rui Hu, Wenkai Yu, Junbo Niu, etc.*
 
 
 
@@ -398,24 +398,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,654-blue)](https://github.com/alexzhang13/rlm/tree/main)
-
----
-
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)** NEW
-
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-15,898-blue)](https://github.com/openai/agents.md)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,627-blue)](https://github.com/OpenDCAI/DataFlow)
 
 ---
 
@@ -432,53 +415,70 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-18,636-blue)](https://github.com/volcengine/verl/tree/main/recipe/fapo)
+[![](https://img.shields.io/badge/GitHub%20Stars-18,649-blue)](https://github.com/volcengine/verl/tree/main/recipe/fapo)
 
 ---
 
 
-**[DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI](https://huggingface.co/papers/2512.16676)** NEW
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)** NEW
 
 
-*Hao Liang, Xiaochen Ma, Zhou Liu, Zhen Hao Wong, Zhengyang Zhao, Zimo Meng, Runming He, Chengyu Shen, Qifeng Cai, Zhaoyang Han, Meiyi Qiang, Yalin Feng, Tianyi Bai, Zewei Pan, Ziyi Guo, Yizhen Jiang, Jingwen Deng, Qijie You, Peichao Lai, Tianyu Guo, Chi Hsu Tsai, Hengyi Feng, Rui Hu, Wenkai Yu, Junbo Niu, etc.*
-
-
-
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa, Brittany Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,610-blue)](https://github.com/OpenDCAI/DataFlow)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-15,951-blue)](https://github.com/openai/agents.md)
+
+---
+
+
+**[Recursive Language Models](https://huggingface.co/papers/2512.24601)** NEW
+
+
+*Alex L. Zhang, Tim Kraska, Omar Khattab*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,685-blue)](https://github.com/alexzhang13/rlm/tree/main)
+
+---
+
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)** NEW
+
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Siyun Zhao, Dongsheng Li, Luna K. Qiu, Yuqing Yang*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-11,645-blue)](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/badge/Citations-18-9cf)
 
 ---
 
 
 
-### 2026-01-19
+### 2026-01-17
 
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)** NEW
+**[STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668)** NEW
 
 
-*Zongwei Li, Zhonghang Li, Zirui Guo, Xubin Ren, Chao Huang*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-14,000-blue)](https://github.com/HKUDS/DeepCode)
-
----
-
-
-**[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://huggingface.co/papers/2601.04720)** NEW
-
-
-*Mingxin Li, Yanzhao Zhang, Dingkun Long, Keqin Chen, Sibo Song, Shuai Bai, Zhibo Yang, Pengjun Xie, An Yang, Dayiheng Liu, Jingren Zhou, Junyang Lin*
+*Ailin Huang, Chengyuan Yao, Chunrui Han, Fanqi Wan, Hangyu Guo, Haoran Lv, Hongyu Zhou, Jia Wang, Jian Zhou, Jianjian Sun, Jingcheng Hu, Kangheng Lin, Liang Zhao, Mitt Huang, Song Yuan, Wenwen Qu, Xiangfeng Wang, Yanlin Lai, Yingxiu Zhao, Yinmin Zhang, Yukang Shi, Yuyang Chen, Zejia Weng, Ziyang Meng, Ang Li, etc.*
 
 
 
@@ -487,32 +487,19 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-874-blue)](https://github.com/QwenLM/Qwen3-VL-Embedding)
+[![](https://img.shields.io/badge/GitHub%20Stars-292-blue)](https://github.com/stepfun-ai/Step3-VL-10B)
 
 ---
 
 
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)** NEW
+
+### 2026-01-16
 
 
-*Jiaqi Liu, Yaofeng Su, Peng Xia, Siwei Han, Zeyu Zheng, Cihang Xie, Mingyu Ding, Huaxiu Yao*
+**[LoongFlow: Directed Evolutionary Search via a Cognitive Plan-Execute-Summarize Paradigm](https://huggingface.co/papers/2512.24077)** NEW
 
 
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,853-blue)](https://github.com/aiming-lab/SimpleMem)
-
----
-
-
-**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)** NEW
-
-
-*Lars Mescheder, Wei Dong, Shiwei Li, Xuyang Bai, Marcel Santos, Peiyun Hu, Bruno Lecouat, Mingmin Zhen, Amaël Delaunoy, Tian Fang, Yanghai Tsin, Stephan R. Richter, Vladlen Koltun*
+*Chunhui Wan, Xunan Dai, Zhuo Wang, Minglei Li, Yanpeng Wang, Yinan Mao, Yu Lan, Zhiwen Xiao*
 
 
 
@@ -521,15 +508,19 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-7,115-blue)](https://github.com/apple/ml-sharp)
+[![](https://img.shields.io/badge/GitHub%20Stars-281-blue)](https://github.com/baidu-baige/LoongFlow)
 
 ---
 
 
-**[dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://huggingface.co/papers/2512.02498)** NEW
+
+### 2026-01-14
 
 
-*Yumeng Li, Guang Yang, Hao Liu, Bowen Wang, Colin Zhang*
+**[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204)** NEW
+
+
+*Huichao Zhang, Liao Qu, Yiheng Liu, Hang Chen, Yangyang Song, Yongsheng Dong, Shikun Sun, Xian Li, Xu Wang, Yi Jiang, Hu Ye, Bo Chen, Yiming Gao, Peng Liu, Akide Liu, Zhipeng Yang, Qili Deng, Linjie Xing, Jiyang Liu, Zhao Wang, Yang Zhou, Mingcong Liu, Yi Zhang, Qian He, Xiwei Hu, etc.*
 
 
 
@@ -538,7 +529,28 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-7,033-blue)](https://github.com/rednote-hilab/dots.ocr) ![](https://img.shields.io/badge/Citations-4-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-288-blue)](https://github.com/ByteVisionLab/NextFlow)
+
+---
+
+
+
+### 2026-01-13
+
+
+**[PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://huggingface.co/papers/2601.05593)** NEW
+
+
+*Jingcheng Hu, Yinmin Zhang, Shijie Shang, Xiaobo Yang, Yue Peng, Zhewei Huang, Hebin Zhou, Xin Wu, Jie Cheng, Fanqi Wan, Xiangwen Kong, Chengyuan Yao, Kaiwen Yan, Ailin Huang, Hongyu Zhou, Qi Han, Zheng Ge, Daxin Jiang, Xiangyu Zhang, Heung-Yeung Shum*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-291-blue)](https://github.com/stepfun-ai/PaCoRe)
 
 ---
 
