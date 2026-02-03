@@ -13,6 +13,74 @@ Monthly archive — 2026-02
 ### 2026-02-02
 
 
+**[Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432)** NEW
+
+
+*Yuxiang Ji, Yong Wang, Ziyu Ma, Yiming Hu, Hailang Huang, Xuecai Hu, Guanhua Chen, Liaoni Wu, Xiangxiang Chu*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-147-blue)](https://github.com/AMAP-ML/Thinking-with-Map)
+
+---
+
+
+**[V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://huggingface.co/papers/2601.09499)** NEW
+
+
+*Edgar Sucar, Eldar Insafutdinov, Zihang Lai, Andrea Vedaldi*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-154-blue)](https://github.com/eldar/vdpm)
+
+---
+
+
+**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)** NEW
+
+
+*Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-159-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox)
+
+---
+
+
+**[Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833)** NEW
+
+
+*Tengyue Xu, Zhuoyang Qian, Gaoge Liu, Li Ling, Zhentao Zhang, Biao Wu, Shuo Zhang, Ke Lu, Wei Shi, Ziqi Wang, Zheng Feng, Yan Luo, Shu Xu, Yongjin Chen, Zhibo Feng, Zhuo Chen, Bruce Yuan, Harry Wang, Kris Chen*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-465-blue)](https://github.com/AgentAlphaAGI/Idea2Paper)
+
+---
+
+
 **[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://huggingface.co/papers/2512.04677)** NEW
 
 
@@ -25,7 +93,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,659-blue)](https://github.com/Alibaba-Quark/LiveAvatar) ![](https://img.shields.io/badge/Citations-6-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,666-blue)](https://github.com/Alibaba-Quark/LiveAvatar) ![](https://img.shields.io/badge/Citations-6-9cf)
 
 ---
 
@@ -46,7 +114,7 @@ Monthly archive — 2026-02
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-154-blue)](https://github.com/FlagOpen/RoboCOIN)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-155-blue)](https://github.com/FlagOpen/RoboCOIN)
 
 ---
 
@@ -80,7 +148,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-179-blue)](https://github.com/facebookresearch/actionmesh)
+[![](https://img.shields.io/badge/GitHub%20Stars-191-blue)](https://github.com/facebookresearch/actionmesh)
 
 ---
 
@@ -97,7 +165,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-166-blue)](https://github.com/zhijie-group/Think-Then-Generate)
+[![](https://img.shields.io/badge/GitHub%20Stars-167-blue)](https://github.com/zhijie-group/Think-Then-Generate)
 
 ---
 
@@ -114,40 +182,19 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,569-blue)](https://github.com/vita-epfl/Stable-Video-Infinity) ![](https://img.shields.io/badge/Citations-11-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,880-blue)](https://github.com/vita-epfl/Stable-Video-Infinity) ![](https://img.shields.io/badge/Citations-11-9cf)
 
 ---
 
 
 
-### 2026-01-31
+### 2026-01-30
 
 
-**[Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833)** NEW
+**[Reinforcement Learning via Self-Distillation](https://huggingface.co/papers/2601.20802)** NEW
 
 
-*Tengyue Xu, Zhuoyang Qian, Gaoge Liu, Li Ling, Zhentao Zhang, Biao Wu, Shuo Zhang, Ke Lu, Wei Shi, Ziqi Wang, Zheng Feng, Yan Luo, Shu Xu, Yongjin Chen, Zhibo Feng, Zhuo Chen, Bruce Yuan, Harry Wang, Kris Chen*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-264-blue)](https://github.com/AgentAlphaAGI/Idea2Paper)
-
----
-
-
-
-### 2026-01-24
-
-
-**[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206)** NEW
-
-
-*Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei*
+*Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause*
 
 
 
@@ -156,28 +203,49 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-154-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox)
+[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/lasgroup/SDPO)
 
 ---
 
 
 
-### 2026-01-17
+### 2026-01-27
 
 
-**[V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://huggingface.co/papers/2601.09499)** NEW
+**[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746)** NEW
 
 
-*Edgar Sucar, Eldar Insafutdinov, Zihang Lai, Andrea Vedaldi*
-
-
-
+*Yuhang Wang, Yuling Shi, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-150-blue)](https://github.com/eldar/vdpm)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/Ayanami1314/swe-pruner)
+
+---
+
+
+
+### 2026-01-22
+
+
+**[Toward Efficient Agents: Memory, Tool learning, and Planning](https://huggingface.co/papers/2601.14192)** NEW
+
+
+*Xiaofang Yang, Lijun Li, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan Wei, Rui Ye, Li Kang, Yiran Qin, Zhiqiang Kou, Daizong Liu, Qi Li, Ning Ding, Siheng Chen, Jing Shao*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/yxf203/Awesome-Efficient-Agents)
 
 ---
 
@@ -186,19 +254,36 @@ Monthly archive — 2026-02
 ### 2026-01-13
 
 
-**[Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432)** NEW
+**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)** NEW
 
 
-*Yuxiang Ji, Yong Wang, Ziyu Ma, Yiming Hu, Hailang Huang, Xuecai Hu, Guanhua Chen, Liaoni Wu, Xiangxiang Chu*
-
-
-
+*Charlie Zhang, Graham Neubig, Xiang Yue*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-147-blue)](https://github.com/AMAP-ML/Thinking-with-Map)
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-133-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Citations-6-9cf)
+
+---
+
+
+**[Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://huggingface.co/papers/2601.06943)** NEW
+
+
+*Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-137-blue)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
 
 ---
 
