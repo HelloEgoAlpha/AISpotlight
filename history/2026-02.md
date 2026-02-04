@@ -10,6 +10,184 @@ Monthly archive — 2026-02
 </div>
 
 
+### 2026-02-04
+
+
+**[An Empirical Study of World Model Quantization](https://huggingface.co/papers/2602.02110)** NEW
+
+
+*Zhongqian Fu, Tianyi Zhao, Kai Han, Hang Zhou, Xinghao Chen, Yunhe Wang*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
+
+---
+
+
+**[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://huggingface.co/papers/2602.02488)** NEW
+
+
+*Yinjie Wang, Tianbao Xie, Ke Shen, Mengdi Wang, Ling Yang*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-193-blue)](https://github.com/Gen-Verse/Open-AgentRL)
+
+---
+
+
+**[MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](https://arxiv.org/abs/2512.07628)** NEW
+
+
+*Zhiqi Li, Wenhuan Li, Tengfei Wang, Zhenwei Wang, Junta Wu, Haoyuan Wang, Yunhan Yang, Zehuan Huang, Yang Li, Peidong Liu, Chunchao Guo*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-173-blue)](https://github.com/lizhiqi49/MoCA)
+
+---
+
+
+**[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://huggingface.co/papers/2602.02214)** NEW
+
+
+*Hongzhou Zhu, Min Zhao, Guande He, Hang Su, Chongxuan Li, Jun Zhu*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-165-blue)](https://github.com/thu-ml/Causal-Forcing)
+
+---
+
+
+**[MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://arxiv.org/abs/2512.21003)** NEW
+
+
+*Xiangzuo Wu, Chengwei Ren, Jun Zhou, Xiu Li, Yuan Liu*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/Maddog241/mvinverse)
+
+---
+
+
+
+### 2026-02-03
+
+
+**[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746)** NEW
+
+
+*Yuhang Wang, Yuling Shi, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-141-blue)](https://github.com/Ayanami1314/swe-pruner)
+
+---
+
+
+**[Toward Efficient Agents: Memory, Tool learning, and Planning](https://huggingface.co/papers/2601.14192)** NEW
+
+
+*Xiaofang Yang, Lijun Li, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan Wei, Rui Ye, Li Kang, Yiran Qin, Zhiqiang Kou, Daizong Liu, Qi Li, Ning Ding, Siheng Chen, Jing Shao*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-141-blue)](https://github.com/yxf203/Awesome-Efficient-Agents)
+
+---
+
+
+**[Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://huggingface.co/papers/2601.06943)** NEW
+
+
+*Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-137-blue)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
+
+---
+
+
+**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)** NEW
+
+
+*Charlie Zhang, Graham Neubig, Xiang Yue*
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-133-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Citations-6-9cf)
+
+---
+
+
+**[Reinforcement Learning via Self-Distillation](https://huggingface.co/papers/2601.20802)** NEW
+
+
+*Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/lasgroup/SDPO)
+
+---
+
+
+
 ### 2026-02-02
 
 
@@ -42,7 +220,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-154-blue)](https://github.com/eldar/vdpm)
+[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/eldar/vdpm)
 
 ---
 
@@ -93,7 +271,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,666-blue)](https://github.com/Alibaba-Quark/LiveAvatar) ![](https://img.shields.io/badge/Citations-6-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,708-blue)](https://github.com/Alibaba-Quark/LiveAvatar) ![](https://img.shields.io/badge/Citations-6-9cf)
 
 ---
 
@@ -165,7 +343,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-167-blue)](https://github.com/zhijie-group/Think-Then-Generate)
+[![](https://img.shields.io/badge/GitHub%20Stars-168-blue)](https://github.com/zhijie-group/Think-Then-Generate)
 
 ---
 
@@ -182,108 +360,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,880-blue)](https://github.com/vita-epfl/Stable-Video-Infinity) ![](https://img.shields.io/badge/Citations-11-9cf)
-
----
-
-
-
-### 2026-01-30
-
-
-**[Reinforcement Learning via Self-Distillation](https://huggingface.co/papers/2601.20802)** NEW
-
-
-*Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/lasgroup/SDPO)
-
----
-
-
-
-### 2026-01-27
-
-
-**[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746)** NEW
-
-
-*Yuhang Wang, Yuling Shi, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/Ayanami1314/swe-pruner)
-
----
-
-
-
-### 2026-01-22
-
-
-**[Toward Efficient Agents: Memory, Tool learning, and Planning](https://huggingface.co/papers/2601.14192)** NEW
-
-
-*Xiaofang Yang, Lijun Li, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan Wei, Rui Ye, Li Kang, Yiran Qin, Zhiqiang Kou, Daizong Liu, Qi Li, Ning Ding, Siheng Chen, Jing Shao*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/yxf203/Awesome-Efficient-Agents)
-
----
-
-
-
-### 2026-01-13
-
-
-**[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783)** NEW
-
-
-*Charlie Zhang, Graham Neubig, Xiang Yue*
-
-
-
-
-
-
-
-
-![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-133-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Citations-6-9cf)
-
----
-
-
-**[Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning](https://huggingface.co/papers/2601.06943)** NEW
-
-
-*Chengwen Liu, Xiaomin Yu, Zhuoyue Chang, Zhe Huang, Shuo Zhang, Heng Lian, Kunyi Wang, Rui Xu, Sen Hu, Jianheng Hou, Hao Peng, Chengwei Qin, Xiaobin Hu, Hong Peng, Ronghao Chen, Huacan Wang*
-
-
-
-
-
-
-
-
-[![](https://img.shields.io/badge/GitHub%20Stars-137-blue)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,927-blue)](https://github.com/vita-epfl/Stable-Video-Infinity) ![](https://img.shields.io/badge/Citations-11-9cf)
 
 ---
 
