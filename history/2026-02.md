@@ -10,39 +10,94 @@ Monthly archive — 2026-02
 </div>
 
 
-### 2026-02-04
+### 2026-02-05
 
 
-**[An Empirical Study of World Model Quantization](https://huggingface.co/papers/2602.02110)** NEW
+**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://huggingface.co/papers/2509.18154)** NEW
 
 
-*Zhongqian Fu, Tianyi Zhao, Kai Han, Hang Zhou, Xinghao Chen, Yunhe Wang*
-
-
-
+*Tianyu Yu, Zefan Wang, Chongyi Wang, Fuwei Huang, Wenshuo Ma, Zhihui He, Tianchi Cai, Weize Chen, Yuxiang Huang, Yuanqian Zhao, Bokai Xu, Junbo Cui, Yingjing Xu, Liqing Ruan, Luoyuan Zhang, Hanyu Liu, Jingkun Tang, Hongyuan Liu, Qining Guo, Wenhao Hu, Bingxiang He, Jie Zhou, Jie Cai, Ji Qi, Zonghao Guo, etc.*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-22,807-blue)](https://github.com/OpenBMB/MiniCPM-V) ![](https://img.shields.io/badge/Citations-31-9cf)
 
 ---
 
 
-**[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://huggingface.co/papers/2602.02488)** NEW
+**[Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks](https://huggingface.co/papers/2602.01630)** NEW
 
 
-*Yinjie Wang, Tianbao Xie, Ke Shen, Mengdi Wang, Ling Yang*
-
-
-
+*Bohan Zeng, Kaixin Zhu, Daili Hua, Bozhou Li, Chengzhuo Tong, Yuran Wang, Xinyi Huang, Yifan Dai, Zixiang Zhang, Yifan Yang, Zhou Liu, Hao Liang, Xiaochen Ma, Ruichuan An, Tianyi Bai, Hongcheng Gao, Junbo Niu, Yang Shi, Xinlong Chen, Yue Ding, Minglei Shi, Kai Zeng, Yiwen Tang, Yuanxing Zhang, Pengfei Wan, etc.*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-193-blue)](https://github.com/Gen-Verse/Open-AgentRL)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-2,852-blue)](https://github.com/OpenDCAI/DataFlow)
+
+---
+
+
+**[Unified Personalized Reward Model for Vision Generation](https://huggingface.co/papers/2602.02380)** NEW
+
+
+*Yibin Wang, Yuhang Zang, Feng Han, Jiazi Bu, Yujie Zhou, Cheng Jin, Jiaqi Wang*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-691-blue)](https://github.com/CodeGoat24/UnifiedReward)
+
+---
+
+
+
+### 2026-02-04
+
+
+**[MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://arxiv.org/abs/2512.21003)** NEW
+
+
+*Xiangzuo Wu, Chengwei Ren, Jun Zhou, Xiu Li, Yuan Liu*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/Maddog241/mvinverse)
+
+---
+
+
+**[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://huggingface.co/papers/2602.02214)** NEW
+
+
+*Hongzhou Zhu, Min Zhao, Guande He, Hang Su, Chongxuan Li, Jun Zhu*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-185-blue)](https://github.com/thu-ml/Causal-Forcing)
 
 ---
 
@@ -64,42 +119,59 @@ Monthly archive — 2026-02
 ---
 
 
-**[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://huggingface.co/papers/2602.02214)** NEW
+**[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://huggingface.co/papers/2602.02488)** NEW
 
 
-*Hongzhou Zhu, Min Zhao, Guande He, Hang Su, Chongxuan Li, Jun Zhu*
-
-
-
+*Yinjie Wang, Tianbao Xie, Ke Shen, Mengdi Wang, Ling Yang*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-165-blue)](https://github.com/thu-ml/Causal-Forcing)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-196-blue)](https://github.com/Gen-Verse/Open-AgentRL)
 
 ---
 
 
-**[MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://arxiv.org/abs/2512.21003)** NEW
+**[An Empirical Study of World Model Quantization](https://huggingface.co/papers/2602.02110)** NEW
 
 
-*Xiangzuo Wu, Chengwei Ren, Jun Zhou, Xiu Li, Yuan Liu*
-
-
-
+*Zhongqian Fu, Tianyi Zhao, Kai Han, Hang Zhou, Xinghao Chen, Yunhe Wang*
 
 
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/Maddog241/mvinverse)
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
 
 ---
 
 
 
 ### 2026-02-03
+
+
+**[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)** NEW
+
+
+*Ed Li, Junyu Ren, Cat Yan*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-187-blue)](https://github.com/ltjed/multiagent-coaching)
+
+---
 
 
 **[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://huggingface.co/papers/2601.16746)** NEW
@@ -114,7 +186,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-141-blue)](https://github.com/Ayanami1314/swe-pruner)
+[![](https://img.shields.io/badge/GitHub%20Stars-161-blue)](https://github.com/Ayanami1314/swe-pruner)
 
 ---
 
@@ -148,7 +220,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-137-blue)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
+[![](https://img.shields.io/badge/GitHub%20Stars-139-blue)](https://github.com/QuantaAlpha/VideoDR-Benchmark)
 
 ---
 
@@ -165,7 +237,7 @@ Monthly archive — 2026-02
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-133-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Citations-6-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/Interplay-LM-Reasoning/Interplay-LM-Reasoning) ![](https://img.shields.io/badge/Citations-6-9cf)
 
 ---
 
@@ -182,7 +254,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/lasgroup/SDPO)
+[![](https://img.shields.io/badge/GitHub%20Stars-229-blue)](https://github.com/lasgroup/SDPO)
 
 ---
 
@@ -237,7 +309,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-159-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox)
+[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/llm-in-sandbox/llm-in-sandbox)
 
 ---
 
@@ -254,7 +326,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-465-blue)](https://github.com/AgentAlphaAGI/Idea2Paper)
+[![](https://img.shields.io/badge/GitHub%20Stars-592-blue)](https://github.com/AgentAlphaAGI/Idea2Paper)
 
 ---
 
@@ -271,7 +343,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,708-blue)](https://github.com/Alibaba-Quark/LiveAvatar) ![](https://img.shields.io/badge/Citations-6-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,734-blue)](https://github.com/Alibaba-Quark/LiveAvatar) ![](https://img.shields.io/badge/Citations-6-9cf)
 
 ---
 
@@ -292,7 +364,7 @@ Monthly archive — 2026-02
 
 
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-155-blue)](https://github.com/FlagOpen/RoboCOIN)
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-156-blue)](https://github.com/FlagOpen/RoboCOIN)
 
 ---
 
@@ -326,7 +398,7 @@ Monthly archive — 2026-02
 
 
 
-[![](https://img.shields.io/badge/GitHub%20Stars-191-blue)](https://github.com/facebookresearch/actionmesh)
+[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/facebookresearch/actionmesh)
 
 ---
 
@@ -361,6 +433,27 @@ Monthly archive — 2026-02
 
 
 [![](https://img.shields.io/badge/GitHub%20Stars-1,927-blue)](https://github.com/vita-epfl/Stable-Video-Infinity) ![](https://img.shields.io/badge/Citations-11-9cf)
+
+---
+
+
+
+### 2026-01-31
+
+
+**[MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources](https://huggingface.co/papers/2601.22054)** NEW
+
+
+*Baorui Ma, Jiahui Yang, Donglin Di, Xuancheng Zhang, Jianxun Cui, Hao Li, Yan Xie, Wei Chen*
+
+
+
+
+
+
+
+
+[![](https://img.shields.io/badge/GitHub%20Stars-149-blue)](https://github.com/metric-anything/metric-anything)
 
 ---
 
