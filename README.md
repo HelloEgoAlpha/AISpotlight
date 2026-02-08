@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-02-07
+### 2026-02-08
 
-**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)** NEW
+**[UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization](https://huggingface.co/papers/2602.04683)** NEW
 
 *Published: 2026-02-05*
 
-*Jian Chen, Yesheng Liang, Zhijian Liu*
+*Dongchao Yang, Yuanyuan Wang, Dading Chong, Songxiang Liu, Xixin Wu, Helen Meng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-475-blue)](https://github.com/z-lab/dflash)
+[![](https://img.shields.io/badge/GitHub%20Stars-82-blue)](https://github.com/yangdongchao/UniAudio2)
 
 ---
 
 
-**[CL-bench: A Benchmark for Context Learning](https://huggingface.co/papers/2602.03587)** NEW
+**[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](https://huggingface.co/papers/2602.01382)** NEW
+
+*Published: 2026-02-01*
+
+*Fu-Yun Wang, Han Zhang, Michael Gharbi, Hongsheng Li, Taesung Park*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/G-U-N/UniRL)
+
+---
+
+
+**[A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces](https://huggingface.co/papers/2602.03442)** NEW
 
 *Published: 2026-02-03*
 
-*Shihan Dou, Ming Zhang, Zhangyue Yin, Chenhao Huang, Yujiong Shen, Junzhe Wang, Jiayi Chen, Yuchen Ni, Junjie Ye, Cheng Zhang, Huaibing Xie, Jianglu Hu, Shaolei Wang, Weichao Wang, Yanling Xiao, Yiting Liu, Zenan Xu, Zhen Guo, Pluto Zhou, Tao Gui, Zuxuan Wu, Xipeng Qiu, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang, etc.*
+*Mingxuan Du, Benfeng Xu, Chiwei Zhu, Shaohan Wang, Pengyu Wang, Xiaorui Wang, Zhendong Mao*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-324-blue)](https://github.com/Tencent-Hunyuan/CL-bench)
-
----
-
-
-**[Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning](https://huggingface.co/papers/2602.00298)** NEW
-
-*Published: 2026-01-30*
-
-*Abhishek Mishra, Mugilan Arulvanan, Reshma Ashok, Polina Petrova, Deepesh Suranjandass, Donnie Winkelmann*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-258-blue)](https://github.com/emergent-misalignment/emergent-misalignment)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/Ayanami0730/arag)
 
 ---
 
 
-**[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604)** NEW
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)** NEW
 
-*Published: 2026-02-03*
+*Published: 2026-01-22*
 
-*Basile Terver, Randall Balestriero, Megi Dervishi, David Fan, Quentin Garrido, Tushar Nagarajan, Koustuv Sinha, Wancong Zhang, Mike Rabbat, Yann LeCun, Amir Bar*
+*Hangrui Hu, Xinfa Zhu, Ting He, Dake Guo, Bin Zhang, Xiong Wang, Zhifang Guo, Ziyue Jiang, Hongkun Hao, Zishan Guo, Xinyu Zhang, Pei Zhang, Baosong Yang, Jin Xu, Jingren Zhou, Junyang Lin*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-211-blue)](https://github.com/facebookresearch/eb_jepa)
+![](https://img.shields.io/badge/Mendeley%20Readers-288-red) [![](https://img.shields.io/badge/GitHub%20Stars-7,113-blue)](https://github.com/QwenLM/Qwen3-TTS)
 
 ---
 
 
-**[AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://huggingface.co/papers/2602.03828)** NEW
+**[Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation](https://huggingface.co/papers/2602.01756)** NEW
 
-*Published: 2026-02-03*
+*Published: 2026-02-02*
 
-*Minjun Zhu, Zhen Lin, Yixuan Weng, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun, Yue Zhang*
+*Jun He, Junyan Ye, Zilong Huang, Dongzhi Jiang, Chenjue Zhang, Leqi Zhu, Renrui Zhang, Xiang Zhang, Weijia Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-111-blue)](https://github.com/ResearAI/AutoFigure-Edit) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-52-blue)](https://github.com/PicoTrex/Mind-Brush)
 
 ---
 
