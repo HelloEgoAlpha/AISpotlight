@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-02-10
+### 2026-02-11
 
-**[On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://huggingface.co/papers/2602.03392)** NEW
+**[MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794)** NEW
 
-*Published: 2026-02-03*
+*Published: 2026-02-09*
 
-*Shumin Wang, Yuexiang Xie, Wenhao Zhang, Yuchang Sun, Yanxi Chen, Yaliang Li, Yanyong Zhang*
+*SII-OpenMOSS Team, Donghua Yu, Mingshu Chen, Qi Chen, Qi Luo, Qianyi Wu, Qinyuan Cheng, Ruixiao Li, Tianyi Liang, Wenbo Zhang, Wenming Tu, Xiangyu Peng, Yang Gao, Yanru Huo, Ying Zhu, Yinze Luo, Yiyang Zhang, Yuerong Song, Zhe Xu, Zhiyu Zhang, Chenchen Yang, Cheng Chang, Chushu Zhou, Hanfu Chen, Hongnan Ma, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-521-blue)](https://github.com/agentscope-ai/Trinity-RFT)
+[![](https://img.shields.io/badge/GitHub%20Stars-585-blue)](https://github.com/OpenMOSS/MOVA)
 
 ---
 
 
-**[Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion](https://huggingface.co/papers/2602.06724)** NEW
+**[InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery](https://huggingface.co/papers/2602.08990)** NEW
+
+*Published: 2026-02-09*
+
+*Shiyang Feng, Runmin Ma, Xiangchao Yan, Yue Fan, Yusong Hu, Songtao Huang, Shuaiyu Zhang, Zongsheng Cao, Tianshuo Peng, Jiakang Yuan, Zijie Guo, Zhijie Zhong, Shangheng Du, Weida Wang, Jinxin Shi, Yuhao Zhou, Xiaohan He, Zhiyin Yu, Fangchen Yu, Qihao Zheng, Jiamin Wu, Mianxin Liu, Chi Zhang, Shaowei Hou, Shuya Li, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-866-blue)](https://github.com/InternScience/InternAgent)
+
+---
+
+
+**[AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research](https://huggingface.co/papers/2602.06540)** NEW
 
 *Published: 2026-02-06*
 
-*Tian Lan, Felix Henry, Bin Zhu, Qianghuai Jia, Junyang Ren, Qihang Pu, Haijun Li, Longyue Wang, Zhao Xu, Weihua Luo*
+*Yishan Li, Wentong Chen, Yukun Yan, Mingwei Li, Sen Mei, Xiaorong Wang, Kunpeng Liu, Xin Cong, Shuo Wang, Zhong Zhang, Yaxi Lu, Zhenghao Liu, Yankai Lin, Zhiyuan Liu, Maosong Sun*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-246-blue)](https://github.com/AIDC-AI/Marco-DeepResearch/)
-
----
-
-
-**[A Pragmatic VLA Foundation Model](https://huggingface.co/papers/2601.18692)** NEW
-
-*Published: 2026-01-26*
-
-*Wei Wu, Fan Lu, Yunnan Wang, Shuai Yang, Shi Liu, Fangjing Wang, Qian Zhu, He Sun, Yong Wang, Shuailei Ma, Yiyu Ren, Kejia Zhang, Hui Yu, Jingmei Zhao, Shuai Zhou, Zhenqi Qiu, Houlong Xiong, Ziyu Wang, Zechen Wang, Ran Cheng, Yong-Lu Li, Yongtao Huang, Xing Zhu, Yujun Shen, Kecheng Zheng*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-10-red) [![](https://img.shields.io/badge/GitHub%20Stars-735-blue)](https://github.com/robbyant/lingbot-vla)
+[![](https://img.shields.io/badge/GitHub%20Stars-728-blue)](https://github.com/OpenBMB/AgentCPM/tree/main/AgentCPM-Report)
 
 ---
 
 
-**[Advancing Open-source World Models](https://huggingface.co/papers/2601.20540)** NEW
+**[LLaDA2.1: Speeding Up Text Diffusion via Token Editing](https://huggingface.co/papers/2602.08676)** NEW
 
-*Published: 2026-01-28*
+*Published: 2026-02-09*
 
-*Robbyant Team, Zelin Gao, Qiuyu Wang, Yanhong Zeng, Jiapeng Zhu, Ka Leong Cheng, Yixuan Li, Hanlin Wang, Yinghao Xu, Shuailei Ma, Yihang Chen, Jie Liu, Yansong Cheng, Yao Yao, Jiayi Zhu, Yihao Meng, Kecheng Zheng, Qingyan Bai, Jingye Chen, Zehong Shen, Yue Yu, Xing Zhu, Yujun Shen, Hao Ouyang*
+*Tiwei Bie, Maosong Cao, Xiang Cao, Bingsen Chen, Fuyuan Chen, Kun Chen, Lun Du, Daozhuo Feng, Haibo Feng, Mingliang Gong, Zhuocheng Gong, Yanmei Gu, Jian Guan, Kaiyuan Guan, Hongliang He, Zenan Huang, Juyong Jiang, Zhonghui Jiang, Zhenzhong Lan, Chengxi Li, Jianguo Li, Zehuan Li, Huabin Liu, Lin Liu, Guoshan Lu, etc.*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-8-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,687-blue)](https://github.com/Robbyant/lingbot-world/)
+[![](https://img.shields.io/badge/GitHub%20Stars-256-blue)](https://github.com/inclusionAI/LLaDA2.X)
 
 ---
 
 
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)** NEW
+**[EchoJEPA: A Latent Predictive Foundation Model for Echocardiography](https://arxiv.org/abs/2602.02603)** NEW
 
-*Published: 2026-01-09*
+*Published: 2026-02-04*
 
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng*
+*Alif Munim, Adibvafa Fallahpour, Teodora Szasz, Ahmadreza Attarpour, River Jiang, Brana Sooriyakanthan, Maala Sooriyakanthan, Heather Whitney, Jeremy Slivnick, Barry Rubin, Wendy Tsang, Bo Wang*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,987-blue)](https://github.com/EverMind-AI/EverMemOS) ![](https://img.shields.io/badge/Citations-2-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-205-blue)](https://github.com/bowang-lab/EchoJEPA)
 
 ---
 
