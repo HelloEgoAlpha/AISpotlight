@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-02-11
+### 2026-02-12
 
-**[MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794)** NEW
-
-*Published: 2026-02-09*
-
-*SII-OpenMOSS Team, Donghua Yu, Mingshu Chen, Qi Chen, Qi Luo, Qianyi Wu, Qinyuan Cheng, Ruixiao Li, Tianyi Liang, Wenbo Zhang, Wenming Tu, Xiangyu Peng, Yang Gao, Yanru Huo, Ying Zhu, Yinze Luo, Yiyang Zhang, Yuerong Song, Zhe Xu, Zhiyu Zhang, Chenchen Yang, Cheng Chang, Chushu Zhou, Hanfu Chen, Hongnan Ma, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-585-blue)](https://github.com/OpenMOSS/MOVA)
-
----
-
-
-**[InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery](https://huggingface.co/papers/2602.08990)** NEW
+**[UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082)** NEW
 
 *Published: 2026-02-09*
 
-*Shiyang Feng, Runmin Ma, Xiangchao Yan, Yue Fan, Yusong Hu, Songtao Huang, Shuaiyu Zhang, Zongsheng Cao, Tianshuo Peng, Jiakang Yuan, Zijie Guo, Zhijie Zhong, Shangheng Du, Weida Wang, Jinxin Shi, Yuhao Zhou, Xiaohan He, Zhiyin Yu, Fangchen Yu, Qihao Zheng, Jiamin Wu, Mianxin Liu, Chi Zhang, Shaowei Hou, Shuya Li, etc.*
+*Veuns-Team, Changlong Gao, Zhangxuan Gu, Yulin Liu, Xinyu Qiu, Shuheng Shen, Yue Wen, Tianyu Xia, Zhenyu Xu, Zhengwen Zeng, Beitong Zhou, Xingran Zhou, Weizhi Chen, Sunhao Dai, Jingya Dou, Yichen Gong, Yuan Guo, Zhenlin Guo, Feng Li, Qian Li, Jinzhen Lin, Yuqi Zhou, Linchao Zhu, Liang Chen, Zhenyu Guo, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-866-blue)](https://github.com/InternScience/InternAgent)
-
----
-
-
-**[AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research](https://huggingface.co/papers/2602.06540)** NEW
-
-*Published: 2026-02-06*
-
-*Yishan Li, Wentong Chen, Yukun Yan, Mingwei Li, Sen Mei, Xiaorong Wang, Kunpeng Liu, Xin Cong, Shuo Wang, Zhong Zhang, Yaxi Lu, Zhenghao Liu, Yankai Lin, Zhiyuan Liu, Maosong Sun*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-728-blue)](https://github.com/OpenBMB/AgentCPM/tree/main/AgentCPM-Report)
+[![](https://img.shields.io/badge/GitHub%20Stars-710-blue)](https://github.com/inclusionAI/UI-Venus/blob/UI-Venus-1.5)
 
 ---
 
 
-**[LLaDA2.1: Speeding Up Text Diffusion via Token Editing](https://huggingface.co/papers/2602.08676)** NEW
+**[RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI](https://huggingface.co/papers/2602.07837)** NEW
 
-*Published: 2026-02-09*
+*Published: 2026-02-10*
 
-*Tiwei Bie, Maosong Cao, Xiang Cao, Bingsen Chen, Fuyuan Chen, Kun Chen, Lun Du, Daozhuo Feng, Haibo Feng, Mingliang Gong, Zhuocheng Gong, Yanmei Gu, Jian Guan, Kaiyuan Guan, Hongliang He, Zenan Huang, Juyong Jiang, Zhonghui Jiang, Zhenzhong Lan, Chengxi Li, Jianguo Li, Zehuan Li, Huabin Liu, Lin Liu, Guoshan Lu, etc.*
+*Hongzhi Zang, Shu'ang Yu, Hao Lin, Tianxing Zhou, Zefang Huang, Zhen Guo, Xin Xu, Jiakai Zhou, Yuze Sheng, Shizhe Zhang, Feng Gao, Wenhao Tang, Yufeng Yue, Quanlu Zhang, Xinlei Chen, Chao Yu, Yu Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-256-blue)](https://github.com/inclusionAI/LLaDA2.X)
+[![](https://img.shields.io/badge/GitHub%20Stars-2,460-blue)](https://github.com/RLinf/RLinf/blob/main/examples/embodiment/run_realworld_async.sh)
 
 ---
 
 
-**[EchoJEPA: A Latent Predictive Foundation Model for Echocardiography](https://arxiv.org/abs/2602.02603)** NEW
+**[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://huggingface.co/papers/2602.10102)** NEW
 
-*Published: 2026-02-04*
+*Published: 2026-02-10*
 
-*Alif Munim, Adibvafa Fallahpour, Teodora Szasz, Ahmadreza Attarpour, River Jiang, Brana Sooriyakanthan, Maala Sooriyakanthan, Heather Whitney, Jeremy Slivnick, Barry Rubin, Wendy Tsang, Bo Wang*
+*Zhongwei Ren, Yunchao Wei, Xiao Yu, Guixun Luo, Yao Zhao, Bingyi Kang, Jiashi Feng, Xiaojie Jin*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-205-blue)](https://github.com/bowang-lab/EchoJEPA)
+[![](https://img.shields.io/badge/GitHub%20Stars-685-blue)](https://github.com/ByteDance-Seed/VideoWorld/tree/main/VideoWorld2)
+
+---
+
+
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)** NEW
+
+*Published: 2026-01-26*
+
+*Dongchao Yang, Yuxin Xie, Yuguo Yin, Zheyu Wang, Xiaoyu Yi, Gongxi Zhu, Xiaolong Weng, Zihan Xiong, Yingzhe Ma, Dading Cong, Jingliang Liu, Zihang Huang, Jinghan Ru, Rongjie Huang, Haoran Wan, Peixu Wang, Kuoxi Yu, Helin Wang, Liming Liang, Xianwei Zhuang, Yuanyuan Wang, Dingdong, Wang, Haohan Guo, Junjie Cao, etc.*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,409-blue)](https://github.com/HeartMuLa/heartlib)
+
+---
+
+
+**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)** NEW
+
+*Published: 2026-01-17*
+
+*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-597-blue)](https://github.com/laude-institute/harbor) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
