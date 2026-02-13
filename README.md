@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-02-12
+### 2026-02-13
 
-**[UI-Venus-1.5 Technical Report](https://huggingface.co/papers/2602.09082)** NEW
+**[Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604)** NEW
 
-*Published: 2026-02-09*
+*Published: 2026-02-11*
 
-*Veuns-Team, Changlong Gao, Zhangxuan Gu, Yulin Liu, Xinyu Qiu, Shuheng Shen, Yue Wen, Tianyu Xia, Zhenyu Xu, Zhengwen Zeng, Beitong Zhou, Xingran Zhou, Weizhi Chen, Sunhao Dai, Jingya Dou, Yichen Gong, Yuan Guo, Zhenlin Guo, Feng Li, Qian Li, Jinzhen Lin, Yuqi Zhou, Linchao Zhu, Liang Chen, Zhenyu Guo, etc.*
+*Ailin Huang, Ang Li, Aobo Kong, Bin Wang, Binxing Jiao, Bo Dong, Bojun Wang, Boyu Chen, Brian Li, Buyun Ma, Chang Su, Changxin Miao, Changyi Wan, Chao Lou, Chen Hu, Chen Xu, Chenfeng Yu, Chengting Feng, Chengyuan Yao, Chunrui Han, Dan Ma, Dapeng Shi, Daxin Jiang, Dehua Ma, Deshan Sun, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-710-blue)](https://github.com/inclusionAI/UI-Venus/blob/UI-Venus-1.5)
-
----
-
-
-**[RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI](https://huggingface.co/papers/2602.07837)** NEW
-
-*Published: 2026-02-10*
-
-*Hongzhi Zang, Shu'ang Yu, Hao Lin, Tianxing Zhou, Zefang Huang, Zhen Guo, Xin Xu, Jiakai Zhou, Yuze Sheng, Shizhe Zhang, Feng Gao, Wenhao Tang, Yufeng Yue, Quanlu Zhang, Xinlei Chen, Chao Yu, Yu Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-2,460-blue)](https://github.com/RLinf/RLinf/blob/main/examples/embodiment/run_realworld_async.sh)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,245-blue)](https://github.com/stepfun-ai/Step-3.5-Flash)
 
 ---
 
 
-**[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://huggingface.co/papers/2602.10102)** NEW
+**[QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085)** NEW
 
-*Published: 2026-02-10*
+*Published: 2026-02-06*
 
-*Zhongwei Ren, Yunchao Wei, Xiao Yu, Guixun Luo, Yao Zhao, Bingyi Kang, Jiashi Feng, Xiaojie Jin*
+*Jun Han, Shuo Zhang, Wei Li, Zhi Yang, Yifan Dong, Tu Hu, Jialuo Yuan, Xiaomin Yu, Yumo Zhu, Fangqi Lou, Xin Guo, Zhaowei Liu, Tianyi Jiang, Ruichuan An, Jingping Liu, Biao Wu, Rongze Chen, Kunyi Wang, Yifan Wang, Sen Hu, Xinbing Kong, Liwen Zhang, Ronghao Chen, Huacan Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-685-blue)](https://github.com/ByteDance-Seed/VideoWorld/tree/main/VideoWorld2)
-
----
-
-
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)** NEW
-
-*Published: 2026-01-26*
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin, Zheyu Wang, Xiaoyu Yi, Gongxi Zhu, Xiaolong Weng, Zihan Xiong, Yingzhe Ma, Dading Cong, Jingliang Liu, Zihang Huang, Jinghan Ru, Rongjie Huang, Haoran Wan, Peixu Wang, Kuoxi Yu, Helin Wang, Liming Liang, Xianwei Zhuang, Yuanyuan Wang, Dingdong, Wang, Haohan Guo, Junjie Cao, etc.*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-3,409-blue)](https://github.com/HeartMuLa/heartlib)
+[![](https://img.shields.io/badge/GitHub%20Stars-248-blue)](https://github.com/QuantaAlpha/QuantaAlpha)
 
 ---
 
 
-**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)** NEW
+**[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](https://huggingface.co/papers/2602.10652)** NEW
 
-*Published: 2026-01-17*
+*Published: 2026-02-11*
 
-*Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, Junhong Shen, Guanghao Ye, Haowei Lin, Jason Poulos, Maoyu Wang, Marianna Nezhurina, Jenia Jitsev, Di Lu, Orfeas Menis Mastromichalakis, Zhiwei Xu, Zizhao Chen, Yue Liu, Robert Zhang, Leon Liangyu Chen, Anurag Kashyap, etc.*
+*Yongshi Ye, Hui Jiang, Feihu Jiang, Tian Lan, Yichao Du, Biao Fu, Xiaodong Shi, Qianghuai Jia, Longyue Wang, Weihua Luo*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-597-blue)](https://github.com/laude-institute/harbor) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-247-blue)](https://github.com/AIDC-AI/Marco-DeepResearch)
+
+---
+
+
+**[Masked Depth Modeling for Spatial Perception](https://huggingface.co/papers/2601.17895)** NEW
+
+*Published: 2026-01-25*
+
+*Bin Tan, Changjiang Sun, Xiage Qin, Hanat Adai, Zelin Fu, Tianxiang Zhou, Han Zhang, Yinghao Xu, Xing Zhu, Yujun Shen, Nan Xue*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-862-blue)](https://github.com/Robbyant/lingbot-depth) ![](https://img.shields.io/badge/Citations-2-9cf)
+
+---
+
+
+**[Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833)** NEW
+
+*Published: 2026-01-28*
+
+*Tengyue Xu, Zhuoyang Qian, Gaoge Liu, Li Ling, Zhentao Zhang, Biao Wu, Shuo Zhang, Ke Lu, Wei Shi, Ziqi Wang, Zheng Feng, Yan Luo, Shu Xu, Yongjin Chen, Zhibo Feng, Zhuo Chen, Bruce Yuan, Harry Wang, Kris Chen*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/AgentAlphaAGI/Idea2Paper)
 
 ---
 
