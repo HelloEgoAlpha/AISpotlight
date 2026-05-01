@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-02-13
+### 2026-05-02
 
-**[Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604)** NEW
+**[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://huggingface.co/papers/2604.14228)** NEW
 
-*Published: 2026-02-11*
+*Published: 2026-04-14*
 
-*Ailin Huang, Ang Li, Aobo Kong, Bin Wang, Binxing Jiao, Bo Dong, Bojun Wang, Boyu Chen, Brian Li, Buyun Ma, Chang Su, Changxin Miao, Changyi Wan, Chao Lou, Chen Hu, Chen Xu, Chenfeng Yu, Chengting Feng, Chengyuan Yao, Chunrui Han, Dan Ma, Dapeng Shi, Daxin Jiang, Dehua Ma, Deshan Sun, etc.*
+*Jiacheng Liu, Xiaohan Zhao, Xinyi Shang, Zhiqiang Shen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,245-blue)](https://github.com/stepfun-ai/Step-3.5-Flash)
-
----
-
-
-**[QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085)** NEW
-
-*Published: 2026-02-06*
-
-*Jun Han, Shuo Zhang, Wei Li, Zhi Yang, Yifan Dong, Tu Hu, Jialuo Yuan, Xiaomin Yu, Yumo Zhu, Fangqi Lou, Xin Guo, Zhaowei Liu, Tianyi Jiang, Ruichuan An, Jingping Liu, Biao Wu, Rongze Chen, Kunyi Wang, Yifan Wang, Sen Hu, Xinbing Kong, Liwen Zhang, Ronghao Chen, Huacan Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-248-blue)](https://github.com/QuantaAlpha/QuantaAlpha)
+![](https://img.shields.io/badge/Mendeley%20Readers-10-red) [![](https://img.shields.io/badge/GitHub%20Stars-929-blue)](https://github.com/VILA-Lab/Dive-into-Claude-Code) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
 
-**[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](https://huggingface.co/papers/2602.10652)** NEW
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)** NEW
 
-*Published: 2026-02-11*
+*Published: 2026-04-16*
 
-*Yongshi Ye, Hui Jiang, Feihu Jiang, Tian Lan, Yichao Du, Biao Fu, Xiaodong Shi, Qianghuai Jia, Longyue Wang, Weihua Luo*
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen, Ka Leong Cheng, Yipengjing Sun, Liangxiao Hu, Nan Xue, Xing Zhu, Yujun Shen, Yao Yao, Yinghao Xu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-247-blue)](https://github.com/AIDC-AI/Marco-DeepResearch)
-
----
-
-
-**[Masked Depth Modeling for Spatial Perception](https://huggingface.co/papers/2601.17895)** NEW
-
-*Published: 2026-01-25*
-
-*Bin Tan, Changjiang Sun, Xiage Qin, Hanat Adai, Zelin Fu, Tianxiang Zhou, Han Zhang, Yinghao Xu, Xing Zhu, Yujun Shen, Nan Xue*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-862-blue)](https://github.com/Robbyant/lingbot-depth) ![](https://img.shields.io/badge/Citations-2-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-11-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,496-blue)](https://github.com/robbyant/lingbot-map)
 
 ---
 
 
-**[Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://huggingface.co/papers/2601.20833)** NEW
+**[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796)** NEW
 
-*Published: 2026-01-28*
+*Published: 2026-04-22*
 
-*Tengyue Xu, Zhuoyang Qian, Gaoge Liu, Li Ling, Zhentao Zhang, Biao Wu, Shuo Zhang, Ke Lu, Wei Shi, Ziqi Wang, Zheng Feng, Yan Luo, Shu Xu, Yongjin Chen, Zhibo Feng, Zhuo Chen, Bruce Yuan, Harry Wang, Kris Chen*
+*Inclusion AI, Tiwei Bie, Haoxing Chen, Tieyuan Chen, Zhenglin Cheng, Long Cui, Kai Gan, Zhicheng Huang, Zhenzhong Lan, Haoquan Li, Jianguo Li, Tao Lin, Qi Qin, Hongjun Wang, Xiaomei Wang, Haoyuan Wu, Yi Xin, Junbo Zhao*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-930-blue)](https://github.com/AgentAlphaAGI/Idea2Paper)
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red) [![](https://img.shields.io/badge/GitHub%20Stars-719-blue)](https://github.com/inclusionAI/LLaDA2.0-Uni)
+
+---
+
+
+**[GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)](https://huggingface.co/papers/2604.17091)** NEW
+
+*Published: 2026-04-18*
+
+*Jiaqing Liang, Jinyi Han, Weijia Li, Xinyi Wang, Zhoujia Zhang, Zishang Jiang, Ying Liao, Tingyun Li, Ying Huang, Hao Shen, Hanyu Wu, Fang Guo, Keyi Wang, Zhonghua Hong, Zhiyu Lu, Lipeng Ma, Sihang Jiang, Yanghua Xiao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-8,623-blue)](https://github.com/lsdefine/GenericAgent)
+
+---
+
+
+**[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)** NEW
+
+*Published: 2026-04-20*
+
+*Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiaming Han, Tianshuo Peng, Kaixuan Fan, Manyuan Zhang, Xiangyu Yue*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,775-blue)](https://github.com/leigest519/OpenGame)
 
 ---
 
