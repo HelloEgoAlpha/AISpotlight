@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-05-14
+### 2026-05-15
 
-**[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://huggingface.co/papers/2605.12500)** NEW
+**[Pixal3D: Pixel-Aligned 3D Generation from Images](https://huggingface.co/papers/2605.10922)** NEW
 
-*Published: 2026-05-12*
+*Published: 2026-05-11*
 
-*Haiwen Diao, Penghao Wu, Hanming Deng, Jiahao Wang, Shihao Bai, Silei Wu, Weichen Fan, Wenjie Ye, Wenwen Tong, Xiangyu Fan, Yan Li, Yubo Wang, Zhijie Cao, Zhiqian Lin, Zhitao Yang, Zhongang Cai, Yuwei Niu, Yue Zhu, Bo Liu, Chengguang Lv, Haojia Yu, Haozhe Xie, Hongli Wang, Jianan Fan, Jiaqi Li, etc.*
+*Dong-Yang Li, Wang Zhao, Yuxin Chen, Wenbo Hu, Meng-Hao Guo, Fang-Lue Zhang, Ying Shan, Shi-Min Hu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,657-blue)](https://github.com/OpenSenseNova/SenseNova-U1)
-
----
-
-
-**[World Model for Robot Learning: A Comprehensive Survey](https://huggingface.co/papers/2605.00080)** NEW
-
-*Published: 2026-04-30*
-
-*Bohan Hou, Gen Li, Jindou Jia, Tuo An, Xinying Guo, Sicong Leng, Haoran Geng, Yanjie Ze, Tatsuya Harada, Philip Torr, Oier Mees, Marc Pollefeys, Zhuang Liu, Jiajun Wu, Pieter Abbeel, Jitendra Malik, Yilun Du, Jianfei Yang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-317-blue)](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
+[![](https://img.shields.io/badge/GitHub%20Stars-616-blue)](https://github.com/TencentARC/Pixal3D)
 
 ---
 
 
-**[MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction](https://huggingface.co/papers/2604.27393)** NEW
+**[Asymmetric Flow Models](https://huggingface.co/papers/2605.12964)** NEW
 
-*Published: 2026-04-30*
+*Published: 2026-05-13*
 
-*Junbo Cui, Bokai Xu, Chongyi Wang, Tianyu Yu, Weiyue Sun, Yingjing Xu, Tianran Wang, Zhihui He, Wenshuo Ma, Tianchi Cai, Jiancheng Gui, Luoyuan Zhang, Xian Sun, Fuwei Huang, Moye Chen, Zhuo Lin, Hanyu Liu, Qingxin Gui, Qingzhe Han, Yuyang Wen, Huiping Liu, Rongkang Wang, Yaqi Zhang, Hongliang Wei, Chi Chen, etc.*
+*Hansheng Chen, Jan Ackermann, Minseo Kim, Gordon Wetzstein, Leonidas Guibas*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-24,621-blue)](https://github.com/OpenBMB/MiniCPM-o)
-
----
-
-
-**[Adam's Law: Textual Frequency Law on Large Language Models](https://huggingface.co/papers/2604.02176)** NEW
-
-*Published: 2026-04-07*
-
-*Hongyuan Adam Lu, Z.L., Victor Wei, Zefan Zhang, Zhao Hong, Qiqi Xiang, Bowen Cao, Wai Lam*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,305-blue)](https://github.com/HongyuanLuke/frequencylaw)
+[![](https://img.shields.io/badge/GitHub%20Stars-322-blue)](https://github.com/Lakonik/LakonLab)
 
 ---
 
 
-**[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)** NEW
+**[AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724)** NEW
 
-*Published: 2026-04-20*
+*Published: 2026-05-13*
 
-*Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiaming Han, Tianshuo Peng, Kaixuan Fan, Manyuan Zhang, Xiangyu Yue*
+*Yuchao Gu, Guian Fang, Yuxin Jiang, Weijia Mao, Song Han, Han Cai, Mike Zheng Shou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-2,148-blue)](https://github.com/leigest519/OpenGame)
+[![](https://img.shields.io/badge/GitHub%20Stars-201-blue)](https://github.com/NVlabs/AnyFlow)
+
+---
+
+
+**[Lyra 2.0: Explorable Generative 3D Worlds](https://arxiv.org/abs/2604.13036)** NEW
+
+*Published: 2026-04-14*
+
+*Tianchang Shen, Sherwin Bahmani, Kai He, Sangeetha Grama Srinivasan, Tianshi Cao, Jiawei Ren, Ruilong Li, Zian Wang, Nicholas Sharp, Zan Gojcic, Sanja Fidler, Jiahui Huang, Huan Ling, Jun Gao, Xuanchi Ren*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,987-blue)](https://github.com/nv-tlabs/lyra) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction](https://arxiv.org/abs/2605.05242)** NEW
+
+*Published: 2026-05-03*
+
+*Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang, Yu Zhang*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-186-blue)](https://github.com/DCI-Agent/DCI-Agent-Lite)
 
 ---
 
