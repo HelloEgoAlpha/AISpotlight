@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-05-19
+### 2026-05-20
 
-**[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268)** NEW
+**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)** NEW
 
-*Published: 2026-04-15*
+*Published: 2026-05-18*
 
-*Team HY-World, Chenjie Cao, Xuhui Zuo, Zhenwei Wang, Yisu Zhang, Junta Wu, Zhenyang Liu, Yuning Gong, Yang Liu, Bo Yuan, Chao Zhang, Coopers Li, Dongyuan Guo, Fan Yang, Haiyu Zhang, Hang Cao, Jianchen Zhu, Jiaxin Lin, Jie Xiao, Jihong Zhang, Junlin Yu, Lei Wang, Lifu Wang, Lilin Wang, Linus, etc.*
+*Yukang Chen, Luozhou Wang, Wei Huang, Shuai Yang, Bohan Zhang, Yicheng Xiao, Ruihang Chu, Weian Mao, Qixin Hu, Shaoteng Liu, Yuyang Zhao, Huizi Mao, Ying-Cong Chen, Enze Xie, Xiaojuan Qi, Song Han*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,993-blue)](https://github.com/Tencent-Hunyuan/HY-World-2.0) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video](https://huggingface.co/papers/2605.15182)** NEW
-
-*Published: 2026-05-14*
-
-*Yifan Wang, Tong He*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-137-blue)](https://github.com/yyfz/Warp-as-History)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,293-blue)](https://github.com/NVlabs/LongLive)
 
 ---
 
 
-**[MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527)** NEW
+**[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)** NEW
 
-*Published: 2026-05-14*
+*Published: 2026-05-18*
 
-*Kangning Zhang, Shuai Shao, Qingyao Li, Jianghao Lin, Lingyue Fu, Shijian Wang, Wenxiang Jiao, Yuan Lu, Weiwen Liu, Weinan Zhang, Yong Yu*
+*Fengyi Fu, Mengqi Huang, Shaojin Wu, Yunsheng Jiang, Yufei Huo, Hao Li, Yinghang Song, Fei Ding, Jianzhu Guo, Qian He, Zheren Fu, Zhendong Mao, Yongdong Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/DeepExperience/MMSkills)
-
----
-
-
-**[Continual Harness: Online Adaptation for Self-Improving Foundation Agents](https://huggingface.co/papers/2605.09998)** NEW
-
-*Published: 2026-05-11*
-
-*Seth Karten, Joel Zhang, Tersoo Upaa Jr, Ruirong Feng, Wenzhe Li, Chengshuai Shi, Chi Jin, Kiran Vodrahalli*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/sethkarten/continual-harness)
+[![](https://img.shields.io/badge/GitHub%20Stars-308-blue)](https://github.com/bytedance/Lance)
 
 ---
 
 
-**[PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents](https://huggingface.co/papers/2605.10341)** NEW
+**[SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401)** NEW
 
-*Published: 2026-05-11*
+*Published: 2026-05-18*
 
-*Bihui Yu, Xinglong Xu, Junjie Jiang, Jiabei Cheng, Caijun Jia, Siyuan Li, Conghui He, Jingxuan Wei, Cheng Tan*
+*Hongyi Liu, Haoyan Yang, Tao Jiang, Bo Tang, Feiyu Xiong, Zhiyu Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/OpenRaiser/PaperFit)
+[![](https://img.shields.io/badge/GitHub%20Stars-219-blue)](https://github.com/MemTensor/skills-vote)
+
+---
+
+
+**[$δ$-mem: Efficient Online Memory for Large Language Models](https://huggingface.co/papers/2605.12357)** NEW
+
+*Published: 2026-05-12*
+
+*Jingdi Lei, Di Zhang, Junxian Li, Weida Wang, Kaixuan Fan, Xiang Liu, Qihan Liu, Xiaoteng Ma, Baian Chen, Soujanya Poria*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-124-blue)](https://github.com/declare-lab/delta-Mem)
+
+---
+
+
+**[What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion](https://huggingface.co/papers/2605.07915)** NEW
+
+*Published: 2026-05-08*
+
+*Zhengrong Yue, Taihang Hu, Mengting Chen, Haiyu Zhang, Zihao Pan, Tao Liu, Zikang Wang, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Yali Wang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-100-blue)](https://github.com/ZhengrongYue/PAE)
 
 ---
 
