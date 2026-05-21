@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-05-20
+### 2026-05-21
 
-**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)** NEW
+**[AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration](https://huggingface.co/papers/2605.20025)** NEW
 
-*Published: 2026-05-18*
+*Published: 2026-05-19*
 
-*Yukang Chen, Luozhou Wang, Wei Huang, Shuai Yang, Bohan Zhang, Yicheng Xiao, Ruihang Chu, Weian Mao, Qixin Hu, Shaoteng Liu, Yuyang Zhao, Huizi Mao, Ying-Cong Chen, Enze Xie, Xiaojuan Qi, Song Han*
+*Jiaqi Liu, Shi Qiu, Mairui Li, Bingzhou Li, Haonian Ji, Siwei Han, Xinyu Ye, Peng Xia, Zihan Dong, Congyu Zhang, Letian Zhang, Guiming Chen, Haoqin Tu, Xinyu Yang, Lu Feng, Xujiang Zhao, Haifeng Chen, Jiawei Zhou, Xiao Wang, Weitong Zhang, Hongtu Zhu, Yun Li, Jieru Mei, Hongliang Fei, Jiaheng Zhang, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,293-blue)](https://github.com/NVlabs/LongLive)
-
----
-
-
-**[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)** NEW
-
-*Published: 2026-05-18*
-
-*Fengyi Fu, Mengqi Huang, Shaojin Wu, Yunsheng Jiang, Yufei Huo, Hao Li, Yinghang Song, Fei Ding, Jianzhu Guo, Qian He, Zheren Fu, Zhendong Mao, Yongdong Zhang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-308-blue)](https://github.com/bytedance/Lance)
+[![](https://img.shields.io/badge/GitHub%20Stars-12,382-blue)](https://github.com/aiming-lab/AutoResearchClaw)
 
 ---
 
 
-**[SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution](https://huggingface.co/papers/2605.18401)** NEW
+**[Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://huggingface.co/papers/2605.06658)** NEW
 
-*Published: 2026-05-18*
+*Published: 2026-05-07*
 
-*Hongyi Liu, Haoyan Yang, Tao Jiang, Bo Tang, Feiyu Xiong, Zhiyu Li*
+*Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-219-blue)](https://github.com/MemTensor/skills-vote)
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zhuxing0/Relit-LiVE)
 
 ---
 
 
-**[$δ$-mem: Efficient Online Memory for Large Language Models](https://huggingface.co/papers/2605.12357)** NEW
+**[Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models](https://huggingface.co/papers/2605.09681)** NEW
+
+*Published: 2026-05-10*
+
+*Yicheng Ji, Zhizhou Zhong, Jun Zhang, Qin Yang, XiTai Jin, Ying Qin, Wenhan Luo, Shuiyang Mao, Wei Liu, Huan Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zju-jiyicheng/Forcing-KV)
+
+---
+
+
+**[Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155)** NEW
+
+*Published: 2026-05-14*
+
+*Zhengxi Lu, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-89-blue)](https://github.com/ZJU-REAL/SDAR)
+
+---
+
+
+**[MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://huggingface.co/papers/2605.09530)** NEW
 
 *Published: 2026-05-12*
 
-*Jingdi Lei, Di Zhang, Junxian Li, Weida Wang, Kaixuan Fan, Xiang Liu, Qihan Liu, Xiaoteng Ma, Baian Chen, Soujanya Poria*
+*Yining Chen, Jihao Zhao, Bo Tang, Haofen Wang, Yue Zhang, Fei Huang, Feiyu Xiong, Zhiyu Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-124-blue)](https://github.com/declare-lab/delta-Mem)
-
----
-
-
-**[What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion](https://huggingface.co/papers/2605.07915)** NEW
-
-*Published: 2026-05-08*
-
-*Zhengrong Yue, Taihang Hu, Mengting Chen, Haiyu Zhang, Zihao Pan, Tao Liu, Zikang Wang, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Yali Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-100-blue)](https://github.com/ZhengrongYue/PAE)
+[![](https://img.shields.io/badge/GitHub%20Stars-85-blue)](https://github.com/MemTensor/MemPrivacy)
 
 ---
 
