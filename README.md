@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-05-21
+### 2026-05-22
 
-**[AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration](https://huggingface.co/papers/2605.20025)** NEW
+**[HRM-Text: Efficient Pretraining Beyond Scaling](https://huggingface.co/papers/2605.20613)** NEW
+
+*Published: 2026-05-20*
+
+*Guan Wang, Changling Liu, Chenyu Wang, Cai Zhou, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-626-blue)](https://github.com/sapientinc/HRM-Text)
+
+---
+
+
+**[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://huggingface.co/papers/2605.20119)** NEW
 
 *Published: 2026-05-19*
 
-*Jiaqi Liu, Shi Qiu, Mairui Li, Bingzhou Li, Haonian Ji, Siwei Han, Xinyu Ye, Peng Xia, Zihan Dong, Congyu Zhang, Letian Zhang, Guiming Chen, Haoqin Tu, Xinyu Yang, Lu Feng, Xujiang Zhao, Haifeng Chen, Jiawei Zhou, Xiao Wang, Weitong Zhang, Hongtu Zhu, Yun Li, Jieru Mei, Hongliang Fei, Jiaheng Zhang, etc.*
+*Emaad Khwaja, Chris Lettieri, Gerald Woo, Eden Belouadah, Marc Cenac, Guillaume Jarry, Enguerrand Paquin, Xunyi Zhao, Viktoriya Zhukov, Othmane Abou-Amal, Chenghao Liu, Ameet Talwalkar, David Asker*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-12,382-blue)](https://github.com/aiming-lab/AutoResearchClaw)
-
----
-
-
-**[Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://huggingface.co/papers/2605.06658)** NEW
-
-*Published: 2026-05-07*
-
-*Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zhuxing0/Relit-LiVE)
+[![](https://img.shields.io/badge/GitHub%20Stars-437-blue)](https://github.com/DataDog/toto)
 
 ---
 
 
-**[Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models](https://huggingface.co/papers/2605.09681)** NEW
+**[A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook](https://huggingface.co/papers/2605.20266)** NEW
 
-*Published: 2026-05-10*
+*Published: 2026-05-18*
 
-*Yicheng Ji, Zhizhou Zhong, Jun Zhang, Qin Yang, XiTai Jin, Ying Qin, Wenhan Luo, Shuiyang Mao, Wei Liu, Huan Li*
+*Kaiwen Luo, Zhenhong Zhou, Leo Wang, Liang Lin, Yang Xiao, Tianyu Shao, Yuanhe Zhang, Yuxuan Li, Miao Yu, Kailin Lyu, Jiaming Zhang, Dongrui Liu, Li Sun, Yueming Wu, Kai Li, Ting Dang, Xiaojun Jia, Rohan Kumar Das, Xinfeng Li, Siyuan Liang, Qiufeng Wang, Xingjun Ma, Jing Chen, Kun Wang, Junhao Dong, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/zju-jiyicheng/Forcing-KV)
-
----
-
-
-**[Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155)** NEW
-
-*Published: 2026-05-14*
-
-*Zhengxi Lu, Zhiyuan Yao, Zhuowen Han, Zi-Han Wang, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-89-blue)](https://github.com/ZJU-REAL/SDAR)
+[![](https://img.shields.io/badge/GitHub%20Stars-195-blue)](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs)
 
 ---
 
 
-**[MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents](https://huggingface.co/papers/2605.09530)** NEW
+**[Stable Audio 3](https://huggingface.co/papers/2605.17991)** NEW
 
-*Published: 2026-05-12*
+*Published: 2026-05-18*
 
-*Yining Chen, Jihao Zhao, Bo Tang, Haofen Wang, Yue Zhang, Fei Huang, Feiyu Xiong, Zhiyu Li*
+*Zach Evans, Julian D. Parker, Matthew Rice, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-85-blue)](https://github.com/MemTensor/MemPrivacy)
+[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Stability-AI/stable-audio-3)
+
+---
+
+
+**[Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833)** NEW
+
+*Published: 2026-05-19*
+
+*Zhifei Xie, Kaiyu Pang, Haobin Zhang, Deheng Ye, Xiaobin Hu, Shuicheng Yan, Chunyan Miao*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/xzf-thu/Mega-ASR)
 
 ---
 
