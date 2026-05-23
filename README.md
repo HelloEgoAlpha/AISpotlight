@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-05-22
+### 2026-05-23
 
-**[HRM-Text: Efficient Pretraining Beyond Scaling](https://huggingface.co/papers/2605.20613)** NEW
-
-*Published: 2026-05-20*
-
-*Guan Wang, Changling Liu, Chenyu Wang, Cai Zhou, Yuhao Sun, Yifei Wu, Shuai Zhen, Luca Scimeca, Yasin Abbasi Yadkori*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-626-blue)](https://github.com/sapientinc/HRM-Text)
-
----
-
-
-**[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://huggingface.co/papers/2605.20119)** NEW
-
-*Published: 2026-05-19*
-
-*Emaad Khwaja, Chris Lettieri, Gerald Woo, Eden Belouadah, Marc Cenac, Guillaume Jarry, Enguerrand Paquin, Xunyi Zhao, Viktoriya Zhukov, Othmane Abou-Amal, Chenghao Liu, Ameet Talwalkar, David Asker*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-437-blue)](https://github.com/DataDog/toto)
-
----
-
-
-**[A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook](https://huggingface.co/papers/2605.20266)** NEW
+**[Code as Agent Harness](https://huggingface.co/papers/2605.18747)** NEW
 
 *Published: 2026-05-18*
 
-*Kaiwen Luo, Zhenhong Zhou, Leo Wang, Liang Lin, Yang Xiao, Tianyu Shao, Yuanhe Zhang, Yuxuan Li, Miao Yu, Kailin Lyu, Jiaming Zhang, Dongrui Liu, Li Sun, Yueming Wu, Kai Li, Ting Dang, Xiaojun Jia, Rohan Kumar Das, Xinfeng Li, Siyuan Liang, Qiufeng Wang, Xingjun Ma, Jing Chen, Kun Wang, Junhao Dong, etc.*
+*Xuying Ning, Katherine Tieu, Dongqi Fu, Tianxin Wei, Zihao Li, Yuanchen Bei, Jiaru Zou, Mengting Ai, Zhining Liu, Ting-Wei Li, Lingjie Chen, Yanjun Zhao, Ke Yang, Bingxuan Li, Cheng Qian, Gaotang Li, Xiao Lin, Zhichen Zeng, Ruizhong Qiu, Sirui Chen, Yifan Sun, Xiyuan Yang, Ruida Wang, Rui Pan, Chenyuan Yang, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-195-blue)](https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs)
+[![](https://img.shields.io/badge/GitHub%20Stars-197-blue)](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers)
 
 ---
 
 
-**[Stable Audio 3](https://huggingface.co/papers/2605.17991)** NEW
+**[AI for Auto-Research: Roadmap & User Guide](https://huggingface.co/papers/2605.18661)** NEW
 
 *Published: 2026-05-18*
 
-*Zach Evans, Julian D. Parker, Matthew Rice, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons*
+*Lingdong Kong, Xian Sun, Wei Chow, Linfeng Li, Kevin Qinghong Lin, Xuan Billy Zhang, Song Wang, Rong Li, Qing Wu, Wei Gao, Yingshuo Wang, Shaoyuan Xie, Jiachen Liu, Leigang Qu, Shijie Li, Lai Xing Ng, Benoit R. Cottereau, Ziwei Liu, Tat-Seng Chua, Wei Tsang Ooi*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Stability-AI/stable-audio-3)
+[![](https://img.shields.io/badge/GitHub%20Stars-127-blue)](https://github.com/worldbench/awesome-ai-auto-research)
 
 ---
 
 
-**[Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833)** NEW
+**[TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation](https://huggingface.co/papers/2605.22355)** NEW
+
+*Published: 2026-05-21*
+
+*Hanyu Guo, Jiedong Yang, Chao Chen, Longfei Xu, Kaikui Liu, Xiangxiang Chu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/HotTricker/TransitLM)
+
+---
+
+
+**[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](https://huggingface.co/papers/2605.15198)** NEW
+
+*Published: 2026-05-14*
+
+*Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/ZiyuGuo99/ATLAS)
+
+---
+
+
+**[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](https://huggingface.co/papers/2605.20150)** NEW
 
 *Published: 2026-05-19*
 
-*Zhifei Xie, Kaiyu Pang, Haobin Zhang, Deheng Ye, Xiaobin Hu, Shuicheng Yan, Chunyan Miao*
+*Chonghao Zhong, Linfeng Shi, Hua Chen, Tiecheng Sun, Hao Zhao, Binhang Yuan, Chaojian Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-129-blue)](https://github.com/xzf-thu/Mega-ASR)
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/sponge-lab/TideGS)
 
 ---
 
