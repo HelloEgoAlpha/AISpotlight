@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-05-28
+### 2026-05-29
 
-**[LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence](https://huggingface.co/papers/2605.25979)** NEW
+**[CubePart: An Open-Vocabulary Part-Controllable 3D Generator](https://huggingface.co/papers/2605.28763)** NEW
 
-*Published: 2026-05-25*
+*Published: 2026-05-27*
 
-*Xiang An, Yin Xie, Feilong Tang, Yunyao Yan, Huajie Tan, Didi Zhu, Changrui Chen, Xiuwei Zhao, Bin Qin, Kaicheng Yang, Yifei Shen, Yuanhan Zhang, Kaichen Zhang, Wenkang Zhang, Zheng Cheng, Nansen Zhang, Chunsheng Wu, Chunjiang Ge, Zimin Ran, Dehua Song, Chunyuan Li, Shikun Feng, Ming Hu, Zhangquan Chen, Junbo Niu, etc.*
+*Yiheng Zhu, Kangle Deng, Jean-Philippe Fauconnier, Inaki Navarro, Daiqing Li, Ava Pun, Yinan Zhang, Peiye Zhuang, Xiaoxia Sun, Maneesh Agrawala, Kiran Bhat, Tinghui Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-964-blue)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2)
-
----
-
-
-**[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://huggingface.co/papers/2605.27365)** NEW
-
-*Published: 2026-05-26*
-
-*Shihao Wang, Shilong Liu, Yuanguo Kuang, Xinyu Wei, Yangzhou Liu, Zhiqi Li, Yunze Man, Guo Chen, Andrew Tao, Guilin Liu, Jan Kautz, Lei Zhang, Zhiding Yu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,018-blue)](https://github.com/NVlabs/Eagle)
+[![](https://img.shields.io/badge/GitHub%20Stars-958-blue)](https://github.com/Roblox/cube/tree/main/cubepart)
 
 ---
 
 
-**[PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents](https://huggingface.co/papers/2605.19932)** NEW
+**[From Pixels to Words -- Towards Native One-Vision Models at Scale](https://huggingface.co/papers/2605.28820)** NEW
+
+*Published: 2026-05-27*
+
+*Haiwen Diao, Jiahao Wang, Penghao Wu, Yuhao Dong, Yuwei Niu, Yue Zhu, Zhongang Cai, Weichen Fan, Linjun Dai, Silei Wu, Xuanyu Zheng, Mingxuan Li, Yuanhan Zhang, Bo Li, Hanming Deng, Huchuan Lu, Quan Wang, Lei Yang, Lewei Lu, Dahua Lin, Ziwei Liu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-775-blue)](https://github.com/EvolvingLMMs-Lab/NEO)
+
+---
+
+
+**[ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations](https://huggingface.co/papers/2605.27908)** NEW
+
+*Published: 2026-05-27*
+
+*Jie Zhu, Huaixia Dou, Shuo Jiang, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang, Fang Kong*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-470-blue)](https://github.com/aliyun/qwen-dianjin)
+
+---
+
+
+**[Beyond Mode Collapse: Distribution Matching for Diverse Reasoning](https://huggingface.co/papers/2605.19461)** NEW
 
 *Published: 2026-05-19*
 
-*Zhuohan Gu, Qizheng Zhang, Omar Khattab, Samuel Madden*
+*Xiaozhe Li, Yang Li, Xinyu Fang, Shengyuan Ding, Peiji Li, Yongkang Chen, Yichuan Ma, Tianyi Lyu, Linyang Li, Dahua Lin, Qipeng Guo, Qingwen Liu, Kai Chen*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-95-blue)](https://github.com/zhuohangu/peek)
-
----
-
-
-**[RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting](https://huggingface.co/papers/2605.18263)** NEW
-
-*Published: 2026-05-18*
-
-*Ji Shi, Xianghua Ying, Bowei Xing, Ruohao Guo, Wenzhen Yue*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-84-blue)](https://github.com/sjj118/RT-Splatting)
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/OliverLeeXZ/DMPO)
 
 ---
 
 
-**[Anisotropic Modality Align](https://huggingface.co/papers/2605.07825)** NEW
+**[OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond](https://huggingface.co/papers/2605.19660)** NEW
 
-*Published: 2026-05-08*
+*Published: 2026-05-19*
 
-*Xiaomin Yu, Yijiang Li, Yuhui Zhang, Hanzhen Zhao, Yue Yang, Hao Tang, Yue Song, Xiaobin Hu, Chengwei Qin, Shuicheng Yan, Hui Xiong*
+*Zunhai Su, Rui Yang, Chao Zhang, Yaxiu Liu, Yifan Zhang, Wei Wu, Jing Xiong, Dayou Du, Xialie Zhuang, Yulei Qian, Yuchen Xie, Yik-Chung Wu, Hongxia Yang, Ngai Wong*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-71-blue)](https://github.com/Yu-xm/Modality_Gap_Theory)
+[![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/ZunhaiSu/OScaR-KV-Quant)
 
 ---
 
