@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-05-29
+### 2026-10-26
 
-**[CubePart: An Open-Vocabulary Part-Controllable 3D Generator](https://huggingface.co/papers/2605.28763)** NEW
+**[Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224)** NEW
 
-*Published: 2026-05-27*
+*Published: 2026-10-09*
 
-*Yiheng Zhu, Kangle Deng, Jean-Philippe Fauconnier, Inaki Navarro, Daiqing Li, Ava Pun, Yinan Zhang, Peiye Zhuang, Xiaoxia Sun, Maneesh Agrawala, Kiran Bhat, Tinghui Zhou*
+*Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu, Bhavana Dalvi Mishra, Yifei Ming, Han Yu, Rujun Han, Chen-Yu Lee, Tomas Pfister*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-958-blue)](https://github.com/Roblox/cube/tree/main/cubepart)
-
----
-
-
-**[From Pixels to Words -- Towards Native One-Vision Models at Scale](https://huggingface.co/papers/2605.28820)** NEW
-
-*Published: 2026-05-27*
-
-*Haiwen Diao, Jiahao Wang, Penghao Wu, Yuhao Dong, Yuwei Niu, Yue Zhu, Zhongang Cai, Weichen Fan, Linjun Dai, Silei Wu, Xuanyu Zheng, Mingxuan Li, Yuanhan Zhang, Bo Li, Hanming Deng, Huchuan Lu, Quan Wang, Lei Yang, Lewei Lu, Dahua Lin, Ziwei Liu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-775-blue)](https://github.com/EvolvingLMMs-Lab/NEO)
+![](https://img.shields.io/badge/Mendeley%20Readers-11-red) [![](https://img.shields.io/badge/GitHub%20Stars-19,745-blue)](https://github.com/google-research/harness2) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
 
-**[ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations](https://huggingface.co/papers/2605.27908)** NEW
+**[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://huggingface.co/papers/2610.14162)** NEW
 
-*Published: 2026-05-27*
+*Published: 2026-10-09*
 
-*Jie Zhu, Huaixia Dou, Shuo Jiang, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang, Fang Kong*
+*Hermann Kumbong, Ishan S. Khare, Iddah Mlauzi, Andrew Woen, Charles Ding, E. Kelly Buchanan, Simran Arora, Azalia Mirhoseini, Christopher Ré*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-470-blue)](https://github.com/aliyun/qwen-dianjin)
-
----
-
-
-**[Beyond Mode Collapse: Distribution Matching for Diverse Reasoning](https://huggingface.co/papers/2605.19461)** NEW
-
-*Published: 2026-05-19*
-
-*Xiaozhe Li, Yang Li, Xinyu Fang, Shengyuan Ding, Peiji Li, Yongkang Chen, Yichuan Ma, Tianyi Lyu, Linyang Li, Dahua Lin, Qipeng Guo, Qingwen Liu, Kai Chen*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/OliverLeeXZ/DMPO)
+![](https://img.shields.io/badge/Mendeley%20Readers-7-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,029-blue)](https://github.com/HazyResearch/ncm)
 
 ---
 
 
-**[OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond](https://huggingface.co/papers/2605.19660)** NEW
+**[StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions](https://huggingface.co/papers/2610.17309)** NEW
 
-*Published: 2026-05-19*
+*Published: 2026-10-20*
 
-*Zunhai Su, Rui Yang, Chao Zhang, Yaxiu Liu, Yifan Zhang, Wei Wu, Jing Xiong, Dayou Du, Xialie Zhuang, Yulei Qian, Yuchen Xie, Yik-Chung Wu, Hongxia Yang, Ngai Wong*
+*Xialie Zhuang, Zunhai Su, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-76-blue)](https://github.com/ZunhaiSu/OScaR-KV-Quant)
+[![](https://img.shields.io/badge/GitHub%20Stars-1,566-blue)](https://github.com/StartLuxLabs/StartLux-Decision) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](https://huggingface.co/papers/2610.05416)** NEW
+
+*Published: 2026-10-04*
+
+*Shuyuan Tu, Qi Tian, Yinming Huang, Yue Wu, Xintong Han, Kaihang Pan, Weijie Kong, Jiangfeng Xiong, Jian-Wei Zhang, Zuxuan Wu, Yu-Gang Jiang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1,145-blue)](https://github.com/Tencent-Hunyuan/Prism) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699)** NEW
+
+*Published: 2026-10-06*
+
+*Guangyi Liu, Yong Liu, Jiangning Zhang*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-2-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,596-blue)](https://github.com/nano-muse/nanoMuse)
 
 ---
 
