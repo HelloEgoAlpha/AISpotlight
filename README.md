@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-10-29
+### 2026-10-30
 
-**[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://huggingface.co/papers/2610.13912)** NEW
-
-*Published: 2026-10-09*
-
-*Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-990-blue)](https://github.com/Gen-Verse/RSI-Anything) ![](https://img.shields.io/badge/Citations-3-9cf)
-
----
-
-
-**[Recurrent Looped Transformer](https://huggingface.co/papers/2610.07591)** NEW
-
-*Published: 2026-10-11*
-
-*Yifan Zhang, Jichen Feng, Shihan Qin, Sun-Yuan Kung, Mengdi Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-1,083-blue)](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)
-
----
-
-
-**[SUPRA-TEX: 3D Generation with Super-Aligned Texture](https://huggingface.co/papers/2610.22352)** NEW
+**[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)** NEW
 
 *Published: 2026-10-15*
 
-*Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian*
+*Aaron J. Li, Weijia Xu, Chandan Singh, Zixiao Chen, Jeevana Priya Inala, Charlotte Siska, Acar Tamersoy, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-379-blue)](https://github.com/Supra-3D/SUPRA-Tex) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[UniMate: One Unified Model to Animate Diverse Skeletons](https://huggingface.co/papers/2609.05415)** NEW
-
-*Published: 2026-09-04*
-
-*Linzhan Mou, Jiahui Lei, Zhiyang Dou, Chenyue Cai, Chaoyue Song, Adam Finkelstein, Szymon Rusinkiewicz*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-6-red) [![](https://img.shields.io/badge/GitHub%20Stars-2,273-blue)](https://github.com/Friedrich-M/UniMate) ![](https://img.shields.io/badge/Citations-1-9cf)
+[![](https://img.shields.io/badge/GitHub%20Stars-687-blue)](https://github.com/microsoft/TokenEconomizer)
 
 ---
 
 
-**[YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://huggingface.co/papers/2609.33757)** NEW
+**[Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729)** NEW
+
+*Published: 2026-10-27*
+
+*Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang, Ji Hou, Jiaqi Li, Yifan Liu, Tao Lu, Junshu Tang, Yu Tang, Yao Teng, Yu Tian, Heng Wang, Weizhi Wang, Xiyao Wang, Xilun Wu, Mingyu Yang, Yangbin Yu, Rui Zhao, Longjun Cao, Linghao Chen, Haoyi Duan, Jiaming Han, Mingji Han, Enhua Jiang, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-361-blue)](https://github.com/Tencent-Hunyuan/Hy-Nomas)
+
+---
+
+
+**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)** NEW
 
 *Published: 2026-09-27*
 
-*Ruibin Yuan, Jiahao Pan, Junyan Jiang, Zhiyue Wu, Ziya Zhou, Jiankai Sun, Yizhi Li, Ge Zhang, Yicheng Gu, Zeyue Tian, Junyu Dai, Hanfeng Lin, Kai Li, Shangda Wu, Xuanjie Liu, Jiaming Wang, Zihan Liu, Yue Wang, Yinghao Ma, Hanzhi Yin, Kangrui Chen, Xinyue Zhang, Ziyang Ma, Mengqi Liao, Hejia Zhao, etc.*
+*EverMind AI*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-5-red) [![](https://img.shields.io/badge/GitHub%20Stars-12,820-blue)](https://github.com/multimodal-art-projection/YuE) ![](https://img.shields.io/badge/Citations-1-9cf)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,878-blue)](https://github.com/EverMind-AI/Raven) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)** NEW
+
+*Published: 2026-09-17*
+
+*Yu Lin, Yiming Wang, Runyuan Cai, Hanze Liu, Xiaodong Zeng*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-7,384-blue)](https://github.com/Edge0-AI/edge0)
+
+---
+
+
+**[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)** NEW
+
+*Published: 2026-09-27*
+
+*Siran Peng, Tianshuo Zhang, Tianyu Fu, Weisong Zhao, Haoyuan Zhang, Jiankuo Zhao, Minghui Wu, Ping Jiang, Xiangyu Zhu, Chenxu Zhao, Zhen Lei*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,292-blue)](https://github.com/PSRben/VisionHOPE)
 
 ---
 
