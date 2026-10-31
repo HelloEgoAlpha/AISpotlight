@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-10-30
+### 2026-10-31
 
-**[TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732)** NEW
+**[WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329)** NEW
 
-*Published: 2026-10-15*
+*Published: 2026-10-22*
 
-*Aaron J. Li, Weijia Xu, Chandan Singh, Zixiao Chen, Jeevana Priya Inala, Charlotte Siska, Acar Tamersoy, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao*
+*Tianming Liang, Junyi Pan, Yuxi Li, Canmiao Fu, Zhipeng Huang, Chong Sun, Chen Li, Jing Lyu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-687-blue)](https://github.com/microsoft/TokenEconomizer)
-
----
-
-
-**[Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729)** NEW
-
-*Published: 2026-10-27*
-
-*Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang, Ji Hou, Jiaqi Li, Yifan Liu, Tao Lu, Junshu Tang, Yu Tang, Yao Teng, Yu Tian, Heng Wang, Weizhi Wang, Xiyao Wang, Xilun Wu, Mingyu Yang, Yangbin Yu, Rui Zhao, Longjun Cao, Linghao Chen, Haoyi Duan, Jiaming Han, Mingji Han, Enhua Jiang, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-361-blue)](https://github.com/Tencent-Hunyuan/Hy-Nomas)
+[![](https://img.shields.io/badge/GitHub%20Stars-461-blue)](https://github.com/Tencent/WeVisOne-VL)
 
 ---
 
 
-**[Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439)** NEW
+**[Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301)** NEW
 
-*Published: 2026-09-27*
+*Published: 2026-10-29*
 
-*EverMind AI*
+*Yunhang Shen, Zhangquan Chen, Xiaotian Li, Zhongpeng Cai, Qing Zhou, Zekai Zhang, Kun Zhang, Zezhong Wu, Jian Hu, Haihan Gao, Heting Gao, Xin Li, Yinsong Liu, Deqian Jiang, Di Yin, Haoyu Cao, Xing Sun, Bing Liu, Yanqiu Qu, Yunfei Wu, Kun Yin, Zhixiang Wei, Yongxiang Hua, Qianyu Li, Xiaoxing Hu, etc.*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-3-red) [![](https://img.shields.io/badge/GitHub%20Stars-5,878-blue)](https://github.com/EverMind-AI/Raven) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063)** NEW
-
-*Published: 2026-09-17*
-
-*Yu Lin, Yiming Wang, Runyuan Cai, Hanze Liu, Xiaodong Zeng*
-
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-7,384-blue)](https://github.com/Edge0-AI/edge0)
+[![](https://img.shields.io/badge/GitHub%20Stars-347-blue)](https://github.com/TencentCloudADP/youtu-parsing/tree/main/youtu_parsing_omni)
 
 ---
 
 
-**[VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325)** NEW
+**[SolarRenderer: Few-Step Generative Reference Rendering](https://huggingface.co/papers/2610.28630)** NEW
 
-*Published: 2026-09-27*
+*Published: 2026-10-20*
 
-*Siran Peng, Tianshuo Zhang, Tianyu Fu, Weisong Zhao, Haoyuan Zhang, Jiankuo Zhao, Minghui Wu, Ping Jiang, Xiangyu Zhu, Chenxu Zhao, Zhen Lei*
+*Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Wang, Yiren Song, Li Jiang, Mike Zheng Shou*
 
-![](https://img.shields.io/badge/Mendeley%20Readers-1-red) [![](https://img.shields.io/badge/GitHub%20Stars-1,292-blue)](https://github.com/PSRben/VisionHOPE)
+[![](https://img.shields.io/badge/GitHub%20Stars-346-blue)](https://github.com/Enderfga/SolarRenderer) ![](https://img.shields.io/badge/Citations-1-9cf)
+
+---
+
+
+**[Has GPT-6-Astra Achieved Embodied Intelligence?](https://huggingface.co/papers/2610.22471)** NEW
+
+*Published: 2026-10-19*
+
+*SenseNova, Joint Research Team, Zhongang Cai, Ziang Cao, Tailai Chen, Han Chong Chua, Linjun Dai, Hanming Deng, Hokin Deng, Haiwen Diao, Chenjing Ding, Weichen Fan, Xiao Fu, Zerui Gong, Chenyang Gu, Zexin He, Zhi Hou, Bo Li, Qinyue Li, Quanzhou Li, Xiaowan Li, Zhichao Liao, Dahua Lin, Zilong Lin, Bo Liu, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-338-blue)](https://github.com/OpenSenseNova/SenseNova-RoboRSI)
+
+---
+
+
+**[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://huggingface.co/papers/2610.26860)** NEW
+
+*Published: 2026-10-19*
+
+*Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng, Mingyang Zhang, Zhen Yang, Ruiyi Zhang, Nanyun Peng, Zhe Gan, Kai-Wei Chang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-323-blue)](https://github.com/uclanlp/OpenVLHarness)
 
 ---
 
