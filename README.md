@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-02
+### 2026-11-03
 
-**[Building Auditable AI Text Detectors with Sparse Autoencoders](https://huggingface.co/papers/2610.30006)** NEW
+**[HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://huggingface.co/papers/2610.40599)** NEW
 
-*Published: 2026-10-21*
+*Published: 2026-10-29*
 
-*Liam Dugan, Callum McDougall, Matthew Denton, Philip Pham, Christine Kaeser-Chen, Chris Callison-Burch*
+*Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou, Yong-Jin Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-275-blue)](https://github.com/google-deepmind/detectorscope)
-
----
-
-
-**[Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players](https://huggingface.co/papers/2610.33845)** NEW
-
-*Published: 2026-10-24*
-
-*Changlian Ma, Limin Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-201-blue)](https://github.com/MCG-NJU/AutoTavern)
+[![](https://img.shields.io/badge/GitHub%20Stars-696-blue)](https://github.com/hyz317/HairDeck)
 
 ---
 
 
-**[DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467)** NEW
+**[Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633)** NEW
 
-*Published: 2026-10-25*
+*Published: 2026-10-29*
 
-*Ruhao Liu, Qi Li, Shizun Wang, Xinchao Wang*
+*Deyuan Liu, Yansen Han, Kaiwen Zheng, Jun Xie, Jiacheng Liu, Zhenglin Cheng, Peng Sun, Jintao Zhang, Jianguo Li, Tao Lin*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/amiya-special/Dynaflow)
-
----
-
-
-**[Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989)** NEW
-
-*Published: 2026-10-21*
-
-*Ruopeng Gao, Yukun Huang, Jiarui Hu, Shuai Wang, Wenbo Hu, Ying Shan, Limin Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-189-blue)](https://github.com/TencentARC/Looking-Ahead)
+[![](https://img.shields.io/badge/GitHub%20Stars-174-blue)](https://github.com/inclusionAI/IDM)
 
 ---
 
 
-**[InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966)** NEW
+**[Cache Engineering for Agents](https://huggingface.co/papers/2610.28577)** NEW
 
-*Published: 2026-10-25*
+*Published: 2026-10-20*
 
-*Qinsi Wang, Wei Wen, Chong Zhou, Saksham Suri, Zechun Liu, Lemeng Wu, Hai Helen Li, Yiran Chen, Raghuraman Krishnamoorthi, Qi Qian*
+*Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li, Tengxuan Liu, Shengxu Mu, Hanling Zhang, Yu Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-175-blue)](https://github.com/facebookresearch/InteractiveWorld)
+[![](https://img.shields.io/badge/GitHub%20Stars-166-blue)](https://github.com/thu-nics/AKV)
+
+---
+
+
+**[MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting](https://huggingface.co/papers/2610.35724)** NEW
+
+*Published: 2026-10-26*
+
+*Shuyun Wang, Shangchen Zhou, Peiqing Yang, Yuekun Dai, Xin Yu, Chen Change Loy*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-157-blue)](https://github.com/Shuyun-Wang/MatAnyone-E)
+
+---
+
+
+**[Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://huggingface.co/papers/2610.38342)** NEW
+
+*Published: 2026-10-28*
+
+*Huangfei Jiang, Anning Hu, Kai Sheng, Yuchen Cai, Rui Ge, Xiangyu Kong, Jianghao Lin, Shuzi Chen, Jiyi Weng, Junchi Yan*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/Prophetlab/Investor-Last-Exam)
 
 ---
 
