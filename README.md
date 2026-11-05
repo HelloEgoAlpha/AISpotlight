@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-04
+### 2026-11-05
 
-**[Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://huggingface.co/papers/2611.01560)** NEW
+**[ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost](https://huggingface.co/papers/2611.02079)** NEW
 
 *Published: 2026-11-01*
 
-*Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang, Kwanyoung Park, Junlin Yang, Tianxiang Zhang, Ruoqu Chen, Yutao Ouyang, Bingxiang He, Xingtai Lv, Hongjin Wu, Jiajun Liu, Jiahao Zhao, Tianwei Luo, Haozhan Li, Cheng Qian, Jiaxin Ge, Huan-ang Gao, Kaisen Yang, Jiaqi Deng, Qixin Xu, Siqiao Huang, Bowen Zhou, Mengdi Xu, etc.*
+*Xingzhi Qian, Sungho Park, Rongyuan Tan, Jianbo Yu, Jue Zhang, Lorenzo Cavallaro, Menglin Xia, Yanzhi Chen, Xinnuo Xu, Yu Kang, Xinran Zheng, Gagan Somashekar, Xuchao Zhang, Chetan Bansal, Qingwei Lin, Victor Rühle*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-127-blue)](https://github.com/Open-RUA/uni-robot-agent)
-
----
-
-
-**[Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859)** NEW
-
-*Published: 2026-10-31*
-
-*Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang, Chuzhi Wang, Jiayang Li, Ruiyang Chen, Chenling Hong, Xu Wang, Zhijie Deng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-104-blue)](https://github.com/SJTU-DENG-Lab/WaveForcing)
+[![](https://img.shields.io/badge/GitHub%20Stars-248-blue)](https://github.com/microsoft/AutoSaddler/tree/feat/paretosaddler)
 
 ---
 
 
-**[CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126)** NEW
+**[SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding](https://huggingface.co/papers/2611.02501)** NEW
 
 *Published: 2026-11-02*
 
-*Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen, Congcong Wang, Shuai Dong, Zelin Peng, Yuqi Xu, Hongrui Wu, Kaiwen Tuo, Cheng Yang, Kaituo Feng, Yifan Wu, Jiayi Zhang, Dongming Wu, Wenqi Shao, Jiaqi Wang, Xiangyu Yue*
+*Kunjun Li, Wenhao Chai, Yihao Liang, Yuezhou Hu, Shuyao Xu, Yi Pan, William X. Zheng, Kannan Ramchandran, Kurt Keutzer, Jiantao Jiao*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-86-blue)](https://github.com/xlyu0106/CUA-Master)
-
----
-
-
-**[CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178)** NEW
-
-*Published: 2026-11-02*
-
-*Jiajie Jin, Guanting Dong, Chengjun Pan, Xin Deng, Zhuohui Sheng, Guoqiang Wang, Tao Gui, Yutao Zhu, Yujia Chen, Shihong Yi, Binze Hu, Zhixiong Yang, Zhichao Sun, Rui Wang, Han Han, Mingyu Ma, Junhao Huang, Xiaotao Wang, Huicheng Jiang, Yuyang Hu, Xinyu Yang, Wanghan Xu, Yajie Yang, Zhecan Wang, Honglin Guo, etc.*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-81-blue)](https://github.com/RUC-NLPIR/CoworkOS)
+[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/StargazerX0/SpecPilot)
 
 ---
 
 
-**[F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation](https://huggingface.co/papers/2610.31623)** NEW
+**[Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)** NEW
 
-*Published: 2026-10-22*
+*Published: 2026-10-19*
 
-*Jinyu Zhang, Haitao Lin, Jiashu Hou, Xiangyang Xue, Yanwei Fu*
+*Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-123-blue)](https://github.com/jrryzh/F2G-Pose)
+[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ZiiJianLiu/Omni-Woodpecker)
+
+---
+
+
+**[What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](https://huggingface.co/papers/2610.34491)** NEW
+
+*Published: 2026-10-25*
+
+*Kaiser Sun, Yongchan Kwon, Zain Hasan, Shang Zhu, Kaitlyn Zhou, Federico Bianchi*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/KaiserWhoLearns/ReasoningEffortLLM)
+
+---
+
+
+**[VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step](https://huggingface.co/papers/2610.40727)** NEW
+
+*Published: 2026-10-29*
+
+*Arbaz Siddiqui*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/arbazsiddiqui/voxlock)
 
 ---
 
