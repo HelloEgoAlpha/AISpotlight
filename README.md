@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-05
+### 2026-11-06
 
-**[ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost](https://huggingface.co/papers/2611.02079)** NEW
+**[PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data](https://huggingface.co/papers/2611.05320)** NEW
 
-*Published: 2026-11-01*
+*Published: 2026-11-03*
 
-*Xingzhi Qian, Sungho Park, Rongyuan Tan, Jianbo Yu, Jue Zhang, Lorenzo Cavallaro, Menglin Xia, Yanzhi Chen, Xinnuo Xu, Yu Kang, Xinran Zheng, Gagan Somashekar, Xuchao Zhang, Chetan Bansal, Qingwei Lin, Victor Rühle*
+*Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan, Ruiyang Si, Chuanrui Zhang, Yuxuan Chen, Hao Chen, Yichen Liu, Yintianrun Zhang, Yufan Deng, Enze Xie, Daquan Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-248-blue)](https://github.com/microsoft/AutoSaddler/tree/feat/paretosaddler)
+[![](https://img.shields.io/badge/GitHub%20Stars-199-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/DataFarm)
 
 ---
 
 
-**[SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding](https://huggingface.co/papers/2611.02501)** NEW
+**[Solv3R: 3D Looped Transformer as a Multi-view Solver](https://huggingface.co/papers/2611.02857)** NEW
 
 *Published: 2026-11-02*
 
-*Kunjun Li, Wenhao Chai, Yihao Liang, Yuezhou Hu, Shuyao Xu, Yi Pan, William X. Zheng, Kannan Ramchandran, Kurt Keutzer, Jiantao Jiao*
+*Jeong-gi Kwak, Andrea Tagliasacchi, Sho Kagami, Yuki Ono, Kwang Moo Yi*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-107-blue)](https://github.com/StargazerX0/SpecPilot)
-
----
-
-
-**[Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)** NEW
-
-*Published: 2026-10-19*
-
-*Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ZiiJianLiu/Omni-Woodpecker)
+[![](https://img.shields.io/badge/GitHub%20Stars-112-blue)](https://github.com/ubc-vision/solv3r)
 
 ---
 
 
-**[What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents](https://huggingface.co/papers/2610.34491)** NEW
+**[Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728)** NEW
 
-*Published: 2026-10-25*
+*Published: 2026-11-04*
 
-*Kaiser Sun, Yongchan Kwon, Zain Hasan, Shang Zhu, Kaitlyn Zhou, Federico Bianchi*
+*Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao, Hongrui Wu, Haowen Hou, Yongfu Zhu, Xuehui Wang, Ziyue Wang, Wenpu Liu, Weichu Xie, Yuqi Xu, Congcong Wang, Kaiwen Tuo, Caoyuan Ma, Taiqiang Wu, Ji Zhao, Wenzheng Chang, Dianyi Wang, Siyuan Wang, Zhongyu Wei, Yu Qiao, Jiaqi Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-103-blue)](https://github.com/KaiserWhoLearns/ReasoningEffortLLM)
+[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/XD111ds/turn-wise-rl)
 
 ---
 
 
-**[VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step](https://huggingface.co/papers/2610.40727)** NEW
+**[VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation](https://huggingface.co/papers/2611.06796)** NEW
 
-*Published: 2026-10-29*
+*Published: 2026-11-04*
 
-*Arbaz Siddiqui*
+*Yihong Luo, Tianyu Pang, Tianyang Hu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-91-blue)](https://github.com/arbazsiddiqui/voxlock)
+[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/Luo-Yihong/VA-TDM)
+
+---
+
+
+**[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://huggingface.co/papers/2611.03634)** NEW
+
+*Published: 2026-11-02*
+
+*Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongshen Peng, Fengqing Jiang, Hao Cheng, Haoqing Wang, Jiaming Shan, Jicheng Wang, Jingguang Zhou, Jixuan He, Kaide Zeng, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/aiming-lab/WebHarbor) ![](https://img.shields.io/badge/Citations-1-9cf)
 
 ---
 
