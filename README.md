@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-08
+### 2026-11-09
 
-**[VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents](https://huggingface.co/papers/2611.04894)** NEW
-
-*Published: 2026-11-03*
-
-*ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang, Yunyao Yu, Hangrui Xu, Cheng Cheng, Guiyu Ma, Jin Zhang, Xingzhong Xu, Kai Yang, Haoqian Wang*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-58-blue)](https://github.com/antins-labs/VisSearch-Bench-v1)
-
----
-
-
-**[Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277)** NEW
+**[Axion 1.0: Open Agent Foundation Models, Simplified](https://huggingface.co/papers/2611.03233)** NEW
 
 *Published: 2026-11-03*
 
-*Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao, Jiachen Zhu, Rong Shan, Shijian Wang, Hao Wang, Yuan Lu, Weiwen Liu, Weinan Zhang*
+*Yuqi Jia, Yunjie Tian, Jiayu Zheng, Yijun Liang, Jingchen Sun, Mengyu Zhao, Di Fu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/DeepExperience/Harness-S)
-
----
-
-
-**[PhotoGuider: Composition-Aware Cropping and 360$^{\circ}$ View Framing with Explainable Photographic Assessments](https://huggingface.co/papers/2611.02897)** NEW
-
-*Published: 2026-11-02*
-
-*Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, Yu-Lun Liu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/NTUneillee/PhotoGuider)
+[![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/bytedance/axion1_0)
 
 ---
 
 
-**[Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302)** NEW
+**[Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](https://huggingface.co/papers/2611.04760)** NEW
 
-*Published: 2026-10-29*
+*Published: 2026-11-03*
 
-*Randall Balestriero, Yann LeCun*
+*Raz Marshanski, Liran Nochumsohn, Mayank Jauhari, Boris N. Oreshkin, Omri Azencot*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/galilai-group/prh-proof)
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/azencot-group/KGO)
 
 ---
 
 
-**[FLORA: An Open Model Suite for Scaling Robotics Data Engines](https://huggingface.co/papers/2610.31779)** NEW
+**[Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927)** NEW
 
-*Published: 2026-10-22*
+*Published: 2026-10-21*
 
-*Sicong Leng, Yunze Man, Zhiqi Li, Jing Wang, Yuhe Zhang, Ryan Punamiya, Siddharth Patki, Kaiyuan Zheng, Zi-ang Cao, Zhiding Yu, Sifei Liu, Danfei Xu, Ben Levin, Jan Kautz, Yuke Zhu, Johan Bjorck, Linxi "Jim" Fan*
+*Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen, Huan Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/NVIDIA/Flora)
+[![](https://img.shields.io/badge/GitHub%20Stars-117-blue)](https://github.com/ASTRAL-Group/benchmark-difficulty-measure)
+
+---
+
+
+**[Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models](https://huggingface.co/papers/2610.35138)** NEW
+
+*Published: 2026-10-26*
+
+*Xilin Wei, Shengyuan Ding, Xinyu Fang, Tiancheng Gu, Yuchi Wang, Zhixun Li, Ziyu Liu, Yuhang Zang, Weixiang Yu, Cheng Lu, Chonggao Sun, Tong Zhou, Dahua Lin, Hang Zhang, Shuai Bai, Dayiheng Liu*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-115-blue)](https://github.com/Wiselnn570/Co-Design-Bench)
+
+---
+
+
+**[Multi-Token Prediction Done Right](https://huggingface.co/papers/2610.38331)** NEW
+
+*Published: 2026-10-28*
+
+*Jayden Teoh*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-96-blue)](https://github.com/JaydenTeoh/Soft-MTP)
 
 ---
 
