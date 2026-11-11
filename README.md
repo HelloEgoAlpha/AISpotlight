@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-10
+### 2026-11-11
 
-**[Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](https://huggingface.co/papers/2611.06043)** NEW
+**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)** NEW
 
-*Published: 2026-11-04*
+*Published: 2026-11-06*
 
-*Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li, Qiao Cheng, Yitao Duan*
+*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-873-blue)](https://github.com/netease-youdao/Confucius4-R2T2)
-
----
-
-
-**[Beneath the Surface: What We Overlook When We Talk About Agent Evolution](https://huggingface.co/papers/2611.07624)** NEW
-
-*Published: 2026-11-05*
-
-*Xiaobo Wang, Zimu Wang, Siyu Ye, Jiaqi Li, Min Tang, Jun Bai, Yuling Shi, Ruobing Wang, Jingjing Zhang, Chaofan Wang, Kai Wu, Mengnan Qi, Kai Cai, Xiaodong Gu, Qi Liu, Zilong Zheng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-349-blue)](https://github.com/simple-agent-lab/RSIHub)
+[![](https://img.shields.io/badge/GitHub%20Stars-41,349-blue)](https://github.com/facebookresearch/faiss)
 
 ---
 
 
-**[AgentBaton: Efficient Model Collaboration in Agentic Tasks](https://huggingface.co/papers/2610.35959)** NEW
+**[InstantHMR : Real-Time Human Mesh Recovery on Your Phone](https://huggingface.co/papers/2611.09195)** NEW
 
-*Published: 2026-10-25*
+*Published: 2026-11-06*
 
-*Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye, Wonmin Byeon, Peter Belcak, Hao Zhang, Pavlo Molchanov*
+*Mohamed Adjel, Kahina Chalabi, Vincent Bonnet*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-1,713-blue)](https://github.com/kyegomez/awesome-multi-agent-papers)
-
----
-
-
-**[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264)** NEW
-
-*Published: 2026-11-05*
-
-*Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong, Junta Wu, Xiaowei Zhou, Hujun Bao, Tengfei Wang, Chunchao Guo, Sida Peng*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-93-blue)](https://github.com/zju3dv/SplatAnything)
+[![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/Naturalpad-studio/InstantHMR)
 
 ---
 
 
-**[TaoMate-FVSR:Audio-Guided Facial Video Restoration](https://huggingface.co/papers/2611.03393)** NEW
+**[WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771)** NEW
 
-*Published: 2026-11-02*
+*Published: 2026-11-07*
 
-*Xinyang Li, Zeran Xu, Qijun Gan, Chenwei Zhang, Meiguang Jin, Junfeng Ma*
+*Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao, Weijia Zhang, Yeying Jin, Truong Nguyen, Haitian Zheng, Zhifei Zhang, Jianfei Yang, Ming-Hsuan Yang, Felix Heide, Wei Xiong, Enze Xie, Wanhua Li*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/TaoLiveAIGC/TaoMate-FVSR)
+[![](https://img.shields.io/badge/GitHub%20Stars-342-blue)](https://github.com/OpenEnvision/WorldFoundry)
+
+---
+
+
+**[PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://huggingface.co/papers/2611.08969)** NEW
+
+*Published: 2026-11-06*
+
+*Yanlong Chen, Simone Benatti, Luca Benini, Cuntai Guan, Yawei Li*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/ForeverBlue816/PhysioWave)
+
+---
+
+
+**[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806)** NEW
+
+*Published: 2026-11-09*
+
+*Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia, Fangjing Wang, Kecheng Zheng, Yiming Zhang, Yanhong Zeng, Xiaoqing Zhang, Chen Song, Rundong Zou, Anqi Dong, Yuan Guan, Ka Leong Cheng, Xing Zhu, Yujun Shen, Nan Xue, Wei Ning*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-138-blue)](https://github.com/Robbyant/lingbot-touch)
 
 ---
 
