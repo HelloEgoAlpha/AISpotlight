@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-11
+### 2026-11-12
 
-**[e-means: outperforming k-means (in one-tenth the epochs)](https://huggingface.co/papers/2611.09501)** NEW
+**[Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)** NEW
 
-*Published: 2026-11-06*
+*Published: 2026-11-10*
 
-*Swann Bessa, Pierre-Emmanuel Mazaré, Gergely Szilvasy, Hugo Touvron, David Picard, Matthijs Douze, Hervé Jégou*
+*Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-41,349-blue)](https://github.com/facebookresearch/faiss)
-
----
-
-
-**[InstantHMR : Real-Time Human Mesh Recovery on Your Phone](https://huggingface.co/papers/2611.09195)** NEW
-
-*Published: 2026-11-06*
-
-*Mohamed Adjel, Kahina Chalabi, Vincent Bonnet*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-355-blue)](https://github.com/Naturalpad-studio/InstantHMR)
+[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
 
 ---
 
 
-**[WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771)** NEW
-
-*Published: 2026-11-07*
-
-*Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao, Weijia Zhang, Yeying Jin, Truong Nguyen, Haitian Zheng, Zhifei Zhang, Jianfei Yang, Ming-Hsuan Yang, Felix Heide, Wei Xiong, Enze Xie, Wanhua Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-342-blue)](https://github.com/OpenEnvision/WorldFoundry)
-
----
-
-
-**[PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals](https://huggingface.co/papers/2611.08969)** NEW
-
-*Published: 2026-11-06*
-
-*Yanlong Chen, Simone Benatti, Luca Benini, Cuntai Guan, Yawei Li*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-216-blue)](https://github.com/ForeverBlue816/PhysioWave)
-
----
-
-
-**[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806)** NEW
+**[Embodied First Exam](https://huggingface.co/papers/2611.12177)** NEW
 
 *Published: 2026-11-09*
 
-*Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia, Fangjing Wang, Kecheng Zheng, Yiming Zhang, Yanhong Zeng, Xiaoqing Zhang, Chen Song, Rundong Zou, Anqi Dong, Yuan Guan, Ka Leong Cheng, Xing Zhu, Yujun Shen, Nan Xue, Wei Ning*
+*Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Hou, Qi Zhu, Han Liu, Eric P. Xing, Huaxiu Yao, Zhiwen Fan, Yuejiang Liu, Dawn Song, Pieter Abbeel, Li Fei-Fei, etc.*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-138-blue)](https://github.com/Robbyant/lingbot-touch)
+[![](https://img.shields.io/badge/GitHub%20Stars-259-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+
+---
+
+
+**[ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://huggingface.co/papers/2611.05036)** NEW
+
+*Published: 2026-11-03*
+
+*Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/dongguanting/ToolSpace)
+
+---
+
+
+**[Flide: Accelerating Decision Inference with Exact State Forking](https://huggingface.co/papers/2610.42148)** NEW
+
+*Published: 2026-10-30*
+
+*Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-386-blue)](https://github.com/OmniJev/Flide)
+
+---
+
+
+**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)** NEW
+
+*Published: 2026-11-07*
+
+*Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/huawei-csl/MACaQ)
 
 ---
 
