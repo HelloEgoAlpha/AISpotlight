@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-12
+### 2026-11-13
 
-**[Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)** NEW
+**[TorchCurves: Differentiable Parametric Curves](https://huggingface.co/papers/2611.14516)** NEW
 
 *Published: 2026-11-10*
 
-*Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen, Yaole Wang, Ming Lin, Tao Lin, Jianfei Chen, Jun Zhu, Jintao Zhang*
+*Alex Shtoff*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-523-blue)](https://github.com/shengshu-ai/Vidu-S)
+[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/alexshtf/torchcurves)
 
 ---
 
 
-**[Embodied First Exam](https://huggingface.co/papers/2611.12177)** NEW
+**[World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885)** NEW
 
 *Published: 2026-11-09*
 
-*Kangrui Wang, Qineng Wang, Changhe Chen, Pingyue Zhang, Chi Gui, Feishi Wang, Canyu Chen, Wenli Xiao, Xiaoyu Huang, Tonghe Zhang, Linjie Li, Zihan Wang, Minyeong Kim, Yiyou Sun, Mingkai Deng, Jinyu Hou, Qi Zhu, Han Liu, Eric P. Xing, Huaxiu Yao, Zhiwen Fan, Yuejiang Liu, Dawn Song, Pieter Abbeel, Li Fei-Fei, etc.*
+*Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-259-blue)](https://github.com/mll-lab-nu/embodied-first-exam)
+[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/ArcheOne-AI/RoboScript)
 
 ---
 
 
-**[ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://huggingface.co/papers/2611.05036)** NEW
+**[VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing](https://huggingface.co/papers/2611.03404)** NEW
+
+*Published: 2026-11-02*
+
+*Yexin Liu, Yunlong Lin, Zehan Wang, Guangxin He, Xinli Xu, Jiajun Zha, Yaofu Liu, Yueze Wang, Bowen Ping, Yuanming Li, Amie Wang, Bernard Ghanem, Bing Li, Harry Yang*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/LAW1223/VidDub)
+
+---
+
+
+**[NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers](https://huggingface.co/papers/2611.05648)** NEW
 
 *Published: 2026-11-03*
 
-*Guanting Dong, Zhichao Sun, Xinyu Yang, Rui Wang, Xin Deng, Jiajie Jin, Zhixiong Yang, Junhao Huang, Han Han, Mingyu Ma, Xiaotao Wang, Yuyang Hu, Xiaoshuai Song, Xiaoxi Li, Jiejun Tan, Zhecan Wang, Shihan Dou, Honglin Guo, Zhiheng Xi, Tao Gui, Tao Ji, Qi Zhang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou*
+*Dar-Yen Chen, Yi-Zhe Song*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-98-blue)](https://github.com/dongguanting/ToolSpace)
-
----
-
-
-**[Flide: Accelerating Decision Inference with Exact State Forking](https://huggingface.co/papers/2610.42148)** NEW
-
-*Published: 2026-10-30*
-
-*Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-386-blue)](https://github.com/OmniJev/Flide)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/ChenDarYen/NitroFusion2)
 
 ---
 
 
-**[MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)** NEW
+**[The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://huggingface.co/papers/2611.10866)** NEW
 
 *Published: 2026-11-07*
 
-*Lorenz K. Muller, Philippe Bich, Chiara Boretti, Hyun-Min Chang, Jiawei Zhuang, Lukas Cavigelli*
+*Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, Mengye Ren*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/huawei-csl/MACaQ)
+[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
 
 ---
 
