@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-13
+### 2026-11-14
 
-**[TorchCurves: Differentiable Parametric Curves](https://huggingface.co/papers/2611.14516)** NEW
+**[Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](https://huggingface.co/papers/2611.08318)** NEW
 
-*Published: 2026-11-10*
+*Published: 2026-11-05*
 
-*Alex Shtoff*
+*Wenbo Huang, Jianxin Bi, Shunyu Yang, Ruiyang Si, Rui Ni, Qiang Wang, Shulong Jiang, Yintianrun Zhang, Feixiang Ruan, Kewei Zhang, Ye Huang, Shukai Gong, Daquan Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-72-blue)](https://github.com/alexshtf/torchcurves)
-
----
-
-
-**[World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885)** NEW
-
-*Published: 2026-11-09*
-
-*Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-67-blue)](https://github.com/ArcheOne-AI/RoboScript)
+[![](https://img.shields.io/badge/GitHub%20Stars-250-blue)](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge) ![](https://img.shields.io/badge/Citations-2-9cf)
 
 ---
 
 
-**[VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing](https://huggingface.co/papers/2611.03404)** NEW
+**[Video-Coder: Reinforcing Agentic Coding for Video Generation](https://huggingface.co/papers/2611.09894)** NEW
 
-*Published: 2026-11-02*
+*Published: 2026-11-06*
 
-*Yexin Liu, Yunlong Lin, Zehan Wang, Guangxin He, Xinli Xu, Jiajun Zha, Yaofu Liu, Yueze Wang, Bowen Ping, Yuanming Li, Amie Wang, Bernard Ghanem, Bing Li, Harry Yang*
+*Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang Chen, Yiyang Zhou, Huaxiu Yao, Yong Jae Lee, Radu Timofte, Yuzhang Shang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/LAW1223/VidDub)
-
----
-
-
-**[NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers](https://huggingface.co/papers/2611.05648)** NEW
-
-*Published: 2026-11-03*
-
-*Dar-Yen Chen, Yi-Zhe Song*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/ChenDarYen/NitroFusion2)
+[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/CYWang735/Video-Coder)
 
 ---
 
 
-**[The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://huggingface.co/papers/2611.10866)** NEW
+**[PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](https://huggingface.co/papers/2611.08175)** NEW
 
-*Published: 2026-11-07*
+*Published: 2026-11-05*
 
-*Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, Mengye Ren*
+*Yue Zhang, Jilei Sun, Liqiang Jing, Yijie Wei, Ruohan Yang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-53-blue)](https://github.com/agentic-learning-ai-lab/deleting-weights)
+[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/chip-ai-agent/PCBRouteAgent)
+
+---
+
+
+**[TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](https://huggingface.co/papers/2611.06741)** NEW
+
+*Published: 2026-11-04*
+
+*Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang, Yujin Wang, Hanming Deng, Lewei Lu, Tianfan Xue*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-55-blue)](https://github.com/Lyricccco/tailsteer)
+
+---
+
+
+**[Venus-DefakerOne2: A Vision-Forensics Foundation Model with Broader Coverage](https://huggingface.co/papers/2610.37918)** NEW
+
+*Published: 2026-10-27*
+
+*Chenfan Qu, Yachao Liang, Mingqi Fang, Jiangwei Xie, Zhenming Wang, Baoyue Zhang, Changjiang Jiang, Zheng Chang, Fanli Jin, Xuekang Zhu, Kaiwen Feng, Junchi Li, Weihong Zhang, Haoyue Wang, Chenfeng Zhang, Yinan Xia, Fangming Cui, Dong Fan, Jingjing Liu, Tianyi Zhang, Luobin Chen, Ji-Zhe Zhou, Sheng Li, Wei Wang, Bin Li, etc.*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-116-blue)](https://github.com/inclusionAI/DefakerOne2)
 
 ---
 
