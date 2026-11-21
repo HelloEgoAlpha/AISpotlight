@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-20
+### 2026-11-21
 
-**[PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation](https://huggingface.co/papers/2611.23236)** NEW
+**[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://huggingface.co/papers/2611.26603)** NEW
 
-*Published: 2026-08-26*
+*Published: 2026-11-19*
 
-*Shengxiang Lin, Jiajie Su, Pengyang Zhou, Xiang Chen, Xiaolin Zheng, Feng Tian, Chaochao Chen*
+*Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, Amaël Delaunoy, Stephan R. Richter, Vladlen Koltun*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-156-blue)](https://github.com/Shengxiang-Lin/PGPO)
+[![](https://img.shields.io/badge/GitHub%20Stars-153-blue)](https://github.com/apple-aiml-research/ml-depth-pro-2)
 
 ---
 
 
-**[Code World Model 2.0: Towards Infinite Controllable Video Generation](https://huggingface.co/papers/2611.22925)** NEW
+**[Jeveration: System One Models Now Generate](https://huggingface.co/papers/2611.24738)** NEW
 
 *Published: 2026-11-18*
 
-*Ruoyu Wang, Hao Zhong, Yanming Yang, Jiahao Tian, Lin Liu, Biao Gong, Guoshan Lu, Yiding Tian, Chunhua Shen, Zhenzhong Lan, Chi Zhang*
+*Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-134-blue)](https://github.com/inclusionAI/CodeWorldModel)
-
----
-
-
-**[Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://huggingface.co/papers/2611.24651)** NEW
-
-*Published: 2026-11-18*
-
-*Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen, Xinji Mai, Haowen Gao, Zhuo Zhang, Xuchen Pan, Mengsu Ding, Jiaji Deng, Yuexiang Xie, Xiaoming Qin, Weirui Kuang, Zhaoyang Liu, Yaliang Li, Bolin Ding, Jingren Zhou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-60-blue)](https://github.com/agentscope-ai/Piccolo)
+[![](https://img.shields.io/badge/GitHub%20Stars-57-blue)](https://github.com/Carol-lyh/Jeveration)
 
 ---
 
 
-**[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://huggingface.co/papers/2611.08483)** NEW
+**[Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement](https://huggingface.co/papers/2610.40191)** NEW
 
-*Published: 2026-11-05*
+*Published: 2026-10-29*
 
-*Qile Jiang, George Em Karniadakis*
+*Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran, Siyuan Hu, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Alex Jinpeng Wang, Kevin Qinghong Lin, Mike Zheng Shou, Wei Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/Qile-J/SwarmEvolve)
+[![](https://img.shields.io/badge/GitHub%20Stars-65-blue)](https://github.com/agentic-videogen/awesome-agentic-videogen)
 
 ---
 
 
-**[Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749)** NEW
+**[Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://huggingface.co/papers/2610.41432)** NEW
 
-*Published: 2026-10-23*
+*Published: 2026-10-30*
 
-*Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang, Xiaolin Hu*
+*Haoqing Wang, Xiaoyi Zhang, Sicheng Fan, Zhexin Zhang, Xinjie Zhang, Jiahao Li, Bin Li, Yan Lu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-68-blue)](https://github.com/JusperLee/Falcon)
+[![](https://img.shields.io/badge/GitHub%20Stars-63-blue)](https://github.com/microsoft/Hybrid-Computer-Use)
+
+---
+
+
+**[ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283)** NEW
+
+*Published: 2026-10-25*
+
+*Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen, Hang Wang, Yiwen Zhao, Deyuan Liu, Yutong Li, Mingda Wan, Yuchen Mao, Tao Lin*
+
+![](https://img.shields.io/badge/Mendeley%20Readers-4-red) [![](https://img.shields.io/badge/GitHub%20Stars-61-blue)](https://github.com/yihaohu0118/ChronoReplay)
 
 ---
 
