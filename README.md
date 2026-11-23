@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-22
+### 2026-11-23
 
-**[Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** NEW
-
-*Published: 2026-11-06*
-
-*William Xingxu Chen, Alexi Gladstone, Zeyu Michael Li, Heng Ji, Yilun Du*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-92-blue)](https://github.com/wwillchen/ebr) ![](https://img.shields.io/badge/Citations-1-9cf)
-
----
-
-
-**[LynnReal-Hand: Unlocking World Interaction with Hand Control](https://huggingface.co/papers/2611.21479)** NEW
+**[MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding](https://huggingface.co/papers/2611.20992)** NEW
 
 *Published: 2026-11-16*
 
-*Shaohao Rui, Chaoyang Zhang, Xiaofeng Mao, Weijie Ma*
+*Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Dongfu Yin, Qingsong Wen, Pheng-Ann Heng*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-83-blue)](https://github.com/LynnReal-AI/LynnReal)
+[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/zfkarl/MedJev)
 
 ---
 
 
-**[InclusionMed: Benchmarking AI for Inclusive Healthcare](https://huggingface.co/papers/2611.21218)** NEW
+**[FastFrames: Video Generation at Interactive Latency](https://huggingface.co/papers/2611.23226)** NEW
+
+*Published: 2026-11-17*
+
+*Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/apple-aiml-research/ml-fastframes)
+
+---
+
+
+**[Weight-Space Programming Doesn't Need Transformers](https://huggingface.co/papers/2611.22055)** NEW
+
+*Published: 2026-11-17*
+
+*Hyunjong Ok, Jaeho Lee*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/effl-lab/Weight-Space-Programming)
+
+---
+
+
+**[ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](https://huggingface.co/papers/2611.21099)** NEW
 
 *Published: 2026-11-16*
 
-*InclusionMed Collaboration*
+*Ke Sun, Kevin Yuchen Ma, Yike Zhang, Yanzhe Chen, Mike Zheng Shou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-73-blue)](https://github.com/panuvi/inclusionmed)
-
----
-
-
-**[FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning](https://huggingface.co/papers/2611.08240)** NEW
-
-*Published: 2026-11-05*
-
-*Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu, Peiyan Hu, Tailin Wu*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/EDAPINENUT/fewsteprl-sd35)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/showlab/ForceHarness)
 
 ---
 
 
-**[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://huggingface.co/papers/2611.26409)** NEW
+**[Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE](https://huggingface.co/papers/2610.27598)** NEW
 
-*Published: 2026-11-19*
+*Published: 2026-10-20*
 
-*Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang, Zijie Xin, Zhan Liu, Li Li, Jinchang Xu, Fengyun Rao, Chao Zhang, Jing Lyu*
+*Ermo Hua, Xiangyu Hong, Baiting Wu, Che Jiang, Haozheng Hou, Yicheng Gu, Hanjing Wang, Qirui Zeng, Ming Zhang, Ning Ding, Qipeng Guo, Youbang Sun, Biqing Qi, Bowen Zhou*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/Tencent/WeMM-Video)
+[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/InternLM/Intern-S2-Mobius)
 
 ---
 
