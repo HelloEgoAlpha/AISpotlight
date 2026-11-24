@@ -11,59 +11,59 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 
 
 
-### 2026-11-23
+### 2026-11-24
 
-**[MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding](https://huggingface.co/papers/2611.20992)** NEW
+**[Clover-35B-A3B-Preview Technical Report](https://huggingface.co/papers/2611.24636)** NEW
+
+*Published: 2026-11-18*
+
+*DiffuSpace Technical Team*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-163-blue)](https://github.com/DiffuSpace/Clover-35B-A3B-Preview)
+
+---
+
+
+**[ALIVE: Making Streaming Video Models Interactive](https://huggingface.co/papers/2611.21366)** NEW
 
 *Published: 2026-11-16*
 
-*Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian, Dongfu Yin, Qingsong Wen, Pheng-Ann Heng*
+*Jinzhao Li, Yuan Xu, Jinxuan Wu, Yukun Wang, Yijia Lei, Hanyu Ji, Yinuo Chen, Zining Huang, Chi Zhang, Hang Ye, Yiwu Zhong, Honglei Yan, Panwang Pan, Yizhou Wang, Yin Li, Miao Liu*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-170-blue)](https://github.com/zfkarl/MedJev)
-
----
-
-
-**[FastFrames: Video Generation at Interactive Latency](https://huggingface.co/papers/2611.23226)** NEW
-
-*Published: 2026-11-17*
-
-*Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-136-blue)](https://github.com/apple-aiml-research/ml-fastframes)
+[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/lijinzhao30/ALIVE)
 
 ---
 
 
-**[Weight-Space Programming Doesn't Need Transformers](https://huggingface.co/papers/2611.22055)** NEW
+**[AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark](https://huggingface.co/papers/2610.31466)** NEW
 
-*Published: 2026-11-17*
+*Published: 2026-10-22*
 
-*Hyunjong Ok, Jaeho Lee*
+*Ruicong Liu, Liangyang Ouyang, Fengbo Lan, Zhixiang Wang, Kaipeng Zhang*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-51-blue)](https://github.com/effl-lab/Weight-Space-Programming)
-
----
-
-
-**[ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](https://huggingface.co/papers/2611.21099)** NEW
-
-*Published: 2026-11-16*
-
-*Ke Sun, Kevin Yuchen Ma, Yike Zhang, Yanzhe Chen, Mike Zheng Shou*
-
-[![](https://img.shields.io/badge/GitHub%20Stars-50-blue)](https://github.com/showlab/ForceHarness)
+[![](https://img.shields.io/badge/GitHub%20Stars-56-blue)](https://github.com/AlayaLab/AnyGameRenderer)
 
 ---
 
 
-**[Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE](https://huggingface.co/papers/2610.27598)** NEW
+**[Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](https://huggingface.co/papers/2610.30755)** NEW
 
-*Published: 2026-10-20*
+*Published: 2026-10-22*
 
-*Ermo Hua, Xiangyu Hong, Baiting Wu, Che Jiang, Haozheng Hou, Yicheng Gu, Hanjing Wang, Qirui Zeng, Ming Zhang, Ning Ding, Qipeng Guo, Youbang Sun, Biqing Qi, Bowen Zhou*
+*Zhengye Bao, Shengtao Zhang, Haokai Zhang, Shiqi Lou, Muning Wen, Minnan Luo*
 
-[![](https://img.shields.io/badge/GitHub%20Stars-59-blue)](https://github.com/InternLM/Intern-S2-Mobius)
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/Litmeb/RAW-RAG)
+
+---
+
+
+**[Supervising the Visible State: Separating Representation from View Selection in Streaming Video](https://huggingface.co/papers/2610.34926)** NEW
+
+*Published: 2026-10-26*
+
+*Yihao Hu, Pan Wang, Yitong Lin, Zhihao Wen, Deyuan Liu, Hang Wang, Mingda Wan, Yiwen Zhao, Yutong Li, Yuchen Mao, Tao Lin*
+
+[![](https://img.shields.io/badge/GitHub%20Stars-54-blue)](https://github.com/yihaohu0118/ViSS)
 
 ---
 
